@@ -539,8 +539,6 @@ http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 https://aldirect.hls.huya.com/backsrc/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.jueze.net/product/gb/UploadFiles/201432004441276.jpg" group-title="虎牙战旗电影",大宅门
 http://aldirect.hls.huya.com/huyalive/30765679-2503194318-10751137731343024128-3048959684-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="http://image11.m1905.cn/uploadfile/2014/0709/20140709020928729208.jpg" group-title="虎牙战旗电影",1905电影网
-https://m.huya.com/1219911758-1219911758-5239481104615866368-2399031698140-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://a.hiphotos.baidu.com/zhidao/pic/item/43a7d933c895d143b5fd196b78f082025baf07ea.jpg" tvg-name="11342412" group-title="虎牙战旗电影",爆笑虫子
 http://tx.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2157213526,1079308947&fm=26&gp=0.jpg" group-title="虎牙战旗电影",周星驰
@@ -557,21 +555,25 @@ http://aldirect.hls.huya.com/backsrc/94525224-2583571962-11096357083652554752-35
 http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=827853889,3186941596&fm=26&gp=0.jpg" group-title="虎牙战旗电影",纪晓岚
 http://aldirect.hls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg" tvg-name="11336726" group-title="虎牙战旗电影",武林萌主唐小姐-女-2M
+#EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=3246231543,832307483&fm=11&gp=0.jpg" tvg-name="11336726" group-title="虎牙战旗电影",爱情公寓
 http://aldirect.hls.huya.com/backsrc/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://i-7.vcimg.com/trim/f4fecb7cf8fbf072641378c42527e722420609/trim.jpg" tvg-name="11352915" group-title="虎牙战旗电影",武林外传
 http://aldirect.hls.huya.com/huyalive/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/5b/401b693bfad319a15519690c508375_180_135.jpg" tvg-name="11342385" group-title="虎牙战旗电影",薛教授-女-2M
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/5b/401b693bfad319a15519690c508375_180_135.jpg" tvg-name="11342385" group-title="虎牙战旗电影",薛教授
 http://aldirect.hls.huya.com/backsrc/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://i0.hdslb.com/bfs/archive/9e61efe6f3f49166dc3b315d2ad4b8c734d286fa.jpg" tvg-name="11352944" group-title="虎牙战旗电影",新三国
 http://aldirect.hls.huya.com/backsrc/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg" tvg-name="17269326" group-title="虎牙战旗电影",狗哥吃火锅-男-4M
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1864622380,4010835423&fm=26&gp=0.jpg" tvg-name="11352944" group-title="虎牙战旗电影",封神榜
+https://tx.hls.huya.com/src/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg" tvg-name="17269326" group-title="虎牙战旗电影",狗哥吃火锅
 http://aldirect.hls.huya.com/huyalive/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/2e/2e97b2bc3bce57dfced78cc6885a57_180_135.jpg" tvg-name="11601972" group-title="虎牙战旗电影",苏仨-女-2M
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2133039028,1780153595&fm=26&gp=0.jpg" tvg-name="11601972" group-title="虎牙战旗电影",奔跑吧兄弟
 http://aldirect.hls.huya.com/backsrc/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=790437870,1496573955&fm=26&gp=0.jpg" tvg-name="11601972" group-title="虎牙战旗电影",裸婚时代
+https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://n.sinaimg.cn/front/464/w750h514/20190412/orNY-hvntnkr2667885.jpg" tvg-name="11342436" group-title="虎牙战旗电影",综艺向往的生活
 http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg" tvg-name="11601968" group-title="虎牙战旗电影",小公举-女-3M
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=1796685345,2511665183&fm=26&gp=0.jpg" tvg-name="11601968" group-title="虎牙战旗电影",沈腾合集
 http://aldirect.hls.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://res.cjrbapp.cjn.cn/a/10001/201903/406988cb265d13e830993b4f367ea20c.png" tvg-name="11602084" group-title="虎牙战旗电影",都挺好
 http://aldirect.hls.huya.com/huyalive/30765679-2689675904-11552070044519235584-3049003156-10057-A-0-1.m3u8
@@ -581,13 +583,15 @@ http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-28
 http://aldirect.hls.huya.com/backsrc/28466698-2686637732-11539021195139612672-3048959574-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://i1.hdslb.com/bfs/archive/d306b80a54f11195a899b5ec04d20a31a151c743.jpg" tvg-name="11352964" group-title="虎牙战旗电影",科幻动作
 http://aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg" tvg-name="11602087" group-title="虎牙战旗电影",小吃货-女-2M
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1832608451,2982191978&fm=26&gp=0.jpg" tvg-name="11352964" group-title="虎牙战旗电影",指环王
+https://aldirect.hls.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg" tvg-name="11602087" group-title="虎牙战旗电影",小吃货
 http://aldirect.hls.huya.com/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://wx3.sinaimg.cn/wap720/4ab38bd1gy1fx8qyct1spj20r00f6agn.jpg" tvg-name="11352966" group-title="虎牙战旗电影",变形计
 http://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/3c/d850905ce519759fdd06a417bd8200_180_135.jpg" tvg-name="11336571" group-title="虎牙战旗电影",槽老师-女-3M
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/3c/d850905ce519759fdd06a417bd8200_180_135.jpg" tvg-name="11336571" group-title="虎牙战旗电影",槽老师
 http://aldirect.hls.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/f0/d2bea97c07b5f664c9b344e648db6d_180_135.jpg" tvg-name="11352875" group-title="虎牙战旗电影",杀马特死神-女-2M
+#EXTINF:-1 tvg-logo="http://p2.qhimgs4.com/t017d0c2494657497b8.jpg" tvg-name="11352875" group-title="虎牙战旗电影",血染的番号
 http://al.hls.huya.com/backsrc/29359996-2689606170-11551770539269816320-2847687518-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://image13.m1905.cn/uploadfile/2017/0418/thumb_1_630_454_20170418094008331762.jpg" tvg-name="11352949" group-title="虎牙战旗电影",速度与激情
 http://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1.m3u8
@@ -627,13 +631,13 @@ http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://d6.yihaodianimg.com/N00/M0B/0A/B7/CgQCtlNzEUmADbENAASpNWCVUMU97100.jpg" group-title="虎牙战旗电影" ,吴京
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/c7/56c31ad8c79a38ba4f3ce677132789_180_135.jpg" group-title="虎牙战旗电影" ,小怪兽
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1061284096,2499470876&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,葛优
 http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2121928284,1472498002&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,电视剧轮播2
 http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/00/554760c5c97518219da69a4416f381_180_135.jpg" group-title="虎牙战旗电影" ,电影轮播
 http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/cc/58226d8bd91c7fbf9bb797b9c2b110_180_135.jpg" group-title="虎牙战旗电影" ,贝爷荒野频道
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=3071918082,4289744584&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,贝爷荒野频道
 http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=48682069,2321356531&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,春晚小品
 https://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_1200.m3u8
@@ -657,7 +661,7 @@ http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/f3/bbc701d43693262007db7d371741ff_180_135.jpg" group-title="虎牙战旗电影" ,国外
 http://aldirect.hls.huya.com/huyalive/29359996-2689643094-11551929126642253824-2847687582-10057-A-1525505974-1.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/58/9bc4129329b2c25b737556271d725d_180_135.jpg" group-title="虎牙战旗电影" ,柳清茶
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=599210054,1350282899&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,飞车电影 
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/5f/dcacd76c0bb21f85c20df66bdd4a17_180_135.jpg" group-title="虎牙战旗电影" ,好莱坞电影3
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
@@ -679,7 +683,7 @@ http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=2928082117,950511184&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,刘德华
 https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/d2/6001f0fd695a5c370da719a5695f98_180_135.jpg" group-title="虎牙战旗电影" ,女神港片
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=59101915,1420970192&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,邱淑贞张敏王祖贤
 http://aldirect.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1853571915,3650660818&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,舌尖上的中國
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
@@ -693,7 +697,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3
 http://tx.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=197258631,3316266669&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/ea/3e944b23206d98c23e93d3c0f4890b_180_135.jpg" group-title="虎牙战旗电影" ,向阳花
+#EXTINF:-1 tvg-logo="http://n.sinaimg.cn/sinacn09/379/w640h539/20181204/df32-hphsupy0042804.jpg" group-title="虎牙战旗电影" ,动画-草帽小子
 http://aldirect.hls.huya.com/huyalive/29141112-2689666878-11552031278144421888-3049003116-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=1345834979,3122071768&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,徐峥
 https://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
