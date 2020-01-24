@@ -85,6 +85,10 @@ http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" tvg-name=Channel V group-title="台港澳" ,Channel V
 rtmp://58.200.131.2:1935/livetv/channelv
+
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1377142768,3251538085&fm=11&gp=0.jpg" group-title="点播" ,白头山
+https://guihua.feifei-kuyun.com/20200123/29293_46db05d3/index.m3u8
+
 #EXTINF:-1  group-title="点播 " ,返校
 https://mudan.iii-kuyunzy.com/20200116/9701_86d2763f/index.m3u8
 #EXTINF:-1  group-title="点播 " ,1917 HD中字
@@ -533,8 +537,6 @@ https://flv-bdplay.inter.71edge.com/liveugc/rbd_cgxi5ymh.flv
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=4081405461,1265735806&fm=26&gp=0.jpg" tvg-name=澳门莲花 group-title="虎牙战旗电影" ,澳门莲花
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=4081405461,1265735806&fm=26&gp=0.jpg" group-title="虎牙战旗电影" ,澳门莲花
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1058242771,3627026640&fm=11&gp=0.jpg" group-title="虎牙战旗电影",迪士尼
 https://aldirect.hls.huya.com/backsrc/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.jueze.net/product/gb/UploadFiles/201432004441276.jpg" group-title="虎牙战旗电影",大宅门
@@ -1330,8 +1332,6 @@ http://ls.qingting.fm/live/469.m3u8
 http://ls.qingting.fm/live/4847.m3u8
 #EXTINF:-1 tvg-logo=广东故事频道.png tvg-name=广东故事频道 group-title="广播" ,广东故事频道
 http://ctt.rgd.com.cn/storytype=.mp3\"
-#EXTINF:-1 tvg-logo=广东南方生活广播 FM93.6.png tvg-name=广东南方生活广播 FM93.6 group-title="广播" ,广东南方生活广播 FM93.6
-http://113.214.24.158:3000/hls/srdekakt/index.m3u8
 #EXTINF:-1 tvg-logo=广东南方生活广播FM93.6.png tvg-name=广东南方生活广播FM93.6 group-title="广播" ,广东南方生活广播FM93.6
 http://ls.qingting.fm/live/468.m3u8
 #EXTINF:-1 tvg-logo=广东文体广播 FM107.7.png tvg-name=广东文体广播 FM107.7 group-title="广播" ,广东文体广播 FM107.7
