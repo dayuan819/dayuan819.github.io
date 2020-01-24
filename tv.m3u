@@ -108,7 +108,7 @@ https://youku.com-iqiyi.net/20191209/22680_69681e9c/index.m3u8
 #EXTINF:-1  group-title="点播 " ,监狱疑云
 https://hong.tianzhen-zuida.com/20191211/15842_afad2e0e/index.m3u8
 #EXTINF:-1  group-title="点播 " ,两只老虎
-https://you-ku.qingyu-zuida.com/20191223/2086_47f275fd/index.m3u8
+http://cdn-yong.bejingyongjiu.com/20200120/1503_13eee995/index.m3u8
 #EXTINF:-1  group-title="点播 " ,勇敢者游戏2
 https://hong.tianzhen-zuida.com/20191210/15745_8e1104c9/index.m3u8
 #EXTINF:-1  group-title="点播 " ,82年生的金智英
@@ -785,6 +785,26 @@ http://cdn-yong.bejingyongjiu.com/20200117/1257_26d5bbaf/index.m3u8
 http://cdn-yong.bejingyongjiu.com/20200122/1683_642faf30/index.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第16集
 http://cdn-yong.bejingyongjiu.com/20200122/1682_37dcd149/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第01集
+https://dapian.video-yongjiu.com/20190909/10941_bce0260c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第02集
+https://dapian.video-yongjiu.com/20190909/10942_38c25527/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第03集
+https://dapian.video-yongjiu.com/20190909/10943_941aa367/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第04集
+https://dapian.video-yongjiu.com/20190909/10944_123e4286/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第05集
+https://dapian.video-yongjiu.com/20190909/10945_fc8a089c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第06集
+https://dapian.video-yongjiu.com/20190909/10946_400673ed/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第07集
+https://dapian.video-yongjiu.com/20190909/10947_7da6d019/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第08集
+https://dapian.video-yongjiu.com/20190909/10948_107ef667/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第09集
+https://dapian.video-yongjiu.com/20190909/10949_1df01fee/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第10集
+https://dapian.video-yongjiu.com/20190909/10950_39bf3ee6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" group-title="大明风华" ,大明风华第01集
 http://mudan.iii-kuyunzy.com/20191217/6074_933ba0be/index.m3u8
