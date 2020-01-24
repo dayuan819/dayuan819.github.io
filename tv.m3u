@@ -88,7 +88,8 @@ rtmp://58.200.131.2:1935/livetv/channelv
 
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1377142768,3251538085&fm=11&gp=0.jpg" group-title="点播" ,白头山
 https://guihua.feifei-kuyun.com/20200123/29293_46db05d3/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=3563868585,3130520925&fm=11&gp=0.jpg" group-title="点播" ,囧妈
+https://hong.tianzhen-zuida.com/20200125/19217_95dc471d/index.m3u8
 #EXTINF:-1  group-title="点播 " ,返校
 https://mudan.iii-kuyunzy.com/20200116/9701_86d2763f/index.m3u8
 #EXTINF:-1  group-title="点播 " ,1917 HD中字
