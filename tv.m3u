@@ -2889,6 +2889,16 @@ http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
 http://sdjx.chinashadt.com:2035/live/di1.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo=金乡新闻频道.png tvg-name=金乡新闻频道 group-title="地方台" ,金乡新闻频道
 http://sdjx.chinashadt.com:2035/live/di2.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SHAOXIN1.jpg"  group-title="地方台" ,绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1919633157,2121886954&fm=26&gp=0.jpg"  group-title="地方台" ,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1919633157,2121886954&fm=26&gp=0.jpg"  group-title="地方台" ,绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=4258707321,3050537754&fm=26&gp=0.jpg"  group-title="地方台" ,嘉兴文化影视
+http://stream1.jiaxingren.com/whys/sd/live.m3u8
+
+
 #EXTINF:-1 tvg-logo=金鹰纪实.png tvg-name=金鹰纪实 group-title="地方台" ,金鹰纪实
 http://183.215.116.144:6610/180000001001/00000000000000020000000000182315/main.m3u8
 #EXTINF:-1 tvg-logo=晋城公共频道.png tvg-name=晋城公共频道 group-title="地方台" ,晋城公共频道
