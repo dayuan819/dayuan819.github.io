@@ -15,6 +15,8 @@ http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台港澳",年代新闻
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台港澳",年代新闻
+http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台港澳",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中天综合
@@ -61,6 +63,8 @@ http://stream.mastvnet.com/MSTV/SD/live.m3u8
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/pic/item/91ef76c6a7efce1bca90d026a651f3deb58f65a6.jpg" tvg-name=香港卫视 group-title="台港澳" ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/pic/item/91ef76c6a7efce1bca90d026a651f3deb58f65a6.jpg" tvg-name=香港卫视 group-title="台港澳" ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="台港澳",TVB明珠台
 http://116.199.5.51:8114/index.m3u8Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=12&amp;Fsv_rate_id=2&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=.m3u8&amp;Fsv_CMSID=&amp;Fsv_otype=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",TVB翡翠台
@@ -83,12 +87,10 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l
 rtmp://58.200.131.2:1935/livetv/fhzx
 #EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,凤凰资讯
 http://liveali.ifeng.com/live/FHZX.flv
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,年代新闻
-http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,FOX动作电影 HD
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2435459985,4083979066&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,Bloomberg HD 
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3296625489,1705652213&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,CBSN 
+http://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1377142768,3251538085&fm=11&gp=0.jpg" group-title="点播",白头山
 https://guihua.feifei-kuyun.com/20200123/29293_46db05d3/index.m3u8
 #EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=3563868585,3130520925&fm=11&gp=0.jpg" group-title="点播",囧妈
@@ -932,19 +934,51 @@ http://cdn-yong.bejingyongjiu.com/20200120/1511_0d8189dc/index.m3u8
 http://cdn-yong.bejingyongjiu.com/20200121/1622_dc6e43e7/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第60集
 http://cdn-yong.bejingyongjiu.com/20200121/1628_c6c75362/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第01集
-https://videos7.jsyunbf.com/20191219/p7bsSdmK/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第02集
-https://videos7.jsyunbf.com/20191219/yYj6xYsG/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第03集
-https://videos7.jsyunbf.com/20191219/unDFnmgC/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第04集
-https://videos7.jsyunbf.com/20191219/pk85468Q/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第05集
-https://mudan.iii-kuyunzy.com/20200102/8232_e0eb0e64/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第06集
-https://mudan.iii-kuyunzy.com/20200109/8978_7de2770b/index.m3u8
-#EXTINF:-1  group-title="美剧" ,維京傳奇第六季第07集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第01集
+https://gaoqing.bibi-baidu.com/20190528/193_12ce72f9/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第02集
+https://gaoqing.bibi-baidu.com/20190528/206_35108bd3/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第03集
+https://gaoqing.bibi-baidu.com/20190530/387_276e5f7a/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第04集
+https://gaoqing.bibi-baidu.com/20190530/388_87bd93ef/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第05集
+https://gaoqing.bibi-baidu.com/20190530/389_1724be3c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第06集
+https://gaoqing.bibi-baidu.com/20190530/390_a7efafb4/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第01集
+http://cdn-yong.bejingyongjiu.com/20200118/1358_527b9730/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第02集
+http://cdn-yong.bejingyongjiu.com/20200118/1359_c34b0acf/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第03集
+http://cdn-yong.bejingyongjiu.com/20200118/1360_4cc58c41/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第04集
+http://cdn-yong.bejingyongjiu.com/20200118/1361_008f8880/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第05集
+http://cdn-yong.bejingyongjiu.com/20200118/1362_3bbc99ae/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第06集
+http://cdn-yong.bejingyongjiu.com/20200118/1363_902851fe/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第07集
+http://cdn-yong.bejingyongjiu.com/20200118/1364_86dca177/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-18/1579346546.jpg" group-title="美剧" ,性爱自修室第二季第08集
+http://cdn-yong.bejingyongjiu.com/20200118/1365_0a2ae26d/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第01集
+https://yingxiong.qiling-yongjiu.com/20191209/15149_3680aedc/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第02集
+https://yingxiong.qiling-yongjiu.com/20191209/15148_2e8d03cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第03集
+https://txxs.mahua-yongjiu.com/20191212/7584_22acabba/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第04集
+https://yingxiong.qiling-yongjiu.com/20191219/16269_8bb3032b/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第05集
+https://txxs.mahua-yongjiu.com/20200102/9698_4b2ad89e/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第06集
+https://txxs.mahua-yongjiu.com/20200109/10356_55e03690/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第07集
+https://txxs.mahua-yongjiu.com/20200116/11051_4010869c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第08集
+https://txxs.mahua-yongjiu.com/20200123/11646_99302376/index.m3u8
+
 https://mudan.iii-kuyunzy.com/20200116/9717_575125c8/index.m3u8
 #EXTINF:-1  group-title="韩剧" ,请回答1988第01集
 http://vs1.baduziyuan.com/20180328/QrOb9PlN/index.m3u8
@@ -1100,6 +1134,13 @@ http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/i
 http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3668766748,1696458259&fm=26&gp=0.jpg" group-title="广播" ,500首华语经典
 http://ls.qingting.fm/live/3412131.m3u8
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=378713399,471903173&fm=26&gp=0.jpg" group-title="广播" ,BBC world service
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1461279525,196533462&fm=26&gp=0.jpg" group-title="广播" ,BBC radio1-48k
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d48000.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1461279525,196533462&fm=26&gp=0.jpg" group-title="广播" ,CNR经典音乐广播101.8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.m3u8
+
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2026915216,4225885314&fm=26&gp=0.jpg" group-title="广播" ,CNR华夏之声
 http://ls.qingting.fm/live/392.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=695130293,1014534822&fm=26&gp=0.jpg" group-title="广播" ,CNR经典音乐广播101.8
