@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="台港澳",NHK华语视界
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-logo=新传媒8频道.png tvg-name=新传媒8频道 group-title="台港澳" ,新传媒8频道
+https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
@@ -9,18 +11,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台港澳",中视
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台港澳",华视
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台港澳",年代新闻
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台港澳",年代新闻
 http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台港澳",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中天综合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台港澳",东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台港澳",东森电影
@@ -51,8 +45,6 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="台港澳",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" tvg-name=星空卫视 group-title="台港澳" ,星空卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 tvg-logo="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=0fe091190f0828387c00d446d9f0c264/08f790529822720e246cd8fc73cb0a46f21fab11.jpg" tvg-name=澳亞衛視 group-title="台港澳" ,澳门卫视
@@ -1134,6 +1126,10 @@ http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/i
 http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3668766748,1696458259&fm=26&gp=0.jpg" group-title="广播" ,500首华语经典
 http://ls.qingting.fm/live/3412131.m3u8
+#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/20140916114510599.png" group-title="广播" ,阳信人民广播电台FM103.4
+http://ls.qingting.fm/live/2915753.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=436106011,2123737208&fm=26&gp=0.jpg" group-title="广播" ,萤火虫网络电台
+http://ls.qingting.fm/live/4998.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=378713399,471903173&fm=26&gp=0.jpg" group-title="广播" ,BBC world service
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1461279525,196533462&fm=26&gp=0.jpg" group-title="广播" ,BBC radio1-48k
@@ -1389,8 +1385,6 @@ http://ls.qingting.fm/live/60286.m3u8
 http://ls.qingting.fm/live/4941.m3u8
 #EXTINF:-1 tvg-logo=广安交通旅游广播.png tvg-name=广安交通旅游广播 group-title="广播" ,广安交通旅游广播
 http://ls.qingting.fm/live/1710917.m3u8
-#EXTINF:-1 tvg-logo=广东HIFI频道.png tvg-name=广东HIFI频道 group-title="广播" ,广东HIFI频道
-http://ctt.rgd.com.cn/hifitype=.mp3\"
 #EXTINF:-1 tvg-logo=广东城市之声SunFM爱车FM103.6.png tvg-name=广东城市之声SunFM爱车FM103.6 group-title="广播" ,广东城市之声SunFM爱车FM103.6
 http://ctt.rgd.com.cn/fm1036type=.mp3
 #EXTINF:-1 tvg-logo=广东房产.png tvg-name=广东房产 group-title="广播" ,广东房产
@@ -1773,38 +1767,24 @@ http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
 https://metroradio-lh.akamaihd.net/i/104_h@349798/index_48_a-p.m3u8
 #EXTINF:-1 tvg-logo=新城电台知讯台997.png tvg-name=新城电台知讯台997 group-title="广播" ,新城电台知讯台997
 https://metroradio-lh.akamaihd.net/i/997_h@349799/index_48_a-b.m3u8
-#EXTINF:-1 tvg-logo=新传媒8频道.png tvg-name=新传媒8频道 group-title="广播" ,新传媒8频道
-https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-logo=新会电台FM98.3.png tvg-name=新会电台FM98.3 group-title="广播" ,新会电台FM98.3
+#EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=3260774248,4122705848&fm=26&gp=0.jpg" group-title="广播" ,新会电台FM98.3
 http://ls.qingting.fm/live/5061.m3u8
-#EXTINF:-1 tvg-logo=新加坡883 Jia FM音乐台.png tvg-name=新加坡883 Jia FM音乐台 group-title="广播" ,新加坡883 Jia FM音乐台
-https://14653.live.streamtheworld.com/883JIA.mp3
-#EXTINF:-1 tvg-logo=新加坡96.3好FM音乐台.png tvg-name=新加坡96.3好FM音乐台 group-title="广播" ,新加坡96.3好FM音乐台
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=1511989959,2350948279&fm=26&gp=0.jpg" group-title="广播" ,新加坡96.3好FM音乐台
 https://20683.live.streamtheworld.com/HAO_963AAC.aac
-#EXTINF:-1 tvg-logo=新加坡Capital 958城市频道.png tvg-name=新加坡Capital 958城市频道 group-title="广播" ,新加坡Capital 958城市频道
-https://17963.live.streamtheworld.com/CAPITAL958FMAAC.aacdist=MPL
-#EXTINF:-1 tvg-logo=新加坡UFM 100.3 FM华语.png tvg-name=新加坡UFM 100.3 FM华语 group-title="广播" ,新加坡UFM 100.3 FM华语
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2716260481,170119395&fm=15&gp=0.jpg" group-title="广播" ,新加坡UFM 100.3 FM华语
 http://20663.live.streamtheworld.com/UFM_1003AAC.aac
-#EXTINF:-1 tvg-logo=新加坡YES 933音乐广播.png tvg-name=新加坡YES 933音乐广播 group-title="广播" ,新加坡YES 933音乐广播
-https://19443.live.streamtheworld.com/YES933AAC.aacdist=MPL
-#EXTINF:-1 tvg-logo=新加坡最爱97.2FM音乐台.png tvg-name=新加坡最爱97.2FM音乐台 group-title="广播" ,新加坡最爱97.2FM音乐台
-https://17963.live.streamtheworld.com/LOVE972FMAAC.aacdist=MPL
 #EXTINF:-1 tvg-logo=新西兰华人之声AM936新超凡.png tvg-name=新西兰华人之声AM936新超凡 group-title="广播" ,新西兰华人之声AM936新超凡
 http://radio.936.nz:8000/am936
 #EXTINF:-1 tvg-logo=新西兰华人之声FM104.2音乐台.png tvg-name=新西兰华人之声FM104.2音乐台 group-title="广播" ,新西兰华人之声FM104.2音乐台
 http://radio.936.nz:8000/fm994
 #EXTINF:-1 tvg-logo=新乡动听电台FM92.5.png tvg-name=新乡动听电台FM92.5 group-title="广播" ,新乡动听电台FM92.5
 http://ls.qingting.fm/live/4410041.m3u8
-#EXTINF:-1 tvg-logo=新乡都市之声 FM101.6.png tvg-name=新乡都市之声 FM101.6 group-title="广播" ,新乡都市之声 FM101.6
-http://store.ovp.wsrtv.com.cn:9091/wsstv/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo=新乡都市之声FM101.6.png tvg-name=新乡都市之声FM101.6 group-title="广播" ,新乡都市之声FM101.6
 http://ls.qingting.fm/live/2975682.m3u8
 #EXTINF:-1 tvg-logo=新乡交通广播FM99.1.png tvg-name=新乡交通广播FM99.1 group-title="广播" ,新乡交通广播FM99.1
 http://ls.qingting.fm/live/1229.m3u8
 #EXTINF:-1 tvg-logo=邢台爱尚986.png tvg-name=邢台爱尚986 group-title="广播" ,邢台爱尚986
 http://ls.qingting.fm/live/2344255.m3u8
-#EXTINF:-1 tvg-logo=邢台音乐广播FM96.8.png tvg-name=邢台音乐广播FM96.8 group-title="广播" ,邢台音乐广播FM96.8
-http://ls.qingting.fm/live/4926000.m3u8
 #EXTINF:-1 tvg-logo=许昌交通广播FM92.6.png tvg-name=许昌交通广播FM92.6 group-title="广播" ,许昌交通广播FM92.6
 http://ls.qingting.fm/live/3126629.m3u8
 #EXTINF:-1 tvg-logo=许昌新闻广播FM102.png tvg-name=许昌新闻广播FM102 group-title="广播" ,许昌新闻广播FM102
@@ -1821,39 +1801,15 @@ http://ls.qingting.fm/live/4312411.m3u8
 http://ls.qingting.fm/live/2804.m3u8
 #EXTINF:-1 tvg-logo=扬州流行音乐广播.png tvg-name=扬州流行音乐广播 group-title="广播" ,扬州流行音乐广播
 http://ls.qingting.fm/live/2805.m3u8
-#EXTINF:-1 tvg-logo=扬州新闻广播.png tvg-name=扬州新闻广播 group-title="广播" ,扬州新闻广播
-http://ls.qingting.fm/live/5000.m3u8aac\"
-#EXTINF:-1 tvg-logo=阳泉交通广播.png tvg-name=阳泉交通广播 group-title="广播" ,阳泉交通广播
-http://dslive.grtn.cn/yjzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo=阳泉新闻综合广播.png tvg-name=阳泉新闻综合广播 group-title="广播" ,阳泉新闻综合广播
 http://ls.qingting.fm/live/4592896.m3u8aac
-#EXTINF:-1 tvg-logo=阳信人民广播电台FM103.4.png tvg-name=阳信人民广播电台FM103.4 group-title="广播" ,阳信人民广播电台FM103.4
-http://ls.qingting.fm/live/2915753.m3u8
-#EXTINF:-1 tvg-logo=银川都市经济广播 FM95.0.png tvg-name=银川都市经济广播 FM95.0 group-title="广播" ,银川都市经济广播 FM95.0
-http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
-#EXTINF:-1 tvg-logo=银川都市经济广播FM95.0.png tvg-name=银川都市经济广播FM95.0 group-title="广播" ,银川都市经济广播FM95.0
-http://live1.ycgbtv.com.cn/ycdupl/sd/live.m3u8
-#EXTINF:-1 tvg-logo=银川交通音乐台FM100.6.png tvg-name=银川交通音乐台FM100.6 group-title="广播" ,银川交通音乐台FM100.6
-http://live1.ycgbtv.com.cn/ycjt/sd/live.m3u8
-#EXTINF:-1 tvg-logo=银川汽车生活广播FM90.5.png tvg-name=银川汽车生活广播FM90.5 group-title="广播" ,银川汽车生活广播FM90.5
-http://live1.ycgbtv.com.cn/yccar/sd/live.m3u8
-#EXTINF:-1 tvg-logo=银川新闻综合频率AM801.png tvg-name=银川新闻综合频率AM801 group-title="广播" ,银川新闻综合频率AM801
-http://live1.ycgbtv.com.cn/ycxwpl/sd/live.m3u8
-#EXTINF:-1 tvg-logo=银河台经典评书广播.png tvg-name=银河台经典评书广播 group-title="广播" ,银河台经典评书广播
-https://lhttp.qingting.fm/live/4993/64k.mp3
-#EXTINF:-1 tvg-logo=萤火虫网络电台.png tvg-name=萤火虫网络电台 group-title="广播" ,萤火虫网络电台
-http://ls.qingting.fm/live/4998.m3u8
 #EXTINF:-1 tvg-logo=玉溪新闻广播.png tvg-name=玉溪新闻广播 group-title="广播" ,玉溪新闻广播
 http://ls.qingting.fm/live/2978811.m3u8
-#EXTINF:-1 tvg-logo=郁南网络电台.png tvg-name=郁南网络电台 group-title="广播" ,郁南网络电台
-mms://122.228.244.212:1755/YnDT
-#EXTINF:-1 tvg-logo=岳阳交通广播 FM106.1.png tvg-name=岳阳交通广播 FM106.1 group-title="广播" ,岳阳交通广播 FM106.1
-http://58.243.4.22:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-logo=岳阳交通广播FM106.1.png tvg-name=岳阳交通广播FM106.1 group-title="广播" ,岳阳交通广播FM106.1
 http://ls.qingting.fm/live/88931.m3u8
 #EXTINF:-1 tvg-logo=岳阳新闻综合广播.png tvg-name=岳阳新闻综合广播 group-title="广播" ,岳阳新闻综合广播
 http://ls.qingting.fm/live/88933.m3u8
-#EXTINF:-1 tvg-logo=岳阳音乐广播.png tvg-name=岳阳音乐广播 group-title="广播" ,岳阳音乐广播
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2983808059,1695674689&fm=11&gp=0.jpg" group-title="广播" ,岳阳音乐广播
 http://ls.qingting.fm/live/3555897.m3u8
 #EXTINF:-1 tvg-logo=云南交通广播 FM91.8.png tvg-name=云南交通广播 FM91.8 group-title="广播" ,云南交通广播 FM91.8
 http://ls.qingting.fm/live/2785094.m3u8
@@ -1869,10 +1825,6 @@ http://ls.qingting.fm/live/1933.m3u8
 http://ls.qingting.fm/live/1931.m3u8
 #EXTINF:-1 tvg-logo=云南香格里拉之声FM99.png tvg-name=云南香格里拉之声FM99 group-title="广播" ,云南香格里拉之声FM99
 http://ls.qingting.fm/live/24463.m3u8
-#EXTINF:-1 tvg-logo=云南香格里拉之声SW6035.png tvg-name=云南香格里拉之声SW6035 group-title="广播" ,云南香格里拉之声SW6035
-http://ls.qingting.fm/live/24461.m3u8
-#EXTINF:-1 tvg-logo=云南新闻广播FM105.8.png tvg-name=云南新闻广播FM105.8 group-title="广播" ,云南新闻广播FM105.8
-http://ls.qingting.fm/live/1926.m3u8
 #EXTINF:-1 tvg-logo=云南音乐广播FM97.png tvg-name=云南音乐广播FM97 group-title="广播" ,云南音乐广播FM97
 http://ls.qingting.fm/live/1929.m3u8
 #EXTINF:-1 tvg-logo=运城交通文艺广播FM101.9.png tvg-name=运城交通文艺广播FM101.9 group-title="广播" ,运城交通文艺广播FM101.9
@@ -1887,30 +1839,20 @@ http://live.xmcdn.com/live/438/64.m3u8
 http://ls.qingting.fm/live/5015.m3u8
 #EXTINF:-1 tvg-logo=长春交通之声FM96.8.png tvg-name=长春交通之声FM96.8 group-title="广播" ,长春交通之声FM96.8
 http://ls.qingting.fm/live/4967.m3u8
-#EXTINF:-1 tvg-logo=长春生活故事广播 FM90.0.png tvg-name=长春生活故事广播 FM90.0 group-title="广播" ,长春生活故事广播 FM90.0
-http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=长春生活故事广播FM90.0.png tvg-name=长春生活故事广播FM90.0 group-title="广播" ,长春生活故事广播FM90.0
 http://ls.qingting.fm/live/5014.m3u8
-#EXTINF:-1 tvg-logo=长篇连播电台.png tvg-name=长篇连播电台 group-title="广播" ,长篇连播电台
-http://ngcdn024.cnr.cn/live/cplb/index.m3u8
-#EXTINF:-1 tvg-logo=长沙城市之声 FM101.7.png tvg-name=长沙城市之声 FM101.7 group-title="广播" ,长沙城市之声 FM101.7
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
 #EXTINF:-1 tvg-logo=长沙城市之声FM101.7.png tvg-name=长沙城市之声FM101.7 group-title="广播" ,长沙城市之声FM101.7
 http://ls.qingting.fm/live/4237.m3u8
 #EXTINF:-1 tvg-logo=长沙交通音乐广播FM106.1.png tvg-name=长沙交通音乐广播FM106.1 group-title="广播" ,长沙交通音乐广播FM106.1
 http://ls.qingting.fm/live/3967.m3u8
 #EXTINF:-1 tvg-logo=长沙新闻广播FM105.0.png tvg-name=长沙新闻广播FM105.0 group-title="广播" ,长沙新闻广播FM105.0
 http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 tvg-logo=长治交通文艺广播 FM94.9.png tvg-name=长治交通文艺广播 FM94.9 group-title="广播" ,长治交通文艺广播 FM94.9
-http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8type=hls_live_redirect
 #EXTINF:-1 tvg-logo=长治交通文艺广播FM94.9.png tvg-name=长治交通文艺广播FM94.9 group-title="广播" ,长治交通文艺广播FM94.9
 http://ls.qingting.fm/live/2669405.m3u8
 #EXTINF:-1 tvg-logo=长治新闻综合广播(幸福广播)FM94.3.png tvg-name=长治新闻综合广播(幸福广播)FM94.3 group-title="广播" ,长治新闻综合广播(幸福广播)FM94.3
 http://ls.qingting.fm/live/2702863.m3u8
 #EXTINF:-1 tvg-logo=浙江财富广播FM95.png tvg-name=浙江财富广播FM95 group-title="广播" ,浙江财富广播FM95
 http://ls.qingting.fm/live/4519.m3u8
-#EXTINF:-1 tvg-logo=浙江城市之声 (私家车107) FM107 (Opt-1).png tvg-name=浙江城市之声 (私家车107) FM107 (Opt-1) group-title="广播" ,浙江城市之声 (私家车107) FM107 (Opt-1)
-http://61.58.60.230:9319/live/233.m3u8
 #EXTINF:-1 tvg-logo=浙江城市之声(私家车107)FM107.png tvg-name=浙江城市之声(私家车107)FM107 group-title="广播" ,浙江城市之声(私家车107)FM107
 http://ls.qingting.fm/live/4523.m3u8
 #EXTINF:-1 tvg-logo=浙江动听(音乐调频)FM96.8.png tvg-name=浙江动听(音乐调频)FM96.8 group-title="广播" ,浙江动听(音乐调频)FM96.8
@@ -1921,30 +1863,10 @@ http://ls.qingting.fm/live/4522.m3u8
 http://ls.qingting.fm/live/4521.m3u8
 #EXTINF:-1 tvg-logo=浙江新闻广播新锐FM98.8.png tvg-name=浙江新闻广播新锐FM98.8 group-title="广播" ,浙江新闻广播新锐FM98.8
 http://ls.qingting.fm/live/2686006.m3u8
-#EXTINF:-1 tvg-logo=浙江之声 FM88 (Opt-1).png tvg-name=浙江之声 FM88 (Opt-1) group-title="广播" ,浙江之声 FM88 (Opt-1)
-http://lives.jnnews.tv:80/video/s10001-jntv/index.m3u8
-#EXTINF:-1 tvg-logo=浙江之声FM88.png tvg-name=浙江之声FM88 group-title="广播" ,浙江之声FM88
+
+#EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=1047727681,3230569954&fm=26&gp=0.jpg" group-title="广播" ,浙江之声FM88
 http://ls.qingting.fm/live/4518.m3u8
-#EXTINF:-1 tvg-logo=镇江城市生活频率FM90.5.png tvg-name=镇江城市生活频率FM90.5 group-title="广播" ,镇江城市生活频率FM90.5
-http://live.zjmc.tv/7/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江醋豆广播.png tvg-name=镇江醋豆广播 group-title="广播" ,镇江醋豆广播
-http://live.zjmc.tv/12/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江动感私家车电台FM102.7.png tvg-name=镇江动感私家车电台FM102.7 group-title="广播" ,镇江动感私家车电台FM102.7
-http://live.zjmc.tv/9/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江健康生活频率FM94AM1224.png tvg-name=镇江健康生活频率FM94AM1224 group-title="广播" ,镇江健康生活频率FM94AM1224
-http://live.zjmc.tv/8/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江交通频率FM88.8.png tvg-name=镇江交通频率FM88.8 group-title="广播" ,镇江交通频率FM88.8
-http://live.zjmc.tv/5/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江新闻频率 FM104.png tvg-name=镇江新闻频率 FM104 group-title="广播" ,镇江新闻频率 FM104
-http://live.zjmc.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江新闻频率FM104.png tvg-name=镇江新闻频率FM104 group-title="广播" ,镇江新闻频率FM104
-http://live.zjmc.tv/4/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江新闻时政.png tvg-name=镇江新闻时政 group-title="广播" ,镇江新闻时政
-http://live.zjmc.tv/3/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江音乐频率 FM96.3.png tvg-name=镇江音乐频率 FM96.3 group-title="广播" ,镇江音乐频率 FM96.3
-http://live.zjmc.tv/2/sd/live.m3u8
-#EXTINF:-1 tvg-logo=镇江音乐频率FM96.3.png tvg-name=镇江音乐频率FM96.3 group-title="广播" ,镇江音乐频率FM96.3
-http://live.zjmc.tv/6/sd/live.m3u8
+
 #EXTINF:-1 tvg-logo=郑州车道931.png tvg-name=郑州车道931 group-title="广播" ,郑州车道931
 http://ls.qingting.fm/live/1221.m3u8
 #EXTINF:-1 tvg-logo=郑州地铁1频道.png tvg-name=郑州地铁1频道 group-title="广播" ,郑州地铁1频道
@@ -1957,47 +1879,37 @@ http://ls.qingting.fm/live/1223.m3u8
 http://ls.qingting.fm/live/1211.m3u8
 #EXTINF:-1 tvg-logo=郑州私家车FM91.8.png tvg-name=郑州私家车FM91.8 group-title="广播" ,郑州私家车FM91.8
 http://ls.qingting.fm/live/1222.m3u8
-#EXTINF:-1 tvg-logo=郑州新闻广播 FM98.6.png tvg-name=郑州新闻广播 FM98.6 group-title="广播" ,郑州新闻广播 FM98.6
-http://218.28.177.199:1935/live/mp4:500k/playlist.m3u8
 #EXTINF:-1 tvg-logo=郑州新闻广播FM98.6.png tvg-name=郑州新闻广播FM98.6 group-title="广播" ,郑州新闻广播FM98.6
 http://ls.qingting.fm/live/1220.m3u8
-#EXTINF:-1 tvg-logo=中国民乐广播.png tvg-name=中国民乐广播 group-title="广播" ,中国民乐广播
-http://ngcdn021.cnr.cn/live/zgmy/index.m3u8
 #EXTINF:-1 tvg-logo=中国校园之声.png tvg-name=中国校园之声 group-title="广播" ,中国校园之声
 http://ls.qingting.fm/live/24229.m3u8
 #EXTINF:-1 tvg-logo=中山电台快乐888.png tvg-name=中山电台快乐888 group-title="广播" ,中山电台快乐888
 http://ls.qingting.fm/live/1278.m3u8
-#EXTINF:-1 tvg-logo=中山电台新锐967.png tvg-name=中山电台新锐967 group-title="广播" ,中山电台新锐967
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2485750465,2573619355&fm=15&gp=0.jpg" group-title="广播" ,中山电台新锐967
 http://ls.qingting.fm/live/1277.m3u8
-#EXTINF:-1 tvg-logo=中央台古典音乐广播.png tvg-name=中央台古典音乐广播 group-title="广播" ,中央台古典音乐广播
-http://ngcdn022.cnr.cn/live/gdyy/index.m3u8
-#EXTINF:-1 tvg-logo=重庆都市广播 FM93.8.png tvg-name=重庆都市广播 FM93.8 group-title="广播" ,重庆都市广播 FM93.8
-http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo=重庆都市广播FM93.8.png tvg-name=重庆都市广播FM93.8 group-title="广播" ,重庆都市广播FM93.8
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1464039848,3421397312&fm=26&gp=0.jpg" group-title="广播" ,重庆都市广播FM93.8
 http://ls.qingting.fm/live/1502.m3u8
-#EXTINF:-1 tvg-logo=重庆交通广播FM95.5.png tvg-name=重庆交通广播FM95.5 group-title="广播" ,重庆交通广播FM95.5
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=4075502527,510412597&fm=15&gp=0.jpg group-title="广播" ,重庆交通广播FM95.5
 http://ls.qingting.fm/live/1500.m3u8
-#EXTINF:-1 tvg-logo=重庆经济广播FM101.5.png tvg-name=重庆经济广播FM101.5 group-title="广播" ,重庆经济广播FM101.5
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=4159843446,1364778907&fm=26&gp=0.jpg group-title="广播" ,重庆经济广播FM101.5
 http://ls.qingting.fm/live/1499.m3u8
-#EXTINF:-1 tvg-logo=重庆文艺广播FM103.5.png tvg-name=重庆文艺广播FM103.5 group-title="广播" ,重庆文艺广播FM103.5
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=2091080542,1324703552&fm=26&gp=0.jpg" group-title="广播" ,重庆文艺广播FM103.5
 http://ls.qingting.fm/live/1501.m3u8
-#EXTINF:-1 tvg-logo=重庆新闻广播FM96.8.png tvg-name=重庆新闻广播FM96.8 group-title="广播" ,重庆新闻广播FM96.8
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2311626843,3653944487&fm=26&gp=0.jpg" group-title="广播" ,重庆新闻广播FM96.8
 http://ls.qingting.fm/live/1498.m3u8
-#EXTINF:-1 tvg-logo=重庆音乐广播FM88.1.png tvg-name=重庆音乐广播FM88.1 group-title="广播" ,重庆音乐广播FM88.1
+#EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=3377611628,2315815129&fm=26&gp=0.jpg" group-title="广播" ,重庆音乐广播FM88.1
 http://ls.qingting.fm/live/647.m3u8
-#EXTINF:-1 tvg-logo=周口都市广播.png tvg-name=周口都市广播 group-title="广播" ,周口都市广播
-http://tv.zkxww.com:1935/broadcast/1002.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo=周口交通广播.png tvg-name=周口交通广播 group-title="广播" ,周口交通广播
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=563079972,1098757159&fm=15&gp=0.jpg" group-title="广播" ,周口交通广播
 http://tv.zkxww.com:1935/broadcast/1003.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo=周口新闻广播.png tvg-name=周口新闻广播 group-title="广播" ,周口新闻广播
+#EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=2798703870,2863200681&fm=15&gp=0.jpg group-title="广播" ,周口新闻广播
 http://tv.zkxww.com:1935/broadcast/1001.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo=周口音乐广播.png tvg-name=周口音乐广播 group-title="广播" ,周口音乐广播
+#EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=2798703870,2863200681&fm=15&gp=0.jpg" group-title="广播" ,周口音乐广播
 http://tv.zkxww.com:1935/broadcast/1004.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo=珠海电台活力915.png tvg-name=珠海电台活力915 group-title="广播" ,珠海电台活力915
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2710939000,2743147659&fm=26&gp=0.jpg" group-title="广播" ,珠海电台活力915
 http://ls.qingting.fm/live/2473319.m3u8
-#EXTINF:-1 tvg-logo=珠海电台交通音乐875.png tvg-name=珠海电台交通音乐875 group-title="广播" ,珠海电台交通音乐875
+#EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=1364243183,3042080239&fm=26&gp=0.jpg" group-title="广播" ,珠海电台交通音乐875
 http://ls.qingting.fm/live/1275.m3u8
-#EXTINF:-1 tvg-logo=珠海电台先锋951.png tvg-name=珠海电台先锋951 group-title="广播" ,珠海电台先锋951
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=3456423487,2966630380&fm=26&gp=0.jpg" group-title="广播" ,珠海电台先锋951
 http://ls.qingting.fm/live/1274.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/19/oKBMQVGRXawnSbk.jpg" group-title="卫视",广东综艺4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
@@ -2255,6 +2167,8 @@ http://nclive.grtn.cn/nfgw/sd/live.m3u8
 http://live.zscz0768.com/live/zhpd.m3u8
 #EXTINF:-1  tvg-logo=番禺.png tvg-name=番禺 group-title="地方台" ,番禺
 http://live.pybtv.cn/channel1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=2088633589,3761048601&fm=26&gp=0.jpg" group-title="地方台" ,阳江-1
+http://dslive.grtn.cn/yjzh/sd/live.m3u8
 #EXTINF:-1  tvg-logo=潮安综合.png tvg-name=潮安综合 group-title="地方台" ,潮安综合
 http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 #EXTINF:-1  tvg-logo=增城综合.png tvg-name=增城综合 group-title="地方台" ,增城综合
@@ -2461,6 +2375,8 @@ http://klmyyun.chinavas.com/hls/qishi4.m3u8
 http://klmyyun.chinavas.com/hls/fuhai2.m3u8
 #EXTINF:-1  tvg-logo=美丽云南.png tvg-name=美丽云南 group-title="地方台" ,美丽云南
 http://www.ynbit.cn:1935/cyds-mlyn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=岳阳交通广播 FM106.1.png tvg-name=岳阳交通广播 FM106.1 group-title="地方台" ,岳西综合
+http://58.243.4.22:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1  tvg-logo=红河州新闻综合.png tvg-name=红河州新闻综合 group-title="地方台" ,红河州新闻综合
 http://live.hhtv.cc:9099/ch1/ch1.m3u8
 #EXTINF:-1  tvg-logo=红河州经济生活.png tvg-name=红河州经济生活 group-title="地方台" ,红河州经济生活
@@ -2595,8 +2511,8 @@ http://video.dztv.tv:1935/live/dztw_bq/playlist.m3u8
 http://video.dztv.tv:1935/live/xwzh_bq/playlist.m3u8
 #EXTINF:-1 tvg-logo=迪庆综合.png tvg-name=迪庆综合 group-title="地方台" ,迪庆综合
 http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=第一财经.png tvg-name=第一财经 group-title="地方台" ,第一财经
-http://117.156.28.119/270000001111/1110000152/index.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=3629330457,2196208948&fm=26&gp=0.jpg" group-title="地方台" ,济宁综合
+http://lives.jnnews.tv:80/video/s10001-jntv/index.m3u8
 #EXTINF:-1 tvg-logo=电白视窗.png tvg-name=电白视窗 group-title="地方台" ,电白视窗
 http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=电白综合.png tvg-name=电白综合 group-title="地方台" ,电白综合
@@ -2963,7 +2879,12 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=4258707321,3050537754&fm=26&gp=0.jpg"  group-title="地方台" ,嘉兴文化影视
 http://stream1.jiaxingren.com/whys/sd/live.m3u8
-
+#EXTINF:-1 tvg-logo=镇江新闻频率 FM104.png tvg-name=镇江新闻频率 FM104 group-title="地方台" ,镇江新闻综合
+http://live.zjmc.tv/1/sd/live.m3u8
+#EXTINF:-1 tvg-logo=镇江新闻时政.png tvg-name=镇江新闻时政 group-title="地方台" ,镇江3
+http://live.zjmc.tv/3/sd/live.m3u8
+#EXTINF:-1 tvg-logo=镇江音乐频率 FM96.3.png tvg-name=镇江音乐频率 FM96.3 group-title="地方台" ,镇江2
+http://live.zjmc.tv/2/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo=金鹰纪实.png tvg-name=金鹰纪实 group-title="地方台" ,金鹰纪实
 http://183.215.116.144:6610/180000001001/00000000000000020000000000182315/main.m3u8
