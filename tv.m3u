@@ -40,11 +40,15 @@ http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="台港澳",凤凰香港
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
+http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" tvg-name=星空卫视 group-title="台港澳" ,星空卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 tvg-logo="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=0fe091190f0828387c00d446d9f0c264/08f790529822720e246cd8fc73cb0a46f21fab11.jpg" tvg-name=澳亞衛視 group-title="台港澳" ,澳门卫视
@@ -65,20 +69,6 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" tvg-name=Channel V group-title="台港澳" ,Channel V
 rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,TVB无线新闻台
-http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,TVB无线新闻台
-http://www.liveviptv.xyz/tv/tvb.php
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,TVB无线新闻台
-p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,TVB无线新闻台
-vjms://23.237.33.155:8500:3502/live/cid=366
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,有线新闻台
-https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,凤凰资讯
-rtmp://58.200.131.2:1935/livetv/fhzx
-#EXTINF:-1 tvg-logo=Discovery.png tvg-name=Discovery group-title="test" ,凤凰资讯
-http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2435459985,4083979066&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,Bloomberg HD 
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3296625489,1705652213&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,CBSN 
@@ -144,7 +134,7 @@ http://v3.bjssmd.net/20190919/Pv5rNdRu/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-6/201962922232056795.jpg" group-title="点播",蜘蛛侠：英雄远征
 http://v3.bjssmd.net/20190912/VOCSrN9j/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-9/201991919372614832.jpg" group-title="点播",第一滴血5：最后的血
-http://youku.kuyun-leshi.com/20190919/H6ngllcP/index.m3u8
+https://txxs.mahua-yongjiu.com/20191123/4904_1a606575/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-9/201992012243477573.jpg" group-title="点播",毛驴上树
 https://wuji.zhulong-zuida.com/20190919/8707_0fce5209/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-8/2019821014235060.jpg" group-title="点播",速度与激情：特别行动
