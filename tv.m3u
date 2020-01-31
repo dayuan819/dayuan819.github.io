@@ -393,18 +393,22 @@ http://mudan.iii-kuyunzy.com/20200112/9346_95c9b22a/index.m3u8
 http://mudan.iii-kuyunzy.com/20200112/9291_a8e5b468/index.m3u8
 #EXTINF:-1  group-title="记录片 " ,三大厨神识乡味
 http://mudan.iii-kuyunzy.com/20200112/9295_9c0e7011/index.m3u8
-#EXTINF:-1  group-title="记录片 " ,消失的味道 第01集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第01集
 https://txxs.mahua-yongjiu.com/20200112/10711_00f23148/index.m3u8
-#EXTINF:-1  group-title="记录片 " ,消失的味道 第02集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第02集
 https://txxs.mahua-yongjiu.com/20200112/10712_c3233ea2/index.m3u8
-#EXTINF:-1  group-title="记录片 " ,消失的味道 第03集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第03集
 https://txxs.mahua-yongjiu.com/20200112/10713_19c34f7b/index.m3u8
-#EXTINF:-1  group-title="记录片 " ,消失的味道 第04集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第04集
 https://txxs.mahua-yongjiu.com/20200112/10714_d3029ea4/index.m3u8
-#EXTINF:-1  group-title="记录片 " ,消失的味道 第05集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第05集
 https://txxs.mahua-yongjiu.com/20200112/10715_78de511a/index.m3u8
-#EXTINF:-1  group-title="记录片 " ,消失的味道 第06集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第06集
 https://txxs.mahua-yongjiu.com/20200112/10716_a5376465/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第07集
+https://txxs.mahua-yongjiu.com/20200119/11349_d71e7e19/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-01-13/1578887419.jpg" group-title="记录片 " ,消失的味道第08集
+https://txxs.mahua-yongjiu.com/20200129/12114_1ec08e0f/index.m3u8
 #EXTINF:-1  group-title="记录片 " ,吃货攻略2粤语版
 http://mudan.iii-kuyunzy.com/20200112/9302_0d5279c0/index.m3u8
 #EXTINF:-1  group-title="记录片 " ,意大利鱿鱼血肠店20191202期
@@ -1665,32 +1669,32 @@ http://live.xmcdn.com/live/563/64.m3u8
 http://ls.qingting.fm/live/2782.m3u8
 #EXTINF:-1 tvg-logo=无锡汽车音乐广播FM91.4.png tvg-name=无锡汽车音乐广播FM91.4 group-title="广播" ,无锡汽车音乐广播FM91.4
 http://live.xmcdn.com/live/561/64.m3u8
-#EXTINF:-1 tvg-logo=无锡新闻广播FM93.7.png tvg-name=无锡新闻广播FM93.7 group-title="广播" ,无锡新闻广播FM93.7
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1505077068,2622117931&fm=26&gp=0.jpg" group-title="广播" ,无锡新闻广播FM93.7
 http://ls.qingting.fm/live/2777.m3u8
-#EXTINF:-1 tvg-logo=五星体育FM94.0.png tvg-name=五星体育FM94.0 group-title="广播" ,五星体育FM94.0
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3445576737,540636865&fm=26&gp=0.jpg" group-title="广播" ,五星体育FM94.0
 http://ls.qingting.fm/live/4928.m3u8
-#EXTINF:-1 tvg-logo=五邑旅游频道FM90.4.png tvg-name=五邑旅游频道FM90.4 group-title="广播" ,五邑旅游频道FM90.4
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=1141170619,2059002566&fm=26&gp=0.jpg" group-title="广播" ,五邑旅游频道FM90.4
 http://ls.qingting.fm/live/3047974.m3u8
-#EXTINF:-1 tvg-logo=西安交通广播FM104.3.png tvg-name=西安交通广播FM104.3 group-title="广播" ,西安交通广播FM104.3
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=421191855,4230488189&fm=26&gp=0.jpg" group-title="广播" ,西安交通广播FM104.3
 http://live.xmcdn.com/live/1371/64.m3u8
-#EXTINF:-1 tvg-logo=西安新闻广播FM95.0.png tvg-name=西安新闻广播FM95.0 group-title="广播" ,西安新闻广播FM95.0
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/1116/20151116155201700.jpg!200" group-title="广播" ,西安新闻广播FM95.0
 http://ls.qingting.fm/live/1610.m3u8
-#EXTINF:-1 tvg-logo=西安音乐广播FM93.1.png tvg-name=西安音乐广播FM93.1 group-title="广播" ,西安音乐广播FM93.1
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2480558354,3059389307&fm=15&gp=0.jpg" group-title="广播" ,西安音乐广播FM93.1
 http://ls.qingting.fm/live/1612.m3u8
-#EXTINF:-1 tvg-logo=西安资讯广播FM106.1.png tvg-name=西安资讯广播FM106.1 group-title="广播" ,西安资讯广播FM106.1
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2521483377,2915716810&fm=26&gp=0.jpg" group-title="广播" ,西安资讯广播FM106.1
 http://stream3.xiancity.cn/2/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=3829032001,2669447571&fm=15&gp=0.jpg" group-title="广播" ,西澳华语广播电台
 http://streamer5.rightclickitservices.com:7200/stream
-#EXTINF:-1 tvg-logo=西宁交通频率.png tvg-name=西宁交通频率 group-title="广播" ,西宁交通频率
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=4274233294,1264558300&fm=26&gp=0.jpg" group-title="广播" ,西宁交通频率
 http://live.xmcdn.com/live/1253/64.m3u8
-#EXTINF:-1 tvg-logo=西宁旅游频率.png tvg-name=西宁旅游频率 group-title="广播" ,西宁旅游频率
+#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/20150205153812759.jpg" group-title="广播" ,西宁旅游频率
 http://live.xmcdn.com/live/1256/64.m3u8
-#EXTINF:-1 tvg-logo=西宁私家车音乐调频.png tvg-name=西宁私家车音乐调频 group-title="广播" ,西宁私家车音乐调频
+#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/20150130180324417.jpg" group-title="广播" ,西宁私家车音乐调频
 http://ls.qingting.fm/live/3377772.m3u8
-#EXTINF:-1 tvg-logo=西宁新闻频率.png tvg-name=西宁新闻频率 group-title="广播" ,西宁新闻频率
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2026735803,184700382&fm=26&gp=0.jpg" group-title="广播" ,西宁新闻频率
 http://ls.qingting.fm/live/3400403.m3u8
 
-#EXTINF:-1 tvg-logo=咸阳城市之声FM100.7.png tvg-name=咸阳城市之声FM100.7 group-title="广播" ,咸阳城市之声FM100.7
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0401/20150401111029664.png!200" group-title="广播" ,咸阳城市之声FM100.7
 http://ls.qingting.fm/live/3559664.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=178904881,865193658&fm=15&gp=0.jpg" group-title="广播" ,香港D100 PBS
 http://68.235.39.19:8000/Channel1-128MP3
