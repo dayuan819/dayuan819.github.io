@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="台港澳",NHK华语视界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"  group-title="台港澳",NHK华语视界
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-logo=新传媒8频道.png tvg-name=新传媒8频道 group-title="台港澳" ,新传媒8频道
+#EXTINF:-1 tvg-logo=新传媒8频道.png tvg-name=新传媒8频道  group-title="台港澳" ,新传媒8频道
 https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg"  group-title="精彩4K",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg"  group-title="精彩4K",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg"  group-title="精彩4K",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png"  group-title="精彩4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台港澳",年代新闻
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png"  group-title="台港澳",年代新闻
 http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台港澳",八大综合台
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png"  group-title="台港澳",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台港澳",东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
@@ -65,17 +65,23 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 http://116.199.5.51:8114/index.m3u8Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=12&amp;Fsv_rate_id=2&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=.m3u8&amp;Fsv_CMSID=&amp;Fsv_otype=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",TVB翡翠台
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.ts
-#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2839717091,4184442441&fm=26&gp=0.jpg" group-title="台港澳",天映频道
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=2839717091,4184442441&fm=26&gp=0.jpg"  group-title="台港澳",天映频道
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" tvg-name=Channel V group-title="台港澳" ,Channel V
 rtmp://58.200.131.2:1935/livetv/channelv
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2435459985,4083979066&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,Bloomberg HD 
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3296625489,1705652213&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,CBSN 
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3296625489,1705652213&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,CBS
 http://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/4301043.jpg" group-title="点播",传染病Contagion
+http://cdn-yong.bejingyongjiu.com/20200129/2142_33ce87a0/index.m3u8
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/27045860.jpg" group-title="点播",原钻Uncut Gems
+https://yingxiong.qiling-yongjiu.com/20191229/16969_ce4a1176/index.m3u8
+#EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/1292287.jpg" group-title="点播",新龙门客栈New Dragon Gate Inn
+https://yun.zxziyuan-yun.com/20180525/vRAD9YrS/index.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1377142768,3251538085&fm=11&gp=0.jpg" group-title="点播",白头山
 https://guihua.feifei-kuyun.com/20200123/29293_46db05d3/index.m3u8
-#EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=3563868585,3130520925&fm=11&gp=0.jpg" group-title="点播",囧妈
+#EXTINF:-1 tvg-logo="http://img2.imgtn.bdimg.com/it/u=3563868585,3130520925&fm=11&gp=0.jpg"  group-title="点播",囧妈
 https://hong.tianzhen-zuida.com/20200125/19217_95dc471d/index.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=3788521790,519190599&fm=11&gp=0.jpg" group-title="点播",终结者6：黑暗命运
 http://mudan.iii-kuyunzy.com/20200114/9515_c15c679d/index.m3u8
@@ -799,127 +805,135 @@ https://dapian.video-yongjiu.com/20190909/10948_107ef667/index.m3u8
 https://dapian.video-yongjiu.com/20190909/10949_1df01fee/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第10集
 https://dapian.video-yongjiu.com/20190909/10950_39bf3ee6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" group-title="大明风华" ,大明风华第01集
-http://mudan.iii-kuyunzy.com/20191217/6074_933ba0be/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第02集
-http://mudan.iii-kuyunzy.com/20191217/6067_e2d98c69/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第03集
-http://mudan.iii-kuyunzy.com/20191218/6204_bf55eaef/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第04集
-http://mudan.iii-kuyunzy.com/20191218/6205_589b0c16/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第05集
-http://mudan.iii-kuyunzy.com/20191219/6359_4681034f/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第06集
-http://mudan.iii-kuyunzy.com/20191219/6360_36fbfa14/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第07集
-http://mudan.iii-kuyunzy.com/20191220/6524_9ca48b7e/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第08集
-http://mudan.iii-kuyunzy.com/20191221/6635_ec4544f3/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第09集
-http://mudan.iii-kuyunzy.com/20191222/6759_5c5f9197/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第10集
-http://mudan.iii-kuyunzy.com/20191222/6760_6e814cfb/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第11集
-http://mudan.iii-kuyunzy.com/20191223/6888_a5f7183c/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第12集
-http://mudan.iii-kuyunzy.com/20191223/6891_4865d964/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第13集
-http://mudan.iii-kuyunzy.com/20191224/7008_31eab76c/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第14集
-http://mudan.iii-kuyunzy.com/20191224/7012_c59d8c64/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第15集
-http://mudan.iii-kuyunzy.com/20191225/7150_79ea8066/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第16集
-http://mudan.iii-kuyunzy.com/20191225/7152_b68d7c61/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第17集
-http://mudan.iii-kuyunzy.com/20191226/7305_0f7c7238/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第18集
-http://mudan.iii-kuyunzy.com/20191227/7460_6764ff82/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第19集
-http://mudan.iii-kuyunzy.com/20191227/7452_52bec0fa/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第20集
-http://mudan.iii-kuyunzy.com/20191228/7636_4ce5bd27/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第21集
-http://guihua.feifei-kuyun.com/20191229/27009_c315a7c5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第22集
-http://guihua.feifei-kuyun.com/20191229/27008_97f8aaa5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第23集
-http://guihua.feifei-kuyun.com/20191230/27077_6992f13f/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第24集
-http://guihua.feifei-kuyun.com/20191230/27076_0b36be8c/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第25集
-http://guihua.feifei-kuyun.com/20200101/27315_e0fa9299/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第26集
-http://guihua.feifei-kuyun.com/20200101/27314_5a3b5342/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第27集
-http://guihua.feifei-kuyun.com/20200106/27807_42efd67b/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第28集
-http://guihua.feifei-kuyun.com/20200102/27507_9c374843/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第29集
-http://guihua.feifei-kuyun.com/20200103/27642_23062c32/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第30集
-http://guihua.feifei-kuyun.com/20200104/27722_3006cbdd/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第31集
-http://guihua.feifei-kuyun.com/20200105/27766_0e21a2f6/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第32集
-http://guihua.feifei-kuyun.com/20200105/27767_a52321ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第33集
-http://guihua.feifei-kuyun.com/20200106/27842_5a52beb0/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第34集
-http://guihua.feifei-kuyun.com/20200106/27843_50f4a76c/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第35集
-http://guihua.feifei-kuyun.com/20200107/27891_df4c9fa2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第36集
-http://guihua.feifei-kuyun.com/20200107/27894_b27c2933/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第37集
-http://guihua.feifei-kuyun.com/20200108/27963_c6f3c5c5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第38集
-http://guihua.feifei-kuyun.com/20200108/27964_4b583599/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第39集
-http://guihua.feifei-kuyun.com/20200109/28022_c920c430/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第40集
-http://guihua.feifei-kuyun.com/20200109/28024_26408db5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" group-title="大明风华" ,大明风华 第41集
-http://guihua.feifei-kuyun.com/20200110/28115_211c2024/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第42集
-http://guihua.feifei-kuyun.com/20200110/28116_22c223fc/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第43集
-http://guihua.feifei-kuyun.com/20200111/28186_1736ddaa/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第44集
-http://guihua.feifei-kuyun.com/20200112/28239_5beaf137/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第45集
-http://guihua.feifei-kuyun.com/20200112/28243_74025d40/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第46集
-http://guihua.feifei-kuyun.com/20200113/28296_a7a0cb57/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第47集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第01集
+https://txxs.mahua-yongjiu.com/20191217/8108_d3c1c0ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第02集
+https://txxs.mahua-yongjiu.com/20191217/8109_29f38847/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第03集
+https://txxs.mahua-yongjiu.com/20191218/8287_0850a2c4/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第04集
+https://txxs.mahua-yongjiu.com/20191218/8288_a148ef2c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第05集
+https://yingxiong.qiling-yongjiu.com/20191219/16252_e64a5671/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第06集
+https://yingxiong.qiling-yongjiu.com/20191219/16253_91eec419/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第07集
+https://txxs.mahua-yongjiu.com/20191220/8502_3b324b5f/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第08集
+https://txxs.mahua-yongjiu.com/20191221/8559_bcdb9478/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第09集
+https://txxs.mahua-yongjiu.com/20191222/8633_5a4bdd19/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第10集
+https://txxs.mahua-yongjiu.com/20191222/8634_4a56308a/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第11集
+https://txxs.mahua-yongjiu.com/20191223/8754_781d8f58/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第12集
+https://txxs.mahua-yongjiu.com/20191223/8755_a6462357/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第13集
+https://txxs.mahua-yongjiu.com/20191224/8839_fb51f233/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第14集
+https://yingxiong.qiling-yongjiu.com/20191225/16758_7923c349/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第15集
+https://yingxiong.qiling-yongjiu.com/20191225/16722_f9eb7ed9/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第16集
+https://yingxiong.qiling-yongjiu.com/20191225/16759_8d16210b/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第17集
+https://yingxiong.qiling-yongjiu.com/20191226/16783_1c8ce9cf/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第18集
+https://yingxiong.qiling-yongjiu.com/20191226/16789_44a9269b/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第19集
+https://yingxiong.qiling-yongjiu.com/20191227/16871_c6d4a539/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第20集
+https://yingxiong.qiling-yongjiu.com/20191228/16923_ec1e1fe7/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第21集
+https://yingxiong.qiling-yongjiu.com/20191229/16979_66135a94/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第22集
+https://yingxiong.qiling-yongjiu.com/20191229/16982_df9af3cb/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第23集
+https://yingxiong.qiling-yongjiu.com/20191230/17051_a3db3937/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第24集
+https://yingxiong.qiling-yongjiu.com/20191230/17054_40ef50f5/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第25集
+https://txxs.mahua-yongjiu.com/20200101/9593_1729c434/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第26集
+https://txxs.mahua-yongjiu.com/20200101/9592_551eaf13/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第27集
+https://txxs.mahua-yongjiu.com/20200102/9692_9486ebbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第28集
+https://txxs.mahua-yongjiu.com/20200102/9693_4bb950e5/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第29集
+https://txxs.mahua-yongjiu.com/20200103/9830_16b6f07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第30集
+https://txxs.mahua-yongjiu.com/20200104/9921_395fcb70/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第31集
+http://cdn-yong.bejingyongjiu.com/20200105/240_a61be67f/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第32集
+https://txxs.mahua-yongjiu.com/20200105/9988_48e2b5d2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第33集
+http://cdn-yong.bejingyongjiu.com/20200106/394_dc735f2e/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第34集
+http://cdn-yong.bejingyongjiu.com/20200106/399_cde01f11/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第35集
+http://cdn-yong.bejingyongjiu.com/20200107/475_5288e59c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第36集
+http://cdn-yong.bejingyongjiu.com/20200107/482_cf492a49/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第37集
+http://cdn-yong.bejingyongjiu.com/20200108/566_e96a1e74/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第38集
+http://cdn-yong.bejingyongjiu.com/20200108/572_e8446217/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第39集
+http://cdn-yong.bejingyongjiu.com/20200109/653_b643392a/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第40集
+http://cdn-yong.bejingyongjiu.com/20200109/661_543cb79d/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第41集
+http://cdn-yong.bejingyongjiu.com/20200110/725_041a2f95/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第42集
+http://cdn-yong.bejingyongjiu.com/20200110/730_5a5f2c73/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第43集
+http://cdn-yong.bejingyongjiu.com/20200111/809_0984bd7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第44集
+http://cdn-yong.bejingyongjiu.com/20200112/865_ca5affc2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第45集
+http://cdn-yong.bejingyongjiu.com/20200112/870_88e11d80/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第46集
+http://cdn-yong.bejingyongjiu.com/20200113/946_29fe6d25/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第47集
 http://cdn-yong.bejingyongjiu.com/20200113/948_06c5f4f2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第48集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第48集
 http://cdn-yong.bejingyongjiu.com/20200114/1035_69055e68/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第49集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第49集
 http://cdn-yong.bejingyongjiu.com/20200114/1039_885030f9/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第50集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第50集
 http://cdn-yong.bejingyongjiu.com/20200115/1120_b73d03d2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第51集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第51集
 http://cdn-yong.bejingyongjiu.com/20200115/1116_514dd5eb/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第52集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第52集
 http://cdn-yong.bejingyongjiu.com/20200116/1201_a679a51f/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第53集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第53集
 http://cdn-yong.bejingyongjiu.com/20200116/1200_1906921a/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第54集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第54集
 http://cdn-yong.bejingyongjiu.com/20200117/1304_438f9be6/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第55集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第55集
 http://cdn-yong.bejingyongjiu.com/20200117/1308_4e56296d/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第56集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第56集
 http://cdn-yong.bejingyongjiu.com/20200119/1427_97ce45bb/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第57集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第57集
 http://cdn-yong.bejingyongjiu.com/20200120/1506_858ea198/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第58集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第58集
 http://cdn-yong.bejingyongjiu.com/20200120/1511_0d8189dc/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第59集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第59集
 http://cdn-yong.bejingyongjiu.com/20200121/1622_dc6e43e7/index.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3551072082,216384679&fm=26&gp=0.jpg" tvg-name=大明风华 group-title="大明风华" ,大明风华 第60集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第60集
 http://cdn-yong.bejingyongjiu.com/20200121/1628_c6c75362/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第61集
+http://cdn-yong.bejingyongjiu.com/20200122/1701_9d186096/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第62集
+http://cdn-yong.bejingyongjiu.com/20200122/1709_422db633/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第63集
+http://cdn-yong.bejingyongjiu.com/20200123/1772_1b7a1da2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="大明风华" ,大明风华第64集
+http://cdn-yong.bejingyongjiu.com/20200123/1777_f4916991/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第01集
 https://gaoqing.bibi-baidu.com/20190528/193_12ce72f9/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-05-28/15590471481.jpg" group-title="美剧" ,血疫第02集
@@ -964,68 +978,74 @@ https://txxs.mahua-yongjiu.com/20200109/10356_55e03690/index.m3u8
 https://txxs.mahua-yongjiu.com/20200116/11051_4010869c/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-10/201912101575955777.jpg" group-title="美剧" ,维京传奇 第六季第08集
 https://txxs.mahua-yongjiu.com/20200123/11646_99302376/index.m3u8
-
-https://mudan.iii-kuyunzy.com/20200116/9717_575125c8/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第01集
-http://vs1.baduziyuan.com/20180328/QrOb9PlN/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第02集
-http://vs1.baduziyuan.com/20180328/5b1qQXkO/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第03集
-http://vs1.baduziyuan.com/20180328/Jew5nLci/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第04集
-http://vs1.baduziyuan.com/20180328/yJjL6WJa/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第05集
-http://vs1.baduziyuan.com/20180328/kWKWLbt8/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第06集
-http://vs1.baduziyuan.com/20180328/gCmuZeWa/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第07集
-http://vs1.baduziyuan.com/20180328/tqMoHteB/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第08集
-http://vs1.baduziyuan.com/20180328/bykReO3W/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第09集
-http://vs1.baduziyuan.com/20180328/ixTt4wOh/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第10集
-http://vs1.baduziyuan.com/20180328/8cBqcB6V/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第11集
-http://vs1.baduziyuan.com/20180328/NZXsSTTF/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第12集
-http://vs1.baduziyuan.com/20180328/VsPOwB82/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第13集
-http://vs1.baduziyuan.com/20180328/mstmrRdA/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第14集
-http://vs1.baduziyuan.com/20180328/fNiDe6ql/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第15集
-http://vs1.baduziyuan.com/20180328/rVQKCwli/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第16集
-http://vs1.baduziyuan.com/20180328/m87pKIMX/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第17集
-http://vs1.baduziyuan.com/20180328/oq9Y5qRJ/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第18集
-http://vs1.baduziyuan.com/20180328/ql4t8GdJ/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第19集
-http://vs1.baduziyuan.com/20180328/xLSlmVGG/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,请回答1988第20集
-http://vs1.baduziyuan.com/20180328/pTLNldk8/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第01集
-https://txxs.mahua-yongjiu.com/20191216/8022_e0bfa2be/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第02集
-https://txxs.mahua-yongjiu.com/20191217/8140_8f671457/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第03集
-https://txxs.mahua-yongjiu.com/20191223/8781_3e5a116e/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第04集
-https://txxs.mahua-yongjiu.com/20191224/8869_e39465b7/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第05集
-https://txxs.mahua-yongjiu.com/20191230/9450_b5141b48/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第06集
-https://txxs.mahua-yongjiu.com/20191231/9548_6f48d657/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第07集
-https://txxs.mahua-yongjiu.com/20200106/10097_94e71378/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第08集
-https://txxs.mahua-yongjiu.com/20200107/10194_8697b931/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第09集
-https://txxs.mahua-yongjiu.com/20200113/10795_f2f20c52/index.m3u8
-#EXTINF:-1  group-title="韩剧" ,黑狗第10集
-https://txxs.mahua-yongjiu.com/20200114/10889_7bc5d493/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第01集
+https://youku.iqiyi-yongjiu.com/20181121/chFYV4Dk/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第02集
+https://youku.iqiyi-yongjiu.com/20181121/dFCpwqWY/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第03集
+https://youku.iqiyi-yongjiu.com/20181121/wleuLgrK/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第04集
+https://youku.iqiyi-yongjiu.com/20181121/KzvxS1i3/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第05集
+https://youku.iqiyi-yongjiu.com/20181121/y0YSlWEb/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第06集
+https://youku.iqiyi-yongjiu.com/20181121/HjsX8Z9J/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第07集
+https://youku.iqiyi-yongjiu.com/20181121/aqEm0RFS/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第08集
+https://youku.iqiyi-yongjiu.com/20181121/g7CmSECx/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第09集
+https://youku.iqiyi-yongjiu.com/20181121/H9FCzSHP/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第10集
+https://youku.iqiyi-yongjiu.com/20181121/nRjlyuam/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第11集
+https://youku.iqiyi-yongjiu.com/20181121/59jMMmOi/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第12集
+https://youku.iqiyi-yongjiu.com/20181121/0JjPhF6A/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第13集
+https://youku.iqiyi-yongjiu.com/20181121/vDegB8Sg/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第14集
+https://youku.iqiyi-yongjiu.com/20181121/UoN6A9b7/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第15集
+https://youku.iqiyi-yongjiu.com/20181121/PeIKpjRm/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第16集
+https://youku.iqiyi-yongjiu.com/20181121/CcwBa44n/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第17集
+https://youku.iqiyi-yongjiu.com/20181121/6ZO6uM3b/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第18集
+https://youku.iqiyi-yongjiu.com/20181121/JQpHk3J2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第19集
+https://youku.iqiyi-yongjiu.com/20181121/Y9zyAX2u/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154772988018.jpg" group-title="韩剧" ,请回答1988第20集
+https://youku.iqiyi-yongjiu.com/20181121/6zuLj7eH/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第01集
+https://txxs.mahua-yongjiu.com/20191214/7851_01c4d546/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第02集
+https://txxs.mahua-yongjiu.com/20191215/7926_7d3947f4/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第03集
+https://txxs.mahua-yongjiu.com/20191221/8580_8e7291e0/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第04集
+https://txxs.mahua-yongjiu.com/20191222/8661_38a43078/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第05集
+https://txxs.mahua-yongjiu.com/20200104/9942_5bd3feac/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第06集
+https://txxs.mahua-yongjiu.com/20200105/10008_3075ab01/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第07集
+https://txxs.mahua-yongjiu.com/20200111/10634_55736c41/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第08集
+https://txxs.mahua-yongjiu.com/20200112/10693_b12adcf2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第09集
+https://txxs.mahua-yongjiu.com/20200118/11264_f8d66157/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第10集
+https://txxs.mahua-yongjiu.com/20200119/11343_2704a218/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第11集
+https://txxs.mahua-yongjiu.com/20200125/11796_dc91ad53/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第12集
+https://txxs.mahua-yongjiu.com/20200126/11849_3c178321/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第13集
+https://txxs.mahua-yongjiu.com/20200201/12439_e852e147/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-15/1576376535.jpg" group-title="韩剧" ,抉择：女人们的战争第14集
+https://txxs.mahua-yongjiu.com/20200202/12517_a6ec1339/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第1集
 http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第2集
