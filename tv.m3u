@@ -2353,170 +2353,52 @@ http://live.jiaodong.net:82/tvfushan/hls/tv_shenghuo.m3u8
 http://61.162.225.122:8181/live/test2.m3u8
 #EXTINF:-1  tvg-logo=莒县图文频道.png tvg-name=莒县图文频道 group-title="地方台" ,莒县图文频道
 http://61.162.225.122:8181/live/test3.m3u8
-#EXTINF:-1  tvg-logo=无棣综合频道.png tvg-name=无棣综合频道 group-title="地方台" ,无棣综合频道
-http://sdwd.chinashadt.com:1935/live/wdzh.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo=无棣综艺频道.png tvg-name=无棣综艺频道 group-title="地方台" ,无棣综艺频道
 http://sdwd.chinashadt.com:1935/live/wdzy.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=临朐新闻频道.png tvg-name=临朐新闻频道 group-title="地方台" ,临朐新闻频道
-http://sdlqx.chinashadt.com:2036/live/lqxw.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo=青州综合频道.png tvg-name=青州综合频道 group-title="地方台" ,青州综合频道
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo=青州文化旅游.png tvg-name=青州文化旅游 group-title="地方台" ,青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=黄岛新闻频道.png tvg-name=黄岛新闻频道 group-title="地方台" ,黄岛新闻频道
-http://xhalive.qwmedia.cn/hdratv-live/xha-xwpd.m3u8
-#EXTINF:-1  tvg-logo=黄岛生活频道.png tvg-name=黄岛生活频道 group-title="地方台" ,黄岛生活频道
-http://xhalive.qwmedia.cn/hdratv-live/xha-shpd.m3u8
-#EXTINF:-1  tvg-logo=黄岛教育频道.png tvg-name=黄岛教育频道 group-title="地方台" ,黄岛教育频道
-http://xhalive.qwmedia.cn/hdratv-live/xha-jypd.m3u8
-#EXTINF:-1  tvg-logo=黄岛房产频道.png tvg-name=黄岛房产频道 group-title="地方台" ,黄岛房产频道
-http://xhalive.qwmedia.cn/hdratv-live/xha-fcpd.m3u8
-#EXTINF:-1  tvg-logo=黄岛健康频道.png tvg-name=黄岛健康频道 group-title="地方台" ,黄岛健康频道
-http://xhalive.qwmedia.cn/hdratv-live/xha-jkpd.m3u8
-#EXTINF:-1  tvg-logo=黄岛影视频道.png tvg-name=黄岛影视频道 group-title="地方台" ,黄岛影视频道
-http://xhalive.qwmedia.cn/hdratv-live/xha-yspd.m3u8
-#EXTINF:-1  tvg-logo=东方财经.png tvg-name=东方财经 group-title="地方台" ,东方财经
-http://w1.livecache.yicai.com/hls/live/dftv_sd/live.m3u8
 #EXTINF:-1  tvg-logo=山西科教.png tvg-name=山西科教 group-title="地方台" ,山西科教
 http://sxxx.chinashadt.com:2037/live/4.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=太原新闻.png tvg-name=太原新闻 group-title="地方台" ,太原新闻
-http://sxty.chinashadt.com:2036/zhibo/3.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=太原城市资讯.png tvg-name=太原城市资讯 group-title="地方台" ,太原城市资讯
-http://sxty.chinashadt.com:2036/zhibo/2.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=阳泉综合.png tvg-name=阳泉综合 group-title="地方台" ,阳泉综合
-http://124.166.252.222:6505/live/ch1.m3u8
-#EXTINF:-1  tvg-logo=阳泉科教.png tvg-name=阳泉科教 group-title="地方台" ,阳泉科教
-http://124.166.252.222:6505/live/ch2.m3u8
-#EXTINF:-1  tvg-logo=阳泉测试.png tvg-name=阳泉测试 group-title="地方台" ,阳泉测试
-http://124.166.252.222:6505/live/ch0.m3u8
-#EXTINF:-1  tvg-logo=临汾综合频道.png tvg-name=临汾综合频道 group-title="地方台" ,临汾综合频道
-http://sxxx.chinashadt.com:2037/live/1.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=隰县新闻综合.png tvg-name=隰县新闻综合 group-title="地方台" ,隰县新闻综合
-http://sxxx.chinashadt.com:2037/live/2.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo=交城电视台.png tvg-name=交城电视台 group-title="地方台" ,交城电视台
 http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=临县电视台.png tvg-name=临县电视台 group-title="地方台" ,临县电视台
-http://sxlx.chinashadt.com:2036/live/stream:lxtv.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=石楼综合频道.png tvg-name=石楼综合频道 group-title="地方台" ,石楼综合频道
-http://sxll.chinashadt.com:1935/live/sl/playlist.m3u8
 #EXTINF:-1  tvg-logo=遂宁新闻综合.png tvg-name=遂宁新闻综合 group-title="地方台" ,遂宁新闻综合
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
-#EXTINF:-1  tvg-logo=泸州公共频道.png tvg-name=泸州公共频道 group-title="地方台" ,泸州公共频道
-http://61.157.168.66:6066/lztv2/lztv2.m3u8
-#EXTINF:-1  tvg-logo=泸州科教频道.png tvg-name=泸州科教频道 group-title="地方台" ,泸州科教频道
-http://61.157.168.66:6066/lztv3/lztv3.m3u8
-#EXTINF:-1  tvg-logo=宜宾公共频道.png tvg-name=宜宾公共频道 group-title="地方台" ,宜宾公共频道
-http://218.89.69.211:8088/streamer/yb02/yb02-500.m3u8
-#EXTINF:-1  tvg-logo=阿坝综合频道.png tvg-name=阿坝综合频道 group-title="地方台" ,阿坝综合频道
-http://ablive.abatv.com.cn:85/live/zhpd.m3u8
-#EXTINF:-1  tvg-logo=阿坝文艺频道.png tvg-name=阿坝文艺频道 group-title="地方台" ,阿坝文艺频道
-http://ablive.abatv.com.cn:85/live/wypd.m3u8
-#EXTINF:-1  tvg-logo=苍溪新闻频道.png tvg-name=苍溪新闻频道 group-title="地方台" ,苍溪新闻频道
-http://live.sccxtv.com:85/live/xwpd.m3u8
-#EXTINF:-1  tvg-logo=苍溪综合频道.png tvg-name=苍溪综合频道 group-title="地方台" ,苍溪综合频道
-http://live.sccxtv.com:85/live/zhpd.m3u8
 #EXTINF:-1  tvg-logo=安州新闻频道.png tvg-name=安州新闻频道 group-title="地方台" ,安州新闻频道
 http://60.255.137.43:1936/aztvch1/playlist.m3u8
 #EXTINF:-1  tvg-logo=安州电视剧频道.png tvg-name=安州电视剧频道 group-title="地方台" ,安州电视剧频道
 http://60.255.137.43:1936/aztvch2/playlist.m3u8
 #EXTINF:-1  tvg-logo=绵竹新闻综合.png tvg-name=绵竹新闻综合 group-title="地方台" ,绵竹新闻综合
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
-#EXTINF:-1  tvg-logo=西青新闻综合.png tvg-name=西青新闻综合 group-title="地方台" ,西青新闻综合
-http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1  tvg-logo=昌吉综合频道.png tvg-name=昌吉综合频道 group-title="地方台" ,昌吉综合频道
-http://bsyll.qingk.cn/live/cjzh/index.m3u8
-#EXTINF:-1  tvg-logo=博州汉语综合.png tvg-name=博州汉语综合 group-title="地方台" ,博州汉语综合
-http://klmyyun.chinavas.com/hls/bozhou1.m3u8
-#EXTINF:-1  tvg-logo=博州蒙语综合.png tvg-name=博州蒙语综合 group-title="地方台" ,博州蒙语综合
-http://klmyyun.chinavas.com/hls/bozhou2.m3u8
-#EXTINF:-1  tvg-logo=博州维语综合.png tvg-name=博州维语综合 group-title="地方台" ,博州维语综合
-http://klmyyun.chinavas.com/hls/bozhou3.m3u8
-#EXTINF:-1  tvg-logo=七师新闻综合.png tvg-name=七师新闻综合 group-title="地方台" ,七师新闻综合
-http://klmyyun.chinavas.com/hls/qishi1.m3u8
-#EXTINF:-1  tvg-logo=七师电影频道.png tvg-name=七师电影频道 group-title="地方台" ,七师电影频道
-http://klmyyun.chinavas.com/hls/qishi4.m3u8
-#EXTINF:-1  tvg-logo=福海汉语综合.png tvg-name=福海汉语综合 group-title="地方台" ,福海汉语综合
-http://klmyyun.chinavas.com/hls/fuhai2.m3u8
-#EXTINF:-1  tvg-logo=美丽云南.png tvg-name=美丽云南 group-title="地方台" ,美丽云南
-http://www.ynbit.cn:1935/cyds-mlyn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo=岳阳交通广播 FM106.1.png tvg-name=岳阳交通广播 FM106.1 group-title="地方台" ,岳西综合
-http://58.243.4.22:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1  tvg-logo=红河州新闻综合.png tvg-name=红河州新闻综合 group-title="地方台" ,红河州新闻综合
-http://live.hhtv.cc:9099/ch1/ch1.m3u8
-#EXTINF:-1  tvg-logo=红河州经济生活.png tvg-name=红河州经济生活 group-title="地方台" ,红河州经济生活
-http://live.hhtv.cc:9099/ch2/ch2.m3u8
-#EXTINF:-1  tvg-logo=文山州新闻综合.png tvg-name=文山州新闻综合 group-title="地方台" ,文山州新闻综合
-http://store.ovp.wsrtv.com.cn:9090/ch1/hls/playlist.m3u8
-#EXTINF:-1  tvg-logo=迪庆藏语.png tvg-name=迪庆藏语 group-title="地方台" ,迪庆藏语
-http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo=个旧综合.png tvg-name=个旧综合 group-title="地方台" ,个旧综合
-http://live.hhtv.cc:9098/gjtv/gjtv.m3u8
-#EXTINF:-1  tvg-logo=红河县综合.png tvg-name=红河县综合 group-title="地方台" ,红河县综合
-http://live.hhtv.cc:9099/hhtv/hhtv.m3u8
-#EXTINF:-1  tvg-logo=河口综合.png tvg-name=河口综合 group-title="地方台" ,河口综合
-http://live.hhtv.cc:9098/hktv/hktv.m3u8
 #EXTINF:-1  tvg-logo=屏边综合.png tvg-name=屏边综合 group-title="地方台" ,屏边综合
 http://live.hhtv.cc:9098/pbtv/pbtv.m3u8
 #EXTINF:-1  tvg-logo=元阳综合.png tvg-name=元阳综合 group-title="地方台" ,元阳综合
 http://live.hhtv.cc:9098/yytv/yytv.m3u8
-#EXTINF:-1  tvg-logo=昌宁电视台.png tvg-name=昌宁电视台 group-title="地方台" ,昌宁电视台
-http://112.113.134.36:680/live/pc/index.m3u8
 #EXTINF:-1  tvg-logo=湖州公共民生.png tvg-name=湖州公共民生 group-title="地方台" ,湖州公共民生
 http://live2.hzitv.cn/tslslive/z6NexHK/hls/live_sd.m3u8
 #EXTINF:-1  tvg-logo=上虞新商都.png tvg-name=上虞新商都 group-title="地方台" ,上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1  tvg-logo=平阳新闻综合.png tvg-name=平阳新闻综合 group-title="地方台" ,平阳新闻综合
-http://113.214.24.158:8011/hls/srdekakt/index.m3u8
 #EXTINF:-1  tvg-logo=象山新闻综合.png tvg-name=象山新闻综合 group-title="地方台" ,象山新闻综合
 http://v.xstv.net/hls-live/live/_definst_/liveevent/2222.m3u8
-#EXTINF:-1  tvg-logo=青田电视台.png tvg-name=青田电视台 group-title="地方台" ,青田电视台
-http://61.153.68.139:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo=柯桥电视.png tvg-name=柯桥电视 group-title="地方台" ,柯桥电视
 http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1 tvg-logo=安徽蚌埠公共频道.png tvg-name=安徽蚌埠公共频道 group-title="地方台" ,安徽蚌埠公共频道
 http://newvod.ahbbtv.com:1935/live/ggpd/playlist.m3u8
-#EXTINF:-1 tvg-logo=安徽蚌埠公交频道.png tvg-name=安徽蚌埠公交频道 group-title="地方台" ,安徽蚌埠公交频道
-http://newvod.ahbbtv.com:1935/live/gjpd/playlist.m3u8
-#EXTINF:-1 tvg-logo=安徽国际.png tvg-name=安徽国际 group-title="地方台" ,安徽国际
-http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_200.m3u8
 #EXTINF:-1 tvg-logo=安徽岳西影视频道2.png tvg-name=安徽岳西影视频道2 group-title="地方台" ,安徽岳西影视频道2
 http://58.243.4.22:1935/live/yingshi/chunklist_w56454886.m3u8
 #EXTINF:-1 tvg-logo=安徽岳西综合频道2.png tvg-name=安徽岳西综合频道2 group-title="地方台" ,安徽岳西综合频道2
 http://58.243.4.22:1935/live/zonghe/chunklist_w96452433.m3u8
-#EXTINF:-1 tvg-logo=安图综合频道.png tvg-name=安图综合频道 group-title="地方台" ,安图综合频道
-http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
-#EXTINF:-1 tvg-logo=安阳新闻综合.png tvg-name=安阳新闻综合 group-title="地方台" ,安阳新闻综合
-http://jxay.chinashadt.com:1936/live/stream:aytv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=巴南生活服务1.png tvg-name=巴南生活服务1 group-title="地方台" ,巴南生活服务1
-http://bananlive.cbg.cn/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-logo=巴南生活服务2.png tvg-name=巴南生活服务2 group-title="地方台" ,巴南生活服务2
-http://stream.cqbntv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-logo=巴南综合频道1.png tvg-name=巴南综合频道1 group-title="地方台" ,巴南综合频道1
-http://bananlive.cbg.cn/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-logo=巴南综合频道2.png tvg-name=巴南综合频道2 group-title="地方台" ,巴南综合频道2
-http://stream.cqbntv.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-logo=巴中综合频道.png tvg-name=巴中综合频道 group-title="地方台" ,巴中综合频道
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 #EXTINF:-1 tvg-logo=霸州文化频道.png tvg-name=霸州文化频道 group-title="地方台" ,霸州文化频道
 http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=霸州新闻频道.png tvg-name=霸州新闻频道 group-title="地方台" ,霸州新闻频道
 http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=蚌埠新闻综合.png tvg-name=蚌埠新闻综合 group-title="地方台" ,蚌埠新闻综合
-http://qichun.live.cjyun.org/video/s10126-TC1T/index.m3u8
-#EXTINF:-1 tvg-logo=包头新闻综合.png tvg-name=包头新闻综合 group-title="地方台" ,包头新闻综合
-http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 #EXTINF:-1 tvg-logo=宝应生活资讯.png tvg-name=宝应生活资讯 group-title="地方台" ,宝应生活资讯
 http://jsby.chinashadt.com:2035/live/by1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=北海经济科教.png tvg-name=北海经济科教 group-title="地方台" ,北海经济科教
-http://live.bhtv.cc/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-logo=北京财经.png tvg-name=北京财经 group-title="地方台" ,北京财经
-http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv7_2/index.m3u8
 #EXTINF:-1 tvg-logo=北京生活.png tvg-name=北京生活 group-title="地方台" ,北京生活
 http://123.56.16.201:1935/live/fm1065/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo=北京卫视FHD.png tvg-name=北京卫视FHD group-title="地方台" ,北京卫视FHD
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 tvg-logo=北京新闻.png tvg-name=北京新闻 group-title="地方台" ,北京新闻
-http://ivi.bupt.edu.cn/hls/btv9.m3u8
 #EXTINF:-1 tvg-logo=滨城综合频道.png tvg-name=滨城综合频道 group-title="地方台" ,滨城综合频道
 http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=滨海新闻.png tvg-name=滨海新闻 group-title="地方台" ,滨海新闻
@@ -2525,8 +2407,6 @@ http://60.30.52.41/live/bhtv1/playlist.m3u8
 http://sdbz.chinashadt.com:2036/live/1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=滨州新闻综合.png tvg-name=滨州新闻综合 group-title="地方台" ,滨州新闻综合
 http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 tvg-logo=兵团卫视 (Opt-1).png tvg-name=兵团卫视 (Opt-1) group-title="地方台" ,兵团卫视 (Opt-1)
-http://59.48.244.99:8098/hls/xx/playlist.m3u8
 #EXTINF:-1 tvg-logo=亳州农村频道.png tvg-name=亳州农村频道 group-title="地方台" ,亳州农村频道
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 #EXTINF:-1 tvg-logo=亳州新闻频道.png tvg-name=亳州新闻频道 group-title="地方台" ,亳州新闻频道
@@ -2541,34 +2421,10 @@ http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
 http://live.zscz0768.com/live/ggpd.m3u8
 #EXTINF:-1 tvg-logo=潮州综合.png tvg-name=潮州综合 group-title="地方台" ,潮州综合
 http://dslive.grtn.cn/czzh/sd/live.m3u8
-#EXTINF:-1 tvg-logo=池州新闻综合.png tvg-name=池州新闻综合 group-title="地方台" ,池州新闻综合
-http://cztv.wshls.homecdn.com/live/829d.m3u8
 #EXTINF:-1 tvg-logo=滁州科教频道.png tvg-name=滁州科教频道 group-title="地方台" ,滁州科教频道
 http://183.167.193.45:1935/live/cztvzh/playlist.m3u8
 #EXTINF:-1 tvg-logo=滁州新闻综合.png tvg-name=滁州新闻综合 group-title="地方台" ,滁州新闻综合
 http://183.167.193.45:1935/live/cztvgg/playlist.m3u8
-#EXTINF:-1 tvg-logo=磁县综合频道.png tvg-name=磁县综合频道 group-title="地方台" ,磁县综合频道
-http://218.5.112.180:88/live/dssl/chunklist_w1615464711.m3u8
-#EXTINF:-1 tvg-logo=大悟综合.png tvg-name=大悟综合 group-title="地方台" ,大悟综合
-http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
-#EXTINF:-1 tvg-logo=大冶二套.png tvg-name=大冶二套 group-title="地方台" ,大冶二套
-http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
-#EXTINF:-1 tvg-logo=大冶一套.png tvg-name=大冶一套 group-title="地方台" ,大冶一套
-http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
-#EXTINF:-1 tvg-logo=大竹新闻综合.png tvg-name=大竹新闻综合 group-title="地方台" ,大竹新闻综合
-http://175.153.153.53:8083/videos/live/50/0/fvfm8SqxEkQGt/fvfm8SqxEkQGt.M3U8
-#EXTINF:-1 tvg-logo=大竹阳光政务.png tvg-name=大竹阳光政务 group-title="地方台" ,大竹阳光政务
-http://175.153.153.53:8083/videos/live/17/51/958cxpfHCjqwj/958cxpfHCjqwj.M3U8
-#EXTINF:-1 tvg-logo=儋州综合频道.png tvg-name=儋州综合频道 group-title="地方台" ,儋州综合频道
-http://34530.hlsplay.aodianyun.com/guangdianyun_34530/tv_channel_330.m3u8
-#EXTINF:-1 tvg-logo=德化新闻综合.png tvg-name=德化新闻综合 group-title="地方台" ,德化新闻综合
-http://zb.dehua.tv:8134/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8
-#EXTINF:-1 tvg-logo=德阳公共频道.png tvg-name=德阳公共频道 group-title="地方台" ,德阳公共频道
-http://scdytv.com:1935/live/ggpd_livevideo/palylist.m3u8
-#EXTINF:-1 tvg-logo=德阳新闻综合.png tvg-name=德阳新闻综合 group-title="地方台" ,德阳新闻综合
-http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
-#EXTINF:-1 tvg-logo=德州公共频道.png tvg-name=德州公共频道 group-title="地方台" ,德州公共频道
-http://video.dztv.tv:1935/live/dzgg_bq/playlist.m3u8
 #EXTINF:-1 tvg-logo=德州图文频道.png tvg-name=德州图文频道 group-title="地方台" ,德州图文频道
 http://video.dztv.tv:1935/live/dztw_bq/playlist.m3u8
 #EXTINF:-1 tvg-logo=德州新闻频道.png tvg-name=德州新闻频道 group-title="地方台" ,德州新闻频道
