@@ -5,13 +5,11 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg"  group-title="精彩4K",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg"  group-title="精彩4K",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg"  group-title="精彩4K",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png"  group-title="精彩4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png"  group-title="台港澳",年代新闻
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png"  group-title="台港澳",有线新闻台
 http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png"  group-title="台港澳",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
@@ -174,7 +172,7 @@ https://yingxiong.qiling-yongjiu.com/20191026/12386_8b3863ba/index.m3u8
 https://yingxiong.qiling-yongjiu.com/20191026/12385_7e8598c6/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-02-01/1580541889.jpg" group-title="演唱会",美国小姐Miss Americana
 http://cdn-yong.bejingyongjiu.com/20200131/2389_4dca35cd/index.m3u8
-#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=3621871064,3058751054&fm=26&gp=0.jpg" group-title="演唱会",TWICE NHK涉谷之音完整版
+#EXTINF:-1 tvg-logo="http://img.maquezy.com/upload/vod/2019-12-18/201912181576642628.jpg" group-title="演唱会",TWICE NHK涉谷之音完整版
 http://dy.piaohua-kuyun.com/20191217/1490_9f253036/index.m3u8
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=3621871064,3058751054&fm=26&gp=0.jpg" group-title="演唱会",滨崎步
 https://youku.cdn7-okzy.com/20200117/16700_7a986e5c/index.m3u8
