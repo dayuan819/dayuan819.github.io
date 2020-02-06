@@ -3,12 +3,6 @@
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-logo=新传媒8频道.png tvg-name=新传媒8频道  group-title="台港澳" ,新传媒8频道
 https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg"  group-title="精彩4K",BesTV4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg"  group-title="精彩4K",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png"  group-title="精彩4K",爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png"  group-title="台港澳",有线新闻台
 http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png"  group-title="台港澳",八大综合台
@@ -1996,6 +1990,12 @@ http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ys
 http://39.135.36.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东体育
 http://27.36.62.162:9090/live/gdsportsHD_7000.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=4008566930,2667451389&fm=26&gp=0.jpg"  group-title="央视",BesTV4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg"  group-title="央视",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png"  group-title="央视",爱上4K
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3813026378,2007700938&fm=26&gp=0.jpg" group-title="央视" ,中國氣象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3187052834,983380304&fm=11&gp=0.jpg" group-title="央视" ,中國交通
