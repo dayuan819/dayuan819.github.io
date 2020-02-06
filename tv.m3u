@@ -3418,12 +3418,6 @@ http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8
 http://suizhou.live.cjyun.org/video/s10145-szzhpd/index.m3u8
 #EXTINF:-1 tvg-logo=太仓娄东民生.png tvg-name=太仓娄东民生 group-title="地方台" ,太仓娄东民生
 http://58.211.172.37:1935/live/djpdpc/playlist.m3u8
-#EXTINF:-1 tvg-logo=太仓新闻频道.png tvg-name=太仓新闻频道 group-title="地方台" ,太仓新闻频道
-http://58.211.172.37:1935/live/tcxwpc/playlist.m3u8
-#EXTINF:-1 tvg-logo=泰兴新闻频道.png tvg-name=泰兴新闻频道 group-title="地方台" ,泰兴新闻频道
-http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
-#EXTINF:-1 tvg-logo=探索世界.png tvg-name=探索世界 group-title="地方台" ,探索世界
-http://122.155.180.8:5021/live/440
 #EXTINF:-1 tvg-logo=唐山滦南新闻综合.png tvg-name=唐山滦南新闻综合 group-title="地方台" ,唐山滦南新闻综合
 http://tv.lnshw.com.cn:3100/hls/pegdvlxq/index.m3u8
 #EXTINF:-1 tvg-logo=唐山滦南影视娱乐.png tvg-name=唐山滦南影视娱乐 group-title="地方台" ,唐山滦南影视娱乐
@@ -3440,30 +3434,10 @@ http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225562/index.m3u8
 http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
 #EXTINF:-1 tvg-logo=通化新闻.png tvg-name=通化新闻 group-title="地方台" ,通化新闻
 http://app.qatv.cn:1937/live/stream:shfw.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo=通许新农村.png tvg-name=通许新农村 group-title="地方台" ,通许新农村
-http://120.194.234.121:81/hls/live32.m3u8
-#EXTINF:-1 tvg-logo=通许影视频道.png tvg-name=通许影视频道 group-title="地方台" ,通许影视频道
-http://120.194.234.121:81/hls/live33.m3u8
-#EXTINF:-1 tvg-logo=通许有线频道.png tvg-name=通许有线频道 group-title="地方台" ,通许有线频道
-http://120.194.234.121:81/hls/live34.m3u8
-#EXTINF:-1 tvg-logo=铜梁文旅1.png tvg-name=铜梁文旅1 group-title="地方台" ,铜梁文旅1
-http://tonglianglive.cbg.cn:50123/ch2.m3u8
-#EXTINF:-1 tvg-logo=铜梁文旅2.png tvg-name=铜梁文旅2 group-title="地方台" ,铜梁文旅2
-http://183.64.174.171:50123/ch2.m3u8
-#EXTINF:-1 tvg-logo=铜梁综合1.png tvg-name=铜梁综合1 group-title="地方台" ,铜梁综合1
-http://tonglianglive.cbg.cn:40123/ch1.m3u8
-#EXTINF:-1 tvg-logo=铜梁综合2.png tvg-name=铜梁综合2 group-title="地方台" ,铜梁综合2
-http://183.64.174.171:40123/ch1.m3u8
 #EXTINF:-1 tvg-logo=铜仁城市生活.png tvg-name=铜仁城市生活 group-title="地方台" ,铜仁城市生活
 http://media.trrtv.com:8083/videos/live/53/2/XSpPeSTEmkFgY/XSpPeSTEmkFgY.M3U8
 #EXTINF:-1 tvg-logo=铜仁新闻综合.png tvg-name=铜仁新闻综合 group-title="地方台" ,铜仁新闻综合
 http://media.trrtv.com:8083/videos/live/10/37/iY2ZjcOkrjAJN/iY2ZjcOkrjAJN.M3U8
-#EXTINF:-1 tvg-logo=铜仁综合.png tvg-name=铜仁综合 group-title="地方台" ,铜仁综合
-http://gztr.chinashadt.com:2036/live/stream:tr2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=瓦房店经济生活.png tvg-name=瓦房店经济生活 group-title="地方台" ,瓦房店经济生活
-http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb002.m3u8
-#EXTINF:-1 tvg-logo=瓦房店新闻综合.png tvg-name=瓦房店新闻综合 group-title="地方台" ,瓦房店新闻综合
-http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb003.m3u8
 #EXTINF:-1 tvg-logo=万盛新闻综合.png tvg-name=万盛新闻综合 group-title="地方台" ,万盛新闻综合
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=万载综合频道.png tvg-name=万载综合频道 group-title="地方台" ,万载综合频道
@@ -3482,34 +3456,10 @@ http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
 #EXTINF:-1 tvg-logo=万州综合频道.png tvg-name=万州综合频道 group-title="地方台" ,万州综合频道
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 tvg-logo=网络放映厅11.png tvg-name=网络放映厅11 group-title="地方台" ,网络放映厅11
-http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
-#EXTINF:-1 tvg-logo=网络放映厅15.png tvg-name=网络放映厅15 group-title="地方台" ,网络放映厅15
-http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
-#EXTINF:-1 tvg-logo=威海公共频道.png tvg-name=威海公共频道 group-title="地方台" ,威海公共频道
-http://l.weihai.tv:554/live/gongtvtwo/playlist.m3u8
-#EXTINF:-1 tvg-logo=威海海洋频道.png tvg-name=威海海洋频道 group-title="地方台" ,威海海洋频道
-http://l.weihai.tv:554/live/haiyangpdtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=威海睛彩频道.png tvg-name=威海睛彩频道 group-title="地方台" ,威海睛彩频道
-http://l.weihai.tv:554/live/jingcaiwhtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=威海综合频道.png tvg-name=威海综合频道 group-title="地方台" ,威海综合频道
-http://l.weihai.tv:554/live/yitaozhibo/playlist.m3u8
-#EXTINF:-1 tvg-logo=围场新闻综合 (内蒙古).png tvg-name=围场新闻综合 (内蒙古) group-title="地方台" ,围场新闻综合 (内蒙古)
-http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
 #EXTINF:-1 tvg-logo=温江电视台.png tvg-name=温江电视台 group-title="地方台" ,温江电视台
 http://tp01.videocc.net/cnbaina/cnbaina/playlist.m3u8
-#EXTINF:-1 tvg-logo=温州都市生活.png tvg-name=温州都市生活 group-title="地方台" ,温州都市生活
-http://hls.dhtv.cn:8080/live/v3_13.m3u8
-#EXTINF:-1 tvg-logo=温州绿色之声 FM93.8.png tvg-name=温州绿色之声 FM93.8 group-title="地方台" ,温州绿色之声 FM93.8
-http://hls.dhtv.cn:8080/live/v2_12.m3u8
-#EXTINF:-1 tvg-logo=文山公众.png tvg-name=文山公众 group-title="地方台" ,文山公众
-http://zb.pzhgd.com:9091/live/xwzh.m3u8
-#EXTINF:-1 tvg-logo=文山市电视台.png tvg-name=文山市电视台 group-title="地方台" ,文山市电视台
-http://store.ovp.wsrtv.com.cn:9090/ch2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo=涡阳新闻综合.png tvg-name=涡阳新闻综合 group-title="地方台" ,涡阳新闻综合
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.M3U8
-#EXTINF:-1 tvg-logo=乌海综合频道.png tvg-name=乌海综合频道 group-title="地方台" ,乌海综合频道
-http://hblz.chinashadt.com:1538/live/di4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=无锡都市资讯.png tvg-name=无锡都市资讯 group-title="地方台" ,无锡都市资讯
 http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
 #EXTINF:-1 tvg-logo=无锡教育频道.png tvg-name=无锡教育频道 group-title="地方台" ,无锡教育频道
@@ -3526,10 +3476,6 @@ http://220.178.172.47:8090/live/ch0.m3u8
 http://220.178.172.47:8090/live/ch1.m3u8
 #EXTINF:-1 tvg-logo=芜湖新闻综合.png tvg-name=芜湖新闻综合 group-title="地方台" ,芜湖新闻综合
 http://live1.wuhubtv.com/channel4/sd/live.m3u8
-#EXTINF:-1 tvg-logo=吴江新闻综合.png tvg-name=吴江新闻综合 group-title="地方台" ,吴江新闻综合
-http://stream1.jletv.cn/jljy/sd/live.m3u8
-#EXTINF:-1 tvg-logo=五星体育.png tvg-name=五星体育 group-title="地方台" ,五星体育
-http://111.48.34.235/wh7f454c46tw3034174782_30136537/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
 #EXTINF:-1 tvg-logo=武进生活频道.png tvg-name=武进生活频道 group-title="地方台" ,武进生活频道
 http://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-logo=武穴综合.png tvg-name=武穴综合 group-title="地方台" ,武穴综合
@@ -3634,40 +3580,16 @@ http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225951/index.m3u8
 http://stream.pznews.com/pztv1/sd/live.m3u8
 #EXTINF:-1 tvg-logo=徐州邳州综艺.png tvg-name=徐州邳州综艺 group-title="地方台" ,徐州邳州综艺
 http://stream.pznews.com/pztv2/sd/live.m3u8
-#EXTINF:-1 tvg-logo=徐州新沂生活频道.png tvg-name=徐州新沂生活频道 group-title="地方台" ,徐州新沂生活频道
-http://app.yishuweb.com:81/live2/livestream_ff.m3u8
-#EXTINF:-1 tvg-logo=徐州新沂新闻综合.png tvg-name=徐州新沂新闻综合 group-title="地方台" ,徐州新沂新闻综合
-http://app.yishuweb.com:81/live1/livestream_ff.m3u8
-#EXTINF:-1 tvg-logo=宣恩综合.png tvg-name=宣恩综合 group-title="地方台" ,宣恩综合
-http://xuanen.live.cjyun.org/video/s10097-xezh/index.m3u8
-#EXTINF:-1 tvg-logo=宣汉城市公众.png tvg-name=宣汉城市公众 group-title="地方台" ,宣汉城市公众
-http://60.255.77.232/1000/1000.m3u8
-#EXTINF:-1 tvg-logo=宣汉新闻综合.png tvg-name=宣汉新闻综合 group-title="地方台" ,宣汉新闻综合
-http://60.255.77.232/1001/1001.m3u8
 #EXTINF:-1 tvg-logo=延安综合.png tvg-name=延安综合 group-title="地方台" ,延安综合
 http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
 #EXTINF:-1 tvg-logo=延边汉语综合 (Opt-2).png tvg-name=延边汉语综合 (Opt-2) group-title="地方台" ,延边汉语综合 (Opt-2)
 http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
-#EXTINF:-1 tvg-logo=阳江综合 (Opt-2).png tvg-name=阳江综合 (Opt-2) group-title="地方台" ,阳江综合 (Opt-2)
-http://live.yjbc.tv:8081/live/smil:yjtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=阳江综合.png tvg-name=阳江综合 group-title="地方台" ,阳江综合
-http://live.yjbc.tv/live/smil:yjtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=阳泉测试.png tvg-name=阳泉测试 group-title="地方台" ,阳泉测试
-http://live.yqrtv.com:6505/live/ch0.m3u8
-#EXTINF:-1 tvg-logo=阳泉科教.png tvg-name=阳泉科教 group-title="地方台" ,阳泉科教
-http://live.yqrtv.com:6505/live/ch2.m3u8
-#EXTINF:-1 tvg-logo=阳泉新闻综合.png tvg-name=阳泉新闻综合 group-title="地方台" ,阳泉新闻综合
-http://live.yqrtv.com:6505/live/ch1.m3u8
-#EXTINF:-1 tvg-logo=耀才财经.png tvg-name=耀才财经 group-title="地方台" ,耀才财经
-http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo=叶县二套.png tvg-name=叶县二套 group-title="地方台" ,叶县二套
 http://hnyx.chinashadt.com:1935/live/1003.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=叶县三套.png tvg-name=叶县三套 group-title="地方台" ,叶县三套
 http://hnyx.chinashadt.com:1935/live/yexian1001.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=叶县一套.png tvg-name=叶县一套 group-title="地方台" ,叶县一套
 http://218.3.92.100:1937/live/shenghuo/playlist.m3u8
-#EXTINF:-1 tvg-logo=仪陇综合频道.png tvg-name=仪陇综合频道 group-title="地方台" ,仪陇综合频道
-http://bsyll.qingk.cn/live/scyltv01/index.m3u8
 #EXTINF:-1 tvg-logo=夷陵综合.png tvg-name=夷陵综合 group-title="地方台" ,夷陵综合
 http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
 #EXTINF:-1 tvg-logo=宜宾新闻综合.png tvg-name=宜宾新闻综合 group-title="地方台" ,宜宾新闻综合
@@ -3678,12 +3600,6 @@ http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
 http://hnyz.chinashadt.com:2036/live/stream:tv2.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo=宜章新闻综合.png tvg-name=宜章新闻综合 group-title="地方台" ,宜章新闻综合
 http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo=翼城电视台.png tvg-name=翼城电视台 group-title="地方台" ,翼城电视台
-http://bsyrtmp.seastart.cn/sstlive/l3yeq/playlist.m3u8
-#EXTINF:-1 tvg-logo=音乐 mtv.png tvg-name=音乐 mtv group-title="地方台" ,音乐 mtv
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-logo=银川新闻综合频率 AM801.png tvg-name=银川新闻综合频率 AM801 group-title="地方台" ,银川新闻综合频率 AM801
-http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
 #EXTINF:-1 tvg-logo=营山电视台.png tvg-name=营山电视台 group-title="地方台" ,营山电视台
 http://live.ysxtv.cn:8081/Ch1/playlist.m3u8
 #EXTINF:-1 tvg-logo=影视剧频道.png tvg-name=影视剧频道 group-title="地方台" ,影视剧频道
@@ -3790,7 +3706,7 @@ http://stream.wifizs.cn/xwzh/sd/live.m3u8
 http://live.wifizs.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo=舟山新闻综合 (Opt-1).png tvg-name=舟山新闻综合 (Opt-1) group-title="地方台" ,舟山新闻综合 (Opt-1)
 http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 tvg-logo=珠海综合.png tvg-name=珠海综合 group-title="地方台" ,珠海综合
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZHTV1.jpg?1" group-title="地方台" ,珠海综合
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
-#EXTINF:-1 tvg-logo=珠江频道.png tvg-name=珠江频道 group-title="地方台" ,珠江频道
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,珠江频道
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
