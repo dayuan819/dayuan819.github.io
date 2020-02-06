@@ -27,12 +27,8 @@ http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台港澳",国家地理
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="台港澳",FOX动作电影
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name=鳳凰中文 group-title="台港澳" ,凤凰中文
 http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="台港澳",凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="台港澳",凤凰中文
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="台港澳",凤凰中文
@@ -79,6 +75,7 @@ http://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562
 https://leshi.cdn-zuyida.com/20171024/cLS2cuVk/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2018-12/2018121633535530.jpg" group-title="点播",我是你爸爸
 https://baidu.nmbaojie.com/api/data/youku/1b37f1d9d4e7cc721389398ec11b9cb8.m3u8
+http://sina.jingpinxiazai.com/20181130/1vLPfGeS/index.m3u8
 #EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/4301043.jpg" group-title="点播",传染病Contagion
 http://cdn-yong.bejingyongjiu.com/20200129/2142_33ce87a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://ddrk.me/douban_cache/27045860.jpg" group-title="点播",原钻Uncut Gems
@@ -175,7 +172,8 @@ https://yingxiong.qiling-yongjiu.com/20191026/12387_98aad0ee/index.m3u8
 https://yingxiong.qiling-yongjiu.com/20191026/12386_8b3863ba/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2018-6/20186139223191276.jpg" group-title="点播",007：大破量子危机
 https://yingxiong.qiling-yongjiu.com/20191026/12385_7e8598c6/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-02-01/1580541889.jpg" group-title="演唱会",美国小姐Miss Americana
+http://cdn-yong.bejingyongjiu.com/20200131/2389_4dca35cd/index.m3u8
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=3621871064,3058751054&fm=26&gp=0.jpg" group-title="演唱会",TWICE NHK涉谷之音完整版
 http://dy.piaohua-kuyun.com/20191217/1490_9f253036/index.m3u8
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=3621871064,3058751054&fm=26&gp=0.jpg" group-title="演唱会",滨崎步
@@ -230,53 +228,7 @@ https://www.dt870.com/20190309/JHy0MNgc/index.m3u8
 https://www.dt870.com/20190309/mF7LvbbV/index.m3u8
 #EXTINF:-1 tvg-logo="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/whfpf%3D700%2C700%2C0/sign=806d38f1f21986184112bcc42cd01943/f9dcd100baa1cd1141fdcfb0b312c8fcc2ce2dd2.jpg" group-title="演唱会",南宁演唱会
 https://www.dt870.com/20190309/0D5LTj5k/index.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Skynetsport5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Skynetsport6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Bein2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Fox Sport1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,Golf HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,FoxActionHD
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,H2 HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,NatGeo Wild_TH
-https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,NatGeo People
-https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,NatGeoWild
-https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,MTV_China
-https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,MTV_Asia
-https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,MTV_Live_HD
-https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="jpg" group-title="科教" ,BT Sport ESPN HD
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo=BABY亲子台.png tvg-name=BABY亲子台 group-title="科教" ,BABY亲子台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="科教" ,BABY亲子台
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV10科教.png tvg-name=CCTV10科教 group-title="科教" ,CCTV10科教
 http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
@@ -294,8 +246,10 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 http://v.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-logo=博斯魅力網.png tvg-name=博斯魅力網 group-title="科教" ,南阳科教
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
-#EXTINF:-1 tvg-logo=冬奥会直播.png tvg-name=博斯魅力網 group-title="科教" ,冬奥会直播
+#EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3470004296,3111340710&fm=15&gp=0.jpg" group-title="科教" ,OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-19/1576740049.jpg" group-title="记录片 " ,纯植物饮食国度
+https://txxs.mahua-yongjiu.com/20191219/8333_3a3ff584/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2444917565,898015256&fm=26&gp=0.jpg" group-title="记录片 " ,阿爷厨房第四季第01集
 https://txxs.mahua-yongjiu.com/20191217/8081_46677d9e/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2444917565,898015256&fm=26&gp=0.jpg" group-title="记录片 " ,阿爷厨房第四季第02集
