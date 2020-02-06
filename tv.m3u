@@ -7,7 +7,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="台港澳",凤凰中文
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台港澳",中视（解码HW+）
 http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台港澳",华视（解码HW+）
@@ -1927,29 +1926,29 @@ http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_h
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/19/oKBMQVGRXawnSbk.jpg" group-title="卫视",广东综艺4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 tvg-logo=IPTV动作电影.png tvg-name=IPTV动作电影 group-title="卫视" ,IPTV动作电影
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV动作电影
 http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV海外剧场.png tvg-name=IPTV海外剧场 group-title="卫视" ,IPTV海外剧场
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV海外剧场
 http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV家庭剧场.png tvg-name=IPTV家庭剧场 group-title="卫视" ,IPTV家庭剧场
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV家庭剧场
 http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV金牌综艺.png tvg-name=IPTV金牌综艺 group-title="卫视" ,IPTV金牌综艺
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg" group-title="卫视" ,NEWTV金牌综艺
 http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV惊悚悬疑.png tvg-name=IPTV惊悚悬疑 group-title="卫视" ,IPTV惊悚悬疑
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV惊悚悬疑
 http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV精品大剧.png tvg-name=IPTV精品大剧 group-title="卫视" ,IPTV精品大剧
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV精品大剧
 http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV精品电影.png tvg-name=IPTV精品电影 group-title="卫视" ,IPTV精品电影
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV精品电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV精品记录.png tvg-name=IPTV精品记录 group-title="卫视" ,IPTV精品记录
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV精品记录
 http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV精品综艺.png tvg-name=IPTV精品综艺 group-title="卫视" ,IPTV精品综艺
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV精品综艺
 http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV军旅剧场.png tvg-name=IPTV军旅剧场 group-title="卫视" ,IPTV军旅剧场
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV军旅剧场
 http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV军事评论.png tvg-name=IPTV军事评论 group-title="卫视" ,IPTV军事评论
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="卫视" ,NEWTV军事评论
 http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
-#EXTINF:-1 tvg-logo=IPTV明星大片.png tvg-name=IPTV明星大片 group-title="卫视" ,IPTV明星大片
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdapian.jpg" group-title="卫视" ,NEWTV明星大片
 http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://39.135.34.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
