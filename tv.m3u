@@ -88,6 +88,8 @@ http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3296625489,1705652213&fm=26&gp=0.jpg" tvg-name=Channel V group-title="台港澳" ,CBS
 http://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-02-07/1581068517.jpg" group-title="点播",天问/天文/Forbidden Dream
+http://cdn-yong.bejingyongjiu.com/20200207/2801_16a823e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-03-28/15537038426.jpg" group-title="点播",活着
 https://leshi.cdn-zuyida.com/20171024/cLS2cuVk/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2018-12/2018121633535530.jpg" group-title="点播",我是你爸爸
