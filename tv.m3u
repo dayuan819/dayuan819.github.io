@@ -3,12 +3,6 @@
 
 #EXTINF:-1, 凤凰资讯台
 http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1, 北京卡酷少儿
-http://39.134.65.3:80/wh7f454c46tw1933009533_-332308272/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=11
-#EXTINF:-1, 山东教育卫视
-http://39.134.65.78:80/wh7f454c46tw1933125098_470361258/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=128
-#EXTINF:-1, 香港衛視HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1, 广东少儿 TVS5
 http://nclive.grtn.cn/tvs5/sd/live.m3u8?ts
 #EXTINF:-1, 广东影视 TVS4
@@ -35,22 +29,6 @@ http://39.135.135.12:80/wh7f454c46tw1933105094_-625096505/ottrrs.hl.chinamobile.
 http://112.50.243.8/PLTV/88888888/224/3221225869/1.m3u8
 #EXTINF:-1, 优漫卡通
 http://39.134.65.4:80/wh7f454c46tw1933127932_-1207322636/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=4
-#EXTINF:-1, 军事评论
-http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1, 军旅剧场
-http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1, 农业致富
-http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1, 动漫秀场
-http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:-1, 南方卫视
-http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
-#EXTINF:-1, 卡库少儿
-http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
-#EXTINF:-1, 哈哈炫动
-http://39.134.65.88:80/wh7f454c46tw1933128043_-322208636/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=134
-#EXTINF:-1, 嘉佳卡通
-http://nclive.grtn.cn/jjkt/sd/live.m3u8?ts
 #EXTINF:-1, 安多卫视
 http://39.134.65.78:80/wh7f454c46tw1932333408_1149385642/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=128
 #EXTINF:-1, 家庭剧场
@@ -87,16 +65,10 @@ http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
 #EXTINF:-1, 金牌综艺
 http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1, 金鹰卡通
-http://39.134.65.4:80/wh7f454c46tw1932626631_-746598519/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=4
-#EXTINF:-1, 风尚购物
-http://112.50.243.8/PLTV/88888888/224/3221225875/1.m3u8
 #EXTINF:-1, CETV1
 http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 #EXTINF:-1, CHC电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1, 印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1, 欧美MTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1, 皇马足球台
@@ -167,8 +139,6 @@ http://39.134.65.71:80/wh7f454c46tw1932631685_2130682535/ottrrs.hl.chinamobile.c
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, US-CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1, JP-NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
 #EXTINF:-1, NOTICIASCGTN1
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1, LATINOSTvMarti
@@ -180,9 +150,9 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1, NOTICIASMilenioTV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="台港澳",FX
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="台港澳",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",朝鲜中央电视台
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",朝鲜中央电视台
 https://tv.nknews.org/tvhls/stream.m3u8 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -320,6 +290,12 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="台港澳",SkyNews hd 
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-01-17/154771552211.jpg" group-title="点播",12勇士
+https://v3.yongjiujiexi.com/20180405/yLKhDo8u/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2017-10/2378.jpg" group-title="点播",天龙特攻队
+http://videos.kkyun-iqiyi.com/20170926/ZaLcIKRU/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-2/p2581888792.jpg" group-title="点播",南山的部长们
+http://you.tube-kuyun.com/20200219/2080_ea9ec005/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2020-02-07/1581068517.jpg" group-title="点播",天问/天文/Forbidden Dream
 http://cdn-yong.bejingyongjiu.com/20200207/2801_16a823e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-03-28/15537038426.jpg" group-title="点播",活着
@@ -394,8 +370,6 @@ http://v3.bjssmd.net/20190919/Pv5rNdRu/index.m3u8
 http://v3.bjssmd.net/20190912/VOCSrN9j/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-9/201991919372614832.jpg" group-title="点播",第一滴血5：最后的血
 https://txxs.mahua-yongjiu.com/20191123/4904_1a606575/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-9/201992012243477573.jpg" group-title="点播",毛驴上树
-https://wuji.zhulong-zuida.com/20190919/8707_0fce5209/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2019-8/2019821014235060.jpg" group-title="点播",速度与激情：特别行动
 https://baidu.com-ok-baidu.com/20190919/15044_4b0cc804/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2017-12/2017121211374426976.jpg" group-title="点播",谍影重重
