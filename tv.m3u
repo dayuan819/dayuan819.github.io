@@ -47,8 +47,7 @@ https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1, 亞美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1, 动物世界
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+
 
 #EXTINF:-1, 原住民族電視
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
@@ -176,40 +175,10 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1, NOTICIASMilenioTV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",朝鲜中央电视台
-https://tv.nknews.org/tvhls/stream.m3u8 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台港澳",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="台港澳",TVB 明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1  tvg-id="142" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="台港澳",翡翠台
-http://hzyhjg.cc/cs/gat/fct.php
-#EXTINF:-1  tvg-id="142" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="台港澳",J2
-ttp://hzyhjg.cc/cs/gat/tvbj2.php#http://hzyhjg.cc/cs/gat/tvbj2-2.php
-#EXTINF:-1  tvg-id="142" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="台港澳",无线新闻台
-http://www.liveviptv.xyz/tv/tvb.php#http://hzyhjg.cc/cs/gat/wxxw.php#http://hzyhjg.cc/cs/gat/wxxw-2.php
-#EXTINF:-1  tvg-id="142" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="台港澳",明珠台
-http://hzyhjg.cc/cs/gat/mzt.php#http://hzyhjg.cc/cs/gat/mzt-2.php
-#EXTINF:-1  tvg-id="142" tvg-name="ViuTv" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="台港澳",ViuTv
-http://hzyhjg.cc/cs/gat/viu tv.php
-#EXTINF:-1  tvg-id="142" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="台港澳",有线新闻台
-http://hzyhjg.cc/cs/gat/yxxw.php
-
-#EXTINF:-1  tvg-id="142" tvg-name="澳门有线①台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="台港澳",澳门有线①台
-http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1  tvg-id="142" tvg-name="澳门有线②台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="台港澳",澳门有线②台
-http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1  tvg-id="142" tvg-name="澳门有线③台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="台港澳",澳门有线③台
-http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1  tvg-id="142" tvg-name="东森新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台港澳",东森新闻
-http://hzyhjg.cc/cs/gat/ztxw.php#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1  tvg-id="142" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台港澳",三立台湾台
-http://hzyhjg.cc/cs/gat/sltwt.php
-
-
-
-
-
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台港澳",中视
 http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1  tvg-id="142" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台港澳",中视
@@ -266,7 +235,7 @@ http://192.154.103.75:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台港澳",好莱坞电影(HD)  
 http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台港澳",华纳电影(HD)  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="台港澳",华纳电影(HD)  
 http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="台港澳",年代新闻
 http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
@@ -1026,17 +995,17 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8  
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",军事观察  
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8  
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",华数_BBC系列  
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",BBC系列  
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8  
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",华数_历史解密  
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",历史解密  
 http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8  
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",华数_科教人文  
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",科教人文  
 http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8  
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",华数_大国时代  
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",大国时代  
 http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8  
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",华数_热血抗战  
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",热血抗战  
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8  
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影",华数_公主城堡  
+#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",公主城堡  
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第01集
@@ -1139,25 +1108,51 @@ https://cdn-yong.bejingyongjiu.com/20200227/4647_720a80d0/index.m3u8
 https://cdn-yong.bejingyongjiu.com/20200228/4744_d7a59d64/index.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第50集
 https://cdn-yong.bejingyongjiu.com/20200228/4743_09391079/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第01集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第01集
+https://txxs.mahua-yongjiu.com/20191117/3928_a8086804/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第02集
+https://txxs.mahua-yongjiu.com/20191124/5106_c367d73c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第03集
+https://txxs.mahua-yongjiu.com/20191201/6199_c56d8297/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第04集
+https://yingxiong.qiling-yongjiu.com/20191209/15106_9896c6a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第05集
+https://txxs.mahua-yongjiu.com/20191216/7951_6f6f88da/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第06集
+https://txxs.mahua-yongjiu.com/20191223/8735_b5bc22d7/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第07集
+https://txxs.mahua-yongjiu.com/20191230/9392_319dd70c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第08集
+https://txxs.mahua-yongjiu.com/20200106/10030_3a35aa22/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第09集
+https://txxs.mahua-yongjiu.com/20200113/10746_2c3e8bfe/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第10集
+https://txxs.mahua-yongjiu.com/20200120/11405_c88df620/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第11集
+https://txxs.mahua-yongjiu.com/20200217/13786_37dc5993/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第12集
+https://txxs.mahua-yongjiu.com/20200217/13787_18882293/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-11-18/15740440121.jpg"  group-title="台剧" ,想见你第13集
+https://txxs.mahua-yongjiu.com/20200217/13789_a87da4bf/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第01集
 https://dapian.video-yongjiu.com/20190909/10941_bce0260c/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第02集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第02集
 https://dapian.video-yongjiu.com/20190909/10942_38c25527/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第03集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第03集
 https://dapian.video-yongjiu.com/20190909/10943_941aa367/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第04集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第04集
 https://dapian.video-yongjiu.com/20190909/10944_123e4286/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第05集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第05集
 https://dapian.video-yongjiu.com/20190909/10945_fc8a089c/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第06集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第06集
 https://dapian.video-yongjiu.com/20190909/10946_400673ed/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第07集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第07集
 https://dapian.video-yongjiu.com/20190909/10947_7da6d019/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第08集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第08集
 https://dapian.video-yongjiu.com/20190909/10948_107ef667/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第09集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第09集
 https://dapian.video-yongjiu.com/20190909/10949_1df01fee/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="俗女养成记" ,俗女养成记第10集
+#EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第10集
 https://dapian.video-yongjiu.com/20190909/10950_39bf3ee6/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-17/1576595826.jpg"  group-title="大明风华",大明风华第01集
 https://txxs.mahua-yongjiu.com/20191217/8108_d3c1c0ff/index.m3u8
