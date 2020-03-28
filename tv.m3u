@@ -1,18 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,俄罗斯RU音乐
-http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1 ,美国之音_49
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+
 #EXTINF:-1 ,小品轮播_50
 http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 #EXTINF:-1 ,大愛1台_51
 http://tv1.wanfudaluye.com/live/live.m3u8
-#EXTINF:-1 ,大愛1台_52
-http://iptv.52qdg.com/iptv.php?id=tw&amp;pamid=001
-#EXTINF:-1 ,大愛2台_53
-http://iptv.52qdg.com/iptv.php?id=tw&amp;pamid=002
 #EXTINF:-1 ,有线新闻_54
 http://hk.tv0668.com/dl/hk520.php?id=31
 #EXTINF:-1 ,无线新闻_55
@@ -35,8 +28,6 @@ http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d
 http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=12&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 #EXTINF:-1 ,翡翠综合_68
 http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv&amp;_res_tag_=video
-#EXTINF:-1 ,耀才财经_69
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 ,亚旅卫视_70
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 ,赛马频道_71
@@ -197,8 +188,6 @@ http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 ,越南人民报_175
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
-#EXTINF:-1 ,印度音乐电视_176
-http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
 #EXTINF:-1 ,法国中国环球_177
 http://live.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 ,法国第五世界台_178
@@ -221,14 +210,8 @@ http://live.m2.tv/hls3/stream.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 ,西班牙活力电视台_190
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
-#EXTINF:-1 ,西班牙啵嘤卡通台_191
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
 #EXTINF:-1 ,意大利Rai高清_192
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 ,意大利Rai少儿_193
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 ,意大利Rai电影_194
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 ,意大利V2 音乐频道_196
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 ,音乐20TV_198
@@ -638,6 +621,11 @@ http://hzyhjg.cc/cs/gat/hbo.php
 http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="SkyNews hd " tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="台港澳",SkyNews hd 
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=579138803,562901807&fm=11&gp=0.jpg" group-title="台港澳",俄罗斯RU音乐
+http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3365651354,667341745&fm=179&app=42&f=JPEG?w=121&h=140" group-title="台港澳",美国之音_49
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+
 #EXTINF:-1  tvg-logo="data:image/png;base64,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" group-title="日本",CGNTV 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"  group-title="日本",NHK华语视界
@@ -1278,7 +1266,16 @@ http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8  
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",公主城堡  
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8 
-
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",周星驰
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1176877221,2794051917&fm=26&gp=0.jpg"  group-title="轮播电影",李连杰
+https://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1760512462,2295001207&fm=26&gp=0.jpg"  group-title="轮播电影",洪金宝
+HTTP://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4196271357,2861600780&fm=26&gp=0.jpg"  group-title="轮播电影",吴京
+https://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2143639500,743770091&fm=26&gp=0.jpg"  group-title="轮播电影",黄渤
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第01集
 http://cdn-yong.bejingyongjiu.com/20200115/1087_005e9916/index.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第02集
