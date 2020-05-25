@@ -2,10 +2,6 @@
 
 
 
-#EXTINF:-1 ,小品轮播_50
-http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
-#EXTINF:-1 ,大愛1台_51
-http://tv1.wanfudaluye.com/live/live.m3u8
 #EXTINF:-1 ,有线新闻_54
 http://hk.tv0668.com/dl/hk520.php?id=31
 #EXTINF:-1 ,无线新闻_55
@@ -20,8 +16,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=
 http://hk.tv0668.com/dl/hk520.php?id=13
 #EXTINF:-1 ,TVB明珠_62
 http://hk.tv0668.com/dl/hk520.php?id=12
-#EXTINF:-1 ,TVB星河_63
-http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 #EXTINF:-1 ,凤凰香港_64
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&amp;txTime=16f1ea41738
 #EXTINF:-1 ,翡翠明珠_67
@@ -30,8 +24,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=
 http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv&amp;_res_tag_=video
 #EXTINF:-1 ,亚旅卫视_70
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 ,赛马频道_71
-http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
 #EXTINF:-1 ,東森新聞_73
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 ,東森新聞_74
@@ -96,8 +88,7 @@ http://61.58.60.230:9319/live/244.m3u8
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 ,澳门卫视_115
 http://hk.tv0668.com/dl/hk520.php?id=23
-#EXTINF:-1 ,莲花卫视_117
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+
 #EXTINF:-1 ,澳亚卫视_118
 http://hk.tv0668.com/dl/hk520.php?id=24
 #EXTINF:-1 ,日本NHK华语_121
@@ -240,34 +231,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3
 #EXTINF:-1 ,Dance电视_210
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 
-#EXTINF:-1,钱江
-http://hls-ott-zhibo.wasu.tv/live/198/index.m3u8
-#EXTINF:-1,动画
-http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
-#EXTINF:-1,58
-http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
-#EXTINF:-1,动画猫小帅
-http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-#EXTINF:-1,游戏1
-http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
-#EXTINF:-1,73
-http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
-#EXTINF:-1,游戏2
-http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
-#EXTINF:-1,75
-http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1,CCTV1
-http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
-#EXTINF:-1,JXTV
-http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
-#EXTINF:-1,CCTV7
-http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
-#EXTINF:-1,89
-http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
-#EXTINF:-1,91
-http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1,96
-http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
+
 #EXTINF:-1, 5m Life Hacks
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 #EXTINF:-1, 5m Quick Crafts
@@ -336,8 +300,7 @@ http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
 #EXTINF:-1, CETV1
 http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
-#EXTINF:-1, CHC电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
 #EXTINF:-1, 欧美MTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1, 皇马足球台
@@ -842,6 +805,27 @@ http://v.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3470004296,3111340710&fm=15&gp=0.jpg" group-title="科教" ,OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第01集
+http://you.tube-kuyun.com/20200420/10164_199a8a7a/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第02集
+http://you.tube-kuyun.com/20200420/10163_8de4dcf5/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第03集
+http://tudou.diediao-kuyun.com/20200427/16650_c0002514/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第04集
+http://tudou.diediao-kuyun.com/20200427/16649_c9d7f3cb/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第05集
+http://tudou.diediao-kuyun.com/20200504/17868_e3149962/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第06集
+http://tudou.diediao-kuyun.com/20200504/17870_8750f656/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第07集
+http://you.tube-kuyun.com/20200511/12104_eb9a4cda/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第08集
+http://you.tube-kuyun.com/20200511/12102_726c1ae2/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第09集
+http://xingfu.hua-kuyun.com/20200519/122_00d08e5a/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第10集
+http://xingfu.hua-kuyun.com/20200519/121_dfccd60d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-19/1576740049.jpg" group-title="记录片 " ,纯植物饮食国度
 https://txxs.mahua-yongjiu.com/20191219/8333_3a3ff584/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2444917565,898015256&fm=26&gp=0.jpg" group-title="记录片 " ,阿爷厨房第四季第01集
@@ -1091,7 +1075,7 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad2
 #EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="轮播电影",DOX映画
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="轮播电影",CHC高清电影
-rtmp://58.200.131.2:1935/livetv/chchd
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="轮播电影",CHC家庭电影
 rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="轮播电影",CHC动作电影
@@ -1266,6 +1250,9 @@ http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8  
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1308812446,3599574600&fm=26&gp=0.jpg"  group-title="轮播电影",公主城堡  
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",小品轮播
+http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",周星驰
 https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1176877221,2794051917&fm=26&gp=0.jpg"  group-title="轮播电影",李连杰
@@ -1276,6 +1263,9 @@ HTTP://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274
 https://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2143639500,743770091&fm=26&gp=0.jpg"  group-title="轮播电影",黄渤
 https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2918007130,216659561&fm=26&gp=0.jpg"  group-title="轮播电影",JJ斗地主
+https://ali-adaptive.pull.yximgs.com/gifshow/7XvDirRR66c.flv?auth_key=1585669452-0-0-9d650647b2aa405ee4a7502f5eacab7d&highTraffic=3&oidc=txhb
+
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第01集
 http://cdn-yong.bejingyongjiu.com/20200115/1087_005e9916/index.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=509712375,1627263662&fm=11&gp=0.jpg"  group-title="乡村爱情12" ,乡村爱情12第02集
