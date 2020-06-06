@@ -154,8 +154,6 @@ http://pull.scphsd.com/live/b37a2a70f54a4dt3a4b23n7b361d5c4/playlist.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台港澳",CTI中天新闻（HW+）
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天娱乐(HD)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台港澳",中天娱乐(HD)
-http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="中天娱乐(HD)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台港澳",中天娱乐(HD)
 http://192.200.120.82:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天娱乐(HD)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台港澳",TVBS HD
 http://153.99.180.70:5021/live/349/playlist.m3u8
@@ -269,8 +267,6 @@ http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="台港澳",WarnerTV
 http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台港澳",国家地理
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="台港澳",凤凰中文台
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
@@ -1008,14 +1004,6 @@ https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,港片武侠
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,战旗4
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,战旗4
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,战旗4
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,战旗4
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影" ,贺岁影院  
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8  
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=1473061414,393052149&fm=26&gp=0.jpg"  group-title="轮播电影" ,豆瓣高分  
@@ -1143,10 +1131,6 @@ https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-278927
 https://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1760512462,2295001207&fm=26&gp=0.jpg"  group-title="轮播电影",洪金宝
 HTTP://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4196271357,2861600780&fm=26&gp=0.jpg"  group-title="轮播电影",吴京
-https://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2143639500,743770091&fm=26&gp=0.jpg"  group-title="轮播电影",黄渤
-https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1176877221,2794051917&fm=26&gp=0.jpg"  group-title="轮播电影",黑帮大片
 http://al.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1176877221,2794051917&fm=26&gp=0.jpg"  group-title="轮播电影",港产搞笑
