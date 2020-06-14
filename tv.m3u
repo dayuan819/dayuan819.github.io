@@ -1,4 +1,223 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学一年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学二年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学三年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学四年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学五年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学六年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",初中一年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",初中二年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",初中三年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",高中一年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",高中二年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+#EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",高中三年级(腾)
+https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",小学一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",小学二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",小学三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",小学四年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",小学五年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",小学六年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",初中一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",初中二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",初中三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",高中一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",高中二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img2.imgtn.bdimg.com/it/u=725432078,921152394&fm=26&gp=0.jpg" group-title="网课",高中三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",小学一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",小学二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",小学三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",小学四年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",小学五年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",小学六年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初中一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初中二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初中三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高中一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高中二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高中三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校一年级
+http://112.50.243.8/PLTV/88888888/224/3221226568/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校二年级
+http://112.50.243.8/PLTV/88888888/224/3221226638/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校三年级
+http://112.50.243.8/PLTV/88888888/224/3221226569/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校四年级
+http://112.50.243.8/PLTV/88888888/224/3221227034/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校五年级
+http://112.50.243.8/PLTV/88888888/224/3221226573/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校六年级
+http://112.50.243.8/PLTV/88888888/224/3221226565/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校初一
+http://112.50.243.8/PLTV/88888888/224/3221226944/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校初二
+http://112.50.243.8/PLTV/88888888/224/3221226871/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校初三
+http://112.50.243.8/PLTV/88888888/224/3221227042/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校高一
+http://112.50.243.8/PLTV/88888888/224/3221226875/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校高二
+http://112.50.243.8/PLTV/88888888/224/3221226945/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",网校高三
+http://112.50.243.8/PLTV/88888888/224/3221227046/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV1
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV2
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV3
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV4
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV1
+http://cctvcnch5ca.v.wscdns.com/cstv/cetv1_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV1
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/cetv1_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV2
+http://cctvcnch5ca.v.wscdns.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV2
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV3
+http://cctvcnch5ca.v.wscdns.com/cstv/cetv3_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV3
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/cetv3_2_hd.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV4
+http://cctvcnch5ca.v.wscdns.com/cstv/cetv4_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV4
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/cetv4_2/index.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",CETV4
+http://cetvbl.centv.cn/cetv4/tsytkzb.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",一年级
+http://112.50.243.8/PLTV/88888888/224/3221226568/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",一年级
+http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",二年级
+http://112.50.243.8/PLTV/88888888/224/3221226638/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",二年级
+http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",三年级
+http://112.50.243.8/PLTV/88888888/224/3221226569/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",三年级
+http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",四年级
+http://112.50.243.8/PLTV/88888888/224/3221227034/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",四年级
+http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",五年级
+http://112.50.243.8/PLTV/88888888/224/3221226573/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",五年级
+http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",六年级
+http://112.50.243.8/PLTV/88888888/224/3221226565/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",六年级
+http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初一
+http://112.50.243.8/PLTV/88888888/224/3221226944/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初一
+http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初二
+http://112.50.243.8/PLTV/88888888/224/3221226871/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初二
+http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初三
+http://112.50.243.8/PLTV/88888888/224/3221227042/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",初三
+http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高一
+http://112.50.243.8/PLTV/88888888/224/3221226875/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高一
+http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高二
+http://112.50.243.8/PLTV/88888888/224/3221226945/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高二
+http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高三
+http://112.50.243.8/PLTV/88888888/224/3221227046/1.m3u8
+#EXTINF:-1  tvg-logo="http://img3.imgtn.bdimg.com/it/u=2223016751,1248257608&fm=26&gp=0.jpg" group-title="网课",高三
+http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",一年级
+http://lsshls.zybang.com/zybang/comeon_1.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",一年级
+http://tx-liveplay.zuoyebang.com/live/comeon_1.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",二年级
+http://lsshls.zybang.com/zybang/comeon_2.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",二年级
+http://tx-liveplay.zuoyebang.com/live/comeon_2.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",三年级
+http://lsshls.zybang.com/zybang/comeon_3.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",三年级
+http://tx-liveplay.zuoyebang.com/live/comeon_3.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",四年级
+http://lsshls.zybang.com/zybang/comeon_4.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",四年级
+http://tx-liveplay.zuoyebang.com/live/comeon_4.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",五年级
+http://lsshls.zybang.com/zybang/comeon_5.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",五年级
+http://tx-liveplay.zuoyebang.com/live/comeon_5.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",六年级
+http://lsshls.zybang.com/zybang/comeon_6.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",六年级
+http://tx-liveplay.zuoyebang.com/live/comeon_6.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",初一
+http://lsshls.zybang.com/zybang/comeon_7.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",初一
+http://tx-liveplay.zuoyebang.com/live/comeon_7.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",初二
+http://lsshls.zybang.com/zybang/comeon_8.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",初二
+http://tx-liveplay.zuoyebang.com/live/comeon_8.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",初三
+http://lsshls.zybang.com/zybang/comeon_9.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",初三
+http://tx-liveplay.zuoyebang.com/live/comeon_9.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",高一
+http://lsshls.zybang.com/zybang/comeon_10.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",高一
+http://tx-liveplay.zuoyebang.com/live/comeon_10.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",高二
+http://lsshls.zybang.com/zybang/comeon_11.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",高二
+http://tx-liveplay.zuoyebang.com/live/comeon_11.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",高三
+http://lsshls.zybang.com/zybang/comeon_12.m3u8
+#EXTINF:-1  tvg-logo="http://img5.imgtn.bdimg.com/it/u=2526739213,2322788018&fm=26&gp=0.jpg" group-title="网课",高三
+http://tx-liveplay.zuoyebang.com/live/comeon_12.m3u8
+
 #EXTINF:-1 ,TVB明珠_60
 http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Pcontent_id=&amp;Provider_id=&amp;Fsv_chan_hls_se_idx=12
 #EXTINF:-1 ,翡翠明珠_67
@@ -2614,8 +2833,7 @@ http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3187052834,983380304&fm=11&gp=0.jpg" group-title="央视" ,中國交通
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8 
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",cctv1hd
 http://tv.ncist.edu.cn:281/live/cctv1hd.flv
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",cctv2hd
@@ -2640,6 +2858,8 @@ http://tv.ncist.edu.cn:281/live/cctv9hd.flv
 http://tv.ncist.edu.cn:281/live/cctv10hd.flv
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",cctv12hd
 http://tv.ncist.edu.cn:281/live/cctv12hd.flv
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
@@ -2672,63 +2892,7 @@ http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k
-http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN综合
-http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN好莱坞
-http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN院线大片
-http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN电影
-http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN嗨播
-http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN军事
-http://cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN生活
-http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN教育
-http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN汽车
-http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN微电影
-http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN汉学院
-http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN纪录片
-http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN电影导视
-http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN精品影院
-http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN流金岁月
-http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN情感影院
-http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN喜剧影院
-http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN古装剧场
-http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN骄阳剧场
-http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN炫佳动漫
-http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN童学世界
-http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN文化中国
-http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN艺术院线
-http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN健康
-http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN风尚运动
-http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN真人秀
-http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-country="CN" tvg-url="" group-title="CIBN",NewTV Suspense
-http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="CIBN",NewTV 中国功夫
 http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="CIBN",NewTV 健康有约
@@ -2906,14 +3070,6 @@ http://hblz.chinashadt.com:1538/live/di3.stream/playlist.m3u8
 http://hblz.chinashadt.com:1538/live/di4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,丽江古城万古楼遥望玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,乌克兰VOTV
-http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,乌海综合频道
-http://1.31.80.38:180/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,乐山公共频道
-http://m3u8.file.leshantv.net:8011/vms/videos/nmip-media/channellive/channel12/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,乐山新闻综合
-http://m3u8.file.leshantv.net:8011/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,九寨沟新闻综合
 http://111.231.194.231:85/live/xwzh_500k.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,九寨沟旅游资讯
@@ -2922,8 +3078,6 @@ http://111.231.194.231:85/live/lyzx_500k.m3u8
 http://111.231.194.231:85/live/lyzx.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南卫视
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=110&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/yunnanstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南卫视
@@ -2936,8 +3090,6 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226083/index.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南卫视(电)
-http://118.123.60.10:8114/syhjcms_hls/10000100201705020000001000000008?FvSeid=5bf2539394e75947&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6641&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=10000100201705020000001000000008&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=12
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南大理崇圣寺三塔远景
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云南红河哈尼梯田多依树景点(回放)
@@ -2946,16 +3098,8 @@ https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,云台山百家岩
 https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,五家渠新闻综合
-http://livewjq.sobeycache.com/wjq/zb1.flv?auth_key=1602147490-0-0-30ceb043e26c8e35d843c440d45ae3fa
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,五星体育HD
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,五福星系列
-https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,京视剧场
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,亳州都市
-http://218.22.251.12:8001/tslslive/gdhS3fc/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,人间卫视
 http://54.64.23.79:1935/live/vod/chunklist_w2045233730.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,仙桃新闻综合
