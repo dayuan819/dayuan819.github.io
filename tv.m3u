@@ -1,280 +1,280 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", 欧美MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", 欧美MTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", 皇马足球台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", 皇马足球台
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", 高尔夫频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", 高尔夫频道
 http://nclive.grtn.cn/grfpd/sd/live.m3u8?ts
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", CA-CPAC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", CA-CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", NewTV搏击
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", NewTV搏击
 http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", CGTN Doc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", CGTN Doc
 http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", NewTV 搏击
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", NewTV 搏击
 http://39.134.65.65:80/wh7f454c46tw1933118763_-691332913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=125
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", BesTVlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", BesTVlive
 http://117.156.28.53:80/wh7f454c46tw2851185746_337091057/PLTV/88888888/224/3221225704/index.m3u8?icpid=88888888&RTS=1579029497&from=0&hms_devid=104,144
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外", FR-France24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", FR-France24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",US-CBN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",US-CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NOTICIASCGTN1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NOTICIASCGTN1
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",LATINOSTvMarti
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",LATINOSTvMarti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",UK-London Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",UK-London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",BloombergTVEurope
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",BloombergTVEurope
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NOTICIASMilenioTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NOTICIASMilenioTV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",7web cooking
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",7web cooking
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",24 Box TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",24/7 Retro TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",ABC NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",ABC NEWS
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",ABC NEWS LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",ABC NEWS LIVE
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Abu Dhabi Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",AljaZeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",AljaZeera
 http://forum8848.000webhostapp.com/youtube.php?id=2EppLNonncc&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",B4U Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",BeIN Sports Extra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",BeIN Sports Extra
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",BeritaSatu World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",BO CLASIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",BO CLASIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",BO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",BO TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Boston tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Boston tv
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",C+频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",C+频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Cbeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CBN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CBS News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CBS News
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CCTV国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CCTV国际
 http://forum8848.000webhostapp.com/youtube.php?id=vCDDYb_M2B4&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CGTN Francias
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CGTN Francias
 https://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CGTN6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CGTN6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Classics Marathi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Classics Marathi
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",CNN Live Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",CNN Live Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Comedy Telugu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Comedy Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",DD News India
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",DD News India
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Dubai One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",DWNews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",DWNews
 http://forum8848.000webhostapp.com/youtube.php?id=NvqKZHpKs-g&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Edge Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",English Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",English Movie
 https://59d39900ebfb8.streamlock.net/horrifiedtv/horrifiedtv/chunklist_w67985971.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",English Movie 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",English Movie 1
 https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Eurosport 1
 http://5.135.92.133:52841/out/u/511_1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",FASHION PARIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",FASHION PARIS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Fashion TV
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Food Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Food Channel
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Foreign channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Foreign channel
 https://54627d4fc5996.streamlock.net:443/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Fox Business
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Fox Business
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",France-24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",France-24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",GEM Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",GEM Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",GEM Onyx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",GEM Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w1197922140.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Groovy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Groovy
 http://bit.ly/2p6JqSo
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Hot1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Hot1
 http://v2.14mp4.com/av-hls/20160713/m1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Japan
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Joker Movie HD 2019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Joker Movie HD 2019
 http://dl13.ftk.pw/film/Jo.ker.2019.720p.hd.rp.Film2Movie_li.mkv
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Kuriakos Cine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Law and crime network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Law and crime network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Movie Kingdom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NASA+live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NASA+live
 http://forum8848.000webhostapp.com/youtube.php?id=EEIk7gwjgIM&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NASA+Media
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NASA+Media
 http://forum8848.000webhostapp.com/youtube.php?id=nA9UZF-SZoQ&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NASA+TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NASA+TV
 http://forum8848.000webhostapp.com/youtube.php?id=21X5lGlDOfg&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Netmax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Netmax
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NEW-ZEALAND-Wairarapa-TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NEW-ZEALAND-Wairarapa-TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",ONE CHANNEL SPORT ARAB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",ONE CHANNEL SPORT ARAB
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",One Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Outside TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Persiana 2 CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Persiana 2 CINEMA
 http://51.15.193.156/hls/stream.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Redbull tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Redbull tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Rthk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Rthk
 https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8??!
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",SEC Car Racing Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",SEC Car Racing Network
 https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Setana sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Setana sports
 http://185.57.68.33:8091/226/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Sky News Extra1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Sky News Extra1
 http://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Sky News Extra2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Sky News Extra2
 http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",SkyNews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",SkyNews
 http://forum8848.000webhostapp.com/youtube.php?id=9Auq9mYxFEE&hd=5
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Sky-NEWS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Sky-NEWS1
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Soccer Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Soccer Tv
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Sportskool TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Sportskool TV
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Sur Sagar TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Suria tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Suria tv
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Voice of America (PST)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Voice of America (PST)
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Wixlar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",World Fashion International
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",World Fashion International
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",World Fashion Россия
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",World Fashion Россия
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",World Fashion Россия
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",World Fashion Россия
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Ytv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Ytv
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Остросюжетное HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Остросюжетное HD
 http://188.35.9.26:14050/udp/238.0.14.3:69000
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",Рен ТВ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Рен ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",СТРК HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",以色列1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",以色列1
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",以色列2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",以色列2
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",以色列3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",以色列3
 https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",以色列4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",以色列4
 http://rtb-channel.glue.live/smil:rtb1/playlist_sleng.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",俄罗斯IGITV蓝光
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",俄罗斯IGITV蓝光
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",俄罗斯ТВTV蓝光
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",俄罗斯ТВTV蓝光
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",俄罗斯时尚台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",俄罗斯时尚台
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",全美電視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",全美電視
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",净空法师
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",净空法师
 http://forum8848.000webhostapp.com/youtube.php?id=QgoZbeJ6Wi4&hd=3
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",加拿大BBC Toronto印第安频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",加拿大BBC Toronto印第安频道
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",加拿大Space
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",加拿大Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",加拿大The Shopping Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",加拿大The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",加拿大WOWTV中文电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",加拿大WOWTV中文电视
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 吞咽
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 吞咽
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 幼幼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 幼幼
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 溢价
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 溢价
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",意大利l Rai 电影
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",斯洛伐克l WAU 频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",斯洛伐克l WAU 频道
 http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",斯诺伐克l J O J 频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",斯诺伐克l J O J 频道
 http://nn2.joj.sk/hls/joj-540.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",法国l 法国24台 (法语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",法国l 法国24台 (法语)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",法国l 法国24台 (英语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",法国l 法国24台 (英语)
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国Cheddar电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国Cheddar电视
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国CBSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国CBSN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国Denver 8 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国Denver 8 TV
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国l 美国中央台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国l 美国中央台
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国宇航局频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国宇航局频道
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国购物QVC Beauty TV HD UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国购物QVC Beauty TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",美国购物QVC TV HD UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国购物QVC TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",联合国频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",联合国频道
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",迪斯尼频道 (IJK硬解)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",迪斯尼频道 (IJK硬解)
 http://live.52ypp.com:81/tw.php?id=67
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",郑州地铁2频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",郑州地铁2频道
 http://117.158.206.60:9080/live/live29_tzwj_500k.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",阿尔巴利亚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",阿尔巴利亚
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",阿联酋l迪拜萨马
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",阿联酋l迪拜萨马
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",阿联酋l迪拜赛马
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",阿联酋l迪拜赛马
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",5m Kitchen Hacks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",5m Kitchen Hacks
 https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",5m Life Hacks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",5m Life Hacks
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",5m Quick Crafts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",5m Quick Crafts
 https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",MTV音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",MTV音乐
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",MTV音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",MTV音乐
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="海外",NHK华语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://img0.imgtn.bdimg.com/it/u=4219873354,3887720946&fm=26&gp=0.jpg" group-title="网课",小学一年级(腾)
@@ -1175,103 +1175,103 @@ http://v.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3470004296,3111340710&fm=15&gp=0.jpg" group-title="科教" ,OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iFILM Arabic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iFILM Arabic
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iFILM English
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iFILM English
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iFILM Persian 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iFILM Persian 1
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iFILM Persian 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iFILM Persian 2
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱世界
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833420200227075721071782
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱世界1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱世界1
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3925820200227080557055908
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227223216058126
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱喜剧1
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227075037057636
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱悬疑
 http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3831420200227223529070370
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱浪漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱浪漫
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱科幻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱科幻
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",iHOT爱科幻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",iHOT爱科幻
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",I爱浪漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",I爱浪漫
 http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",I爱电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",I爱电竞
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱世界
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱体育
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱军武
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱军武
 http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱动漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱历史
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱历史
 http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱喜剧
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱奇艺_儿童乐园
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱奇艺_儿童乐园
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱奇艺_惊悚午夜场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱奇艺_惊悚午夜场
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱奇艺_老剧超清修复
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱奇艺_老剧超清修复
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱奇谈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱奇谈
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱家庭
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱家庭
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱幼教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱幼教
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱怀旧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱怀旧
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱悬疑
 http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱探索
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱探索
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱旅行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱旅行
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱时尚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱时尚
 http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱江湖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱江湖
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱浪漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱浪漫
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱猎奇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱猎奇
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱玩具
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱玩具
 http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱电竞
 http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱科学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱科学
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱科幻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱科幻
 http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱经典
 http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱美食
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱美食
 http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱解密
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱解密
 http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱谍战
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱谍战
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱赛车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱赛车
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱都市
 http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",爱院线
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="" group-title="科教",美国  狗狗宠物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",美国  狗狗宠物
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片 " ,最后之舞 第01集
 http://you.tube-kuyun.com/20200420/10164_199a8a7a/index.m3u8
@@ -2965,11 +2965,11 @@ http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
 http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdapian.jpg" group-title="卫视" ,NEWTV明星大片
 http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://39.135.34.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://112.50.243.8/PLTV/88888888/224/3221225827/2.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
@@ -3054,39 +3054,39 @@ http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 http://39.135.34.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
-#EXTINF:-1 tvg-id="27" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225992/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://112.50.243.8/PLTV/88888888/224/3221225824/2.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://39.134.176.148/PLTV/88888888/224/3221226185/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://112.50.243.8/PLTV/88888888/224/3221225847/2.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://ali.m.l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://112.50.243.8/PLTV/88888888/224/3221225848/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://39.134.176.148/PLTV/88888888/224/3221226217/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",#EXTINF:-1 
 http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",#EXTINF:-1 
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",番禺融媒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",番禺融媒
 http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV 01
 http://111.20.33.69/PLTV/88888888/224/3221225548/index.m3u8
