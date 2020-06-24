@@ -1238,6 +1238,18 @@ http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",美国  狗狗宠物
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=547557028,3615860211&fm=26&gp=0.jpg" group-title="记录片" ,江湖菜馆1
+http://xingfu.hua-kuyun.com/20200615/4213_ae6497a3/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=547557028,3615860211&fm=26&gp=0.jpg" group-title="记录片" ,江湖菜馆2
+http://xingfu.hua-kuyun.com/20200615/4214_91a11b27/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=547557028,3615860211&fm=26&gp=0.jpg" group-title="记录片" ,江湖菜馆3
+http://you.tube-kuyun.com/20200617/15662_60260364/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=547557028,3615860211&fm=26&gp=0.jpg" group-title="记录片" ,江湖菜馆4
+http://xingfu.hua-kuyun.com/20200624/5646_d93e3775/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=547557028,3615860211&fm=26&gp=0.jpg" group-title="记录片" ,江湖菜馆5
+http://you.tube-kuyun.com/20200617/15662_60260364/index.m3u8
+#EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=547557028,3615860211&fm=26&gp=0.jpg" group-title="记录片" ,江湖菜馆6
+http://xingfu.hua-kuyun.com/20200624/5646_d93e3775/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片" ,最后之舞 第01集
 http://you.tube-kuyun.com/20200420/10164_199a8a7a/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-4/p2597212118.jpg" group-title="记录片" ,最后之舞 第02集
@@ -1274,7 +1286,6 @@ https://zk.sd-dykj.com/2020/05/31/6S9vYoAUjdJwiDKX/playlist.m3u8
 https://tv2.youkutv.cc/2020/06/07/Imp4yjFkB0jAuVde/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=1904708391,874272374&fm=26&gp=0.jpg" group-title="记录片",风味人间第二季第08集
 https://zk.sd-dykj.com/2020/06/14/YukinUxh8Q7dddyu/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-19/1576740049.jpg" group-title="记录片" ,纯植物饮食国度
 https://txxs.mahua-yongjiu.com/20191219/8333_3a3ff584/index.m3u8
 #EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2444917565,898015256&fm=26&gp=0.jpg" group-title="记录片" ,阿爷厨房第四季第01集
@@ -1779,6 +1790,32 @@ https://dapian.video-yongjiu.com/20190909/10948_107ef667/index.m3u8
 https://dapian.video-yongjiu.com/20190909/10949_1df01fee/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-09-10/201909101568104152.jpg"  group-title="台剧" ,俗女养成记第10集
 https://dapian.video-yongjiu.com/20190909/10950_39bf3ee6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第01集
+http://xingfu.hua-kuyun.com/share/ea96efc03b9a050d895110db8c4af057
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第02集
+http://xingfu.hua-kuyun.com/share/d1f44e2f09dc172978a4d3151d11d63e
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第03集
+http://xingfu.hua-kuyun.com/share/cfe912f5cb3aa572bd1c9ae2a9b82207
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第04集
+http://xingfu.hua-kuyun.com/share/4ef1477dc99fb623fd5d06dc4b26d1aa
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第05集
+http://xingfu.hua-kuyun.com/share/9abe36658bff8131d5a0923ebc196d0e
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第06集
+http://xingfu.hua-kuyun.com/share/cfe795a0a3c7bc1683f2efd8837dde0c
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第07集
+http://xingfu.hua-kuyun.com/share/09a8a8976abcdfdee15128b4cc02f33a
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第08集
+http://xingfu.hua-kuyun.com/share/78e8dffe65a2898eef68a33b8db35b78
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第09集
+http://xingfu.hua-kuyun.com/share/d80b7040b773199015de6d3b4293c8ff
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第10集
+http://xingfu.hua-kuyun.com/share/60ce36723c17bbac504f2ef4c8a46995
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第11集
+http://xingfu.hua-kuyun.com/share/87ba276ebbe553ec05d2f5b37c20125f
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-6/p2609064048.jpg"  group-title="陆剧",隐秘的角落 第12集
+http://xingfu.hua-kuyun.com/share/4ae1e2b07ecf6c799b91ed45e95278b8
+
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-17/1576595826.jpg"  group-title="陆剧",大明风华第01集
 https://txxs.mahua-yongjiu.com/20191217/8108_d3c1c0ff/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.yongjiu7.com/upload/vod/2019-12-17/1576595826.jpg"  group-title="陆剧",大明风华第02集
@@ -6356,3 +6393,8 @@ http://live.wifizs.cn/ggsh/sd/live.m3u8
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://img1.imgtn.bdimg.com/it/u=2706056579,262574162&fm=26&gp=0.jpg" group-title="地方台" ,珠江频道
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
+
+
+
+
+
