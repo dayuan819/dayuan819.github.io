@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="" group-title="轮播电影",广東电影
-http://baiducdnct.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="" group-title="轮播电影",北京纪实
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="" group-title="轮播电影",纪实频道
@@ -595,6 +593,10 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
 #EXTINF:-1  tvg-logo="http://img1.imgtn.bdimg.com/it/u=1832971079,1077631502&fm=26&gp=0.jpg" group-title="日本",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2018-4/2018471112739860.jpg" group-title="点播",绣春刀
+https://cdn.mb99.vip/20190418/hLnHlQrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2017-9/762.jpg" group-title="点播",绣春刀2：修罗战场
+https://zuikzy.51moca.com/2018/10/18/LHolCB88Fpiky2qR/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=1997661718,1579570592&fm=26&gp=0.jpg" group-title="点播",狮子王3
 http://vip.let-kuyun.com/20181218/wOJwpDXx/index.m3u8
 #EXTINF:-1 tvg-logo="http://img5.imgtn.bdimg.com/it/u=669908243,2719104018&fm=26&gp=0.jpg" group-title="点播",狮子王
