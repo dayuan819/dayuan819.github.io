@@ -1132,6 +1132,16 @@ http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科教",美国  狗狗宠物
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1557731426851.jpg" group-title="记录片" ,城市24小时郑州 
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/a3f5806cf30c43fdabcb7867503ff331/1200.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1557731426851.jpg" group-title="记录片" ,城市24小时武汉 
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/91e8c310e15e49f8b22cabd69fc5a401/1200.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1557731426851.jpg" group-title="记录片" ,城市24小时深圳 
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/9c20fd4c858642f79efb88009e4f6277/1200.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1557731426851.jpg" group-title="记录片" ,城市24小时成都 
+https://hls.cntv.myalicdn.com/asp/hls/1200/0303000a/3/default/dc0d6669ff024a808d580b777d25f4cf/1200.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1557731426851.jpg" group-title="记录片" ,城市24小时厦门 
+https://hls.cntv.baishancdnx.cn/asp/hls/1200/0303000a/3/default/e17d9e2bbc404fdb8f58daf2d6820aaa/1200.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-7/202072311285488786.png" group-title="记录片" ,老广的味道1鲜 
 https://apd-96b9c37724a2cffbeb974a064389482f.v.smtcdns.com/moviets.tc.qq.com/AHu45Td_mCqNVwNxPe5DtzAmHwSK3fYKTVItDisk_-1A/uwMROfz2r5zAoaQXGdGnC2df644E7D3uP8M8pmtgwsRK9nEL/ET123k30JMetAlWIYlPOJ2C_qPXol8ZxRu0YCIKqN5w3ish2AA_h-XQtLQQOCyObBVXdtgwk5Q9ISr8GP-Dvh9HxF5pZZyRoEyg0tKyHdQwjqfq3UeiPFdBPY7ovuOdxVLIe1kyNIJ6_plX2R9UCrTwqrjiq0bPzuYQTaLOUMLM/u0031aojl5f.321002.ts.m3u8?ver=4
