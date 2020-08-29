@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV",陈奕迅可以了
+https://ugccsy.qq.com/uwMROfz2r5zBIaQXGdGnC2dfDma3J1MItM3912IN4IRQvkRM/o0782j30vjo.mp4?sdtfrom=v1010&guid=229f9c94102017589da32df3e22b816f&vkey=4B852E42093D38DC5478BDCE2033252AEF8DCA6C7F6F93E0BEA7842E5EEF431A5E09B6118EEB896D4394E7520BB3189E95D4E2B24051C01FF24050E066B6539E741AF25AF9CA67544743ED4B2C29BCB319D95821E68021C537B99C1E4A6DB002F11304CFBF07C36BB183BD82D65C93CB0B4529DB4F141A18344DA16B4D20B890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV",陈奕迅可以了
+https://win-web-re01-sycdn.kuwo.cn/e880a5d66cb7c38d0190c6fd87dc6c61/5f4aa38c/resource/n3/84/83/1479302294.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV",黎瑞恩一人有一個梦想
+https://f.video.weibocdn.com/004ohYj9gx07G1CId2bu01041200c0Sj0E010.mp4?label=dash_audio&media_id=4543425585020950&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=4&ot=v&lp=000024oh08&ps=4pdsh0&uid=3c92ii&ab=966-g1&Expires=1598727575&ssig=QyVnJ0RESX&KID=unistore,video&range=1332-81533
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=795074347,689323103&fm=26&gp=0.jpg" group-title="轮播电影",澳门莲花
 http://www.lotustv.cc/index.php/index/live.html
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="轮播电影",美食厨房
@@ -627,13 +633,11 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1  tvg-logo="http://img1.imgtn.bdimg.com/it/u=1832971079,1077631502&fm=26&gp=0.jpg" group-title="日本",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-8/p2611996958.jpg" group-title="点播",铁雨2：首脑峰会
-http://diaoshi.dehua-kuyun.com/20200819/12790_ddf7dee0/index.m3u8
+https://yuledy.helanzuida.com/20200819/9182_bc37e5cc/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2018-1/201811812121941678.jpg" group-title="点播",铁雨
-http://vs1.baduziyuan.com/20180301/c47dxpVU/index.m3u8
+https://leshi.cdn-zuyida.com/20180121/VKXb31jU/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-8/p2615992304.jpg" group-title="点播",八佰
-http://diaoshi.dehua-kuyun.com/20200820/12895_a1cd8d2a/index.m3u8
-
-
+https://yuledy.helanzuida.com/20200820/9183_da297a71/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2018-4/2018471112739860.jpg" group-title="点播",绣春刀
 https://cdn.mb99.vip/20190418/hLnHlQrt/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2017-9/762.jpg" group-title="点播",绣春刀2：修罗战场
@@ -3130,7 +3134,7 @@ http://121.31.30.91:8081/ysten-business/live/cctv-11/2.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225816/2.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV 12
 http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV 13
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV 13
 http://107.148.240.185:13164/v/cctv123.php?id=2000204603.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV 14
 http://117.169.120.160:8080/live/cctv-14/1.m3u8
