@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV",陈奕迅可以了
-https://ugccsy.qq.com/uwMROfz2r5zBIaQXGdGnC2dfDma3J1MItM3912IN4IRQvkRM/o0782j30vjo.mp4?sdtfrom=v1010&guid=229f9c94102017589da32df3e22b816f&vkey=4B852E42093D38DC5478BDCE2033252AEF8DCA6C7F6F93E0BEA7842E5EEF431A5E09B6118EEB896D4394E7520BB3189E95D4E2B24051C01FF24050E066B6539E741AF25AF9CA67544743ED4B2C29BCB319D95821E68021C537B99C1E4A6DB002F11304CFBF07C36BB183BD82D65C93CB0B4529DB4F141A18344DA16B4D20B890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV",陈奕迅可以了
-https://win-web-re01-sycdn.kuwo.cn/e880a5d66cb7c38d0190c6fd87dc6c61/5f4aa38c/resource/n3/84/83/1479302294.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MV",黎瑞恩一人有一個梦想
-https://f.video.weibocdn.com/004ohYj9gx07G1CId2bu01041200c0Sj0E010.mp4?label=dash_audio&media_id=4543425585020950&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=4&ot=v&lp=000024oh08&ps=4pdsh0&uid=3c92ii&ab=966-g1&Expires=1598727575&ssig=QyVnJ0RESX&KID=unistore,video&range=1332-81533
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=795074347,689323103&fm=26&gp=0.jpg" group-title="轮播电影",澳门莲花
 http://www.lotustv.cc/index.php/index/live.html
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="轮播电影",美食厨房
@@ -59,138 +53,45 @@ https://603ulclsqv10np6crdrxacsf5tl0np3.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/246
  https://603ulclsqv10np6crdrxacsf5tl0npg.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/289859_lA6FB.flv
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,虫妹 
 https://603ulclsqv10nplqrdg0azsf5iw0nu6.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/53346_ESoth.flv
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,虫妹 
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/53346_ESoth.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,齐影视音乐频道
-https://603ulclsqv10nplqrdg0azsf5iw0nu6.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/296728_aCH5P.flv
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/296728_aCH5P.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,齐影视音乐频道
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/301168_S9PFz.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,MV专场
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/96881_CiPMo.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,经典音乐
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/285305_4Cz3X.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,紫云空
-https://603ulclsqv10nplqrdg0azsf5iw0nsh.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/76366_DxB7o.flv
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/76366_DxB7o.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,大华山影视
-https://603ulclsqv10nplqrdg0azsf5iw0nsh.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/300610_75vRc.flv
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,佳乐阿 
-https://603ulclsqv10np6crdrxacsf5tl0np3.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/214759_EoXHy.flv
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/300610_75vRc.m3u8
+#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,佳乐阿
+ https://dlhls-cdn-mp.zhanqi.tv/zqlive/214759_EoXHy.m3u8
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,脑袋大
-https://603ulclsqv10nplqrdg0azsf5iw0nsh.dwion.com/dlhdl-cdn.zhanqi.tv/zqlive/93774_g0UdM.flv
-
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1760512462,2295001207&fm=26&gp=0.jpg"  group-title="轮播电影" ,洪金宝
-http://1009.jilu8.cn/yk.php?id=hjb
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2619195117,4179407851&fm=26&gp=0.jpg"  group-title="轮播电影" ,周润发
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-499-0721-0241-05273_mp4hd2v3.m3u8?title=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E6%89%93%E8%BF%87%E7%98%BE%E5%8A%A8%E4%BD%9C%E7%8C%9B%E7%89%87%E5%A4%A7%E8%B5%8F%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=oeJzFiVhLCECAQ54KDYPGePq&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-499-0721-0241-05273&ccode=live05010101&expire=21600&psid=C637062E54FA1E0B7DC9DD1A448F205E&ups_client_netip=113.116.93.103&ups_ts=1598677763&ups_userid=0&utid=oeJzFiVhLCECAQ54KDYPGePq&vid=8021912_8026957&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-499-0721-0241-05273_mp4hd2v3&vkey=B48809ca13d11eda39dca0bc6fcbd0506
-#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=33104966,2417648250&fm=26&gp=0.jpg"  group-title="轮播电影" ,黎明
-http://1009.jilu8.cn/yk.php?id=lm
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=875500740,1513078143&fm=26&gp=0.jpg"  group-title="轮播电影" ,郭富城
-http://1009.jilu8.cn/yk.php?id=gfc
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3204058033,3399720266&fm=26&gp=0.jpg"  group-title="轮播电影" ,张学友
-http://1009.jilu8.cn/yk.php?id=zxy
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3216656006,4184082126&fm=26&gp=0.jpg"  group-title="轮播电影" ,林志玲
-http://1009.jilu8.cn/yk.php?id=lzl
-#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1759646838,1808504096&fm=26&gp=0.jpg"  group-title="轮播电影" ,任达华
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-561-0721-0241-25884_mp4hd2v3.m3u8?title=%E4%BB%BB%E8%BE%BE%E5%8D%8E%E6%BC%94%E7%BB%8E%E7%BB%8F%E5%85%B8%E5%A4%A7%E7%89%87%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=oeJzFiVhLCECAQ54KDYPGePq&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-561-0721-0241-25884&ccode=live05010101&expire=21600&psid=83BD316573D7E7412F5F5CD7BB0D9FC5&ups_client_netip=113.116.93.103&ups_ts=1598677912&ups_userid=0&utid=oeJzFiVhLCECAQ54KDYPGePq&vid=8026523_8029903&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-561-0721-0241-25884_mp4hd2v3&vkey=Bf083d874a2ee1a8053714668571f8b79
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2287776367,20609067&fm=26&gp=0.jpg"  group-title="轮播电影" ,张家辉
-http://1009.jilu8.cn/yk.php?id=zjh
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1112095127,1028384759&fm=26&gp=0.jpg"  group-title="轮播电影" ,黄渤
-http://1009.jilu8.cn/yk.php?id=hb
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影" ,周星驰
-http://1009.jilu8.cn/yk.php?id=zxc
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1277616066,757090843&fm=26&gp=0.jpg"  group-title="轮播电影" ,吴彦祖
-http://1009.jilu8.cn/yk.php?id=wyz
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4061870120,3743716032&fm=26&gp=0.jpg"  group-title="轮播电影" ,刘德华
-http://1009.jilu8.cn/yk.php?id=ldh
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1176877221,2794051917&fm=26&gp=0.jpg"  group-title="轮播电影" ,李连杰
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-499-0721-0241-05273_mp4hd2v3.m3u8?title=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E6%89%93%E8%BF%87%E7%98%BE%E5%8A%A8%E4%BD%9C%E7%8C%9B%E7%89%87%E5%A4%A7%E8%B5%8F%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=oeJzFiVhLCECAQ54KDYPGePq&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-499-0721-0241-05273&ccode=live05010101&expire=21600&psid=C637062E54FA1E0B7DC9DD1A448F205E&ups_client_netip=113.116.93.103&ups_ts=1598677763&ups_userid=0&utid=oeJzFiVhLCECAQ54KDYPGePq&vid=8021912_8026957&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-499-0721-0241-05273_mp4hd2v3&vkey=B48809ca13d11eda39dca0bc6fcbd0506
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1097626869,4281543143&fm=26&gp=0.jpg"  group-title="轮播电影" ,成龙
-http://1009.jilu8.cn/yk.php?id=cl
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2367127694,3260539525&fm=26&gp=0.jpg"  group-title="轮播电影" ,梁家辉
-http://1009.jilu8.cn/yk.php?id=ljh
-#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3566325621,3060511395&fm=26&gp=0.jpg"  group-title="轮播电影" ,刘青云
-http://1009.jilu8.cn/yk.php?id=lqy
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3136450605,1419158832&fm=26&gp=0.jpg"  group-title="轮播电影" ,奥斯卡电影
-http://1009.jilu8.cn/yk.php?id=ask
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,欧美英雄电影
-http://1009.jilu8.cn/yk.php?id=omyx
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,粤语电影综艺
-http://1009.jilu8.cn/yk.php?id=yydyzy
-#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4240331709,3790101309&fm=26&gp=0.jpg"  group-title="轮播电影" ,警匪电影
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-394-0827-1620-44793_mp4hd2v3.m3u8?title=%E5%8F%8D%E8%B4%AA%E9%A3%8E%E6%9A%B4%E6%88%98%E7%8B%BC%E5%8A%A8%E4%BD%9C%E7%89%87%E7%83%AD%E8%A1%80%E5%B7%A8%E5%88%B6%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=oeJzFiVhLCECAQ54KDYPGePq&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-394-0827-1620-44793&ccode=live05010101&expire=21600&psid=E76067F7769981B9EE720C4C44BA1619&ups_client_netip=113.116.93.103&ups_ts=1598678001&ups_userid=0&utid=oeJzFiVhLCECAQ54KDYPGePq&vid=8019679_8024274&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-394-0827-1620-44793_mp4hd2v3&vkey=B04f0a6409b7506666f3ffe4243bcf132
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,粤语电影
-http://1009.jilu8.cn/yk.php?id=yueyu
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,粤语经典影片
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-306-0827-1610-00116_mp4hd2v3.m3u8?title=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%BB%8F%E5%85%B8%E6%B8%AF%E7%89%87%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=oeJzFiVhLCECAQ54KDYPGePq&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-306-0827-1610-00116&ccode=live05010101&expire=21600&psid=6E568E0F85700C8E10B67BDCED7E425C&ups_client_netip=113.116.93.103&ups_ts=1598677700&ups_userid=0&utid=oeJzFiVhLCECAQ54KDYPGePq&vid=8019006_8023440&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-306-0827-1610-00116_mp4hd2v3&vkey=Bd73376f45d1c4e1b691708a0d076b293
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,粤语动作大片
-http://1009.jilu8.cn/yk.php?id=yueyudz
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2636242879,3271902104&fm=26&gp=0.jpg"  group-title="轮播电影" ,喜剧贺岁
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="轮播电影" ,中文电影
 http://jialvjiancai6857.com/jyqwan/proxy.php?vid=migu&id=637444830
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,悬疑电影
-http://1009.jilu8.cn/yk.php?id=xydy
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,武侠电影
-http://1009.jilu8.cn/yk.php?id=wxdy
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,酷影厅亲子厅
-http://1009.jilu8.cn/yk.php?id=qzt
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,酷影厅硬汉厅
-http://1009.jilu8.cn/yk.php?id=yht
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=161905040,3041343785&fm=26&gp=0.jpg"  group-title="轮播电影" ,红色抗日
-http://1009.jilu8.cn/yk.php?id=agyp
-#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3789150985,2422808506&fm=26&gp=0.jpg"  group-title="轮播电影" ,爱国题材电影
-http://1009.jilu8.cn/yk.php?id=agdy
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,热血电影
-http://1009.jilu8.cn/yk.php?id=rxdy
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,经典校园青春电影
-http://1009.jilu8.cn/yk.php?id=xyqc
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,一站到底
-http://1009.jilu8.cn/yk.php?id=yzdd
-#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2433969839,2535830029&fm=26&gp=0.jpg"  group-title="轮播电影" ,非你莫属
-http://1009.jilu8.cn/yk.php?id=fnms
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,女团来了
-http://1009.jilu8.cn/yk.php?id=nvtuan
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3623146487,2229829748&fm=26&gp=0.jpg"  group-title="轮播电影" ,德云社
-http://1009.jilu8.cn/yk.php?id=dys
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,罗曼蒂克的时代电影
-http://1009.jilu8.cn/yk.php?id=lmdk
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,欢乐颂
-http://1009.jilu8.cn/yk.php?id=hls
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,海底小纵队
-http://1009.jilu8.cn/yk.php?id=hdxzd
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,筑梦情缘
-http://1009.jilu8.cn/yk.php?id=zmqy
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,推手
-http://1009.jilu8.cn/yk.php?id=ts
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,择天记
-http://1009.jilu8.cn/yk.php?id=ztj
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,楚乔传
-http://1009.jilu8.cn/yk.php?id=cqz
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,封神榜
-http://1009.jilu8.cn/yk.php?id=fsb
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,火影忍者
-http://1009.jilu8.cn/yk.php?id=hyrz
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,谎言的诱惑
-http://1009.jilu8.cn/yk.php?id=hydyh
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,风云2
-http://1009.jilu8.cn/yk.php?id=fy2
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,搞笑一家人
-http://1009.jilu8.cn/yk.php?id=gxyjr
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,滚滚红尘
-http://1009.jilu8.cn/yk.php?id=gghc
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1167380314,3494438973&fm=26&gp=0.jpg"  group-title="轮播电影" ,水浒传
-http://1009.jilu8.cn/yk.php?id=shz
-#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1435646924,3894073325&fm=26&gp=0.jpg"  group-title="轮播电影" ,我们的八十年代
-http://1009.jilu8.cn/yk.php?id=80nd
 #EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,老电影
 http://520574.xyz/dl/bili.php?id=21759196
-#EXTINF:-1 tvg-logo="http://img3.imgtn.bdimg.com/it/u=2546847987,2925489382&fm=26&gp=0.jpg"  group-title="轮播电影" ,老电影
-https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1156226882,847070664&fm=26&gp=0.jpg"  group-title="轮播电影" ,神醫喜來樂
+http://106.13.168.120:80/huya/11601978
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",吴京
 http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",成龙
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1097626869,4281543143&fm=26&gp=0.jpg"  group-title="轮播电影",成龙
 http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",沈腾
 http://tx.hls.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",李连杰
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1176877221,2794051917&fm=26&gp=0.jpg"  group-title="轮播电影",李连杰
 http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",林正英
 https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",洪金宝
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",周润发
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2619195117,4179407851&fm=26&gp=0.jpg"  group-title="轮播电影",周润发
 https://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",金庸系列
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1760512462,2295001207&fm=26&gp=0.jpg"  group-title="轮播电影",金庸系列
 http://tx.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",亮剑
 http://tx.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
@@ -206,7 +107,7 @@ https://tx.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-284769
 http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",爱情公寓
 http://tx.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",反贪风暴
+#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=33104966,2417648250&fm=26&gp=0.jpg"  group-title="轮播电影",反贪风暴
 http://tx.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",家有儿女
 http://tx.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8
@@ -226,15 +127,15 @@ http://tx.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253
 http://tx.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",超级英雄
 https://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",红色经典
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=161905040,3041343785&fm=26&gp=0.jpg"  group-title="轮播电影",红色经典
 https://tx.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",刘德华
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4061870120,3743716032&fm=26&gp=0.jpg"  group-title="轮播电影",刘德华
 https://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",好莱坞
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3136450605,1419158832&fm=26&gp=0.jpg"  group-title="轮播电影",好莱坞
 https://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",科幻启示录
+#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4240331709,3790101309&fm=26&gp=0.jpg"  group-title="轮播电影",科幻启示录
 https://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",喜剧
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2636242879,3271902104&fm=26&gp=0.jpg"  group-title="轮播电影",喜剧
 https://tx.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",徐克
 https://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8
@@ -244,22 +145,27 @@ https://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-284768
 https://tx.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-2789274590-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",金庸电影
 https://tx.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",黄渤
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1112095127,1028384759&fm=26&gp=0.jpg"  group-title="轮播电影",黄渤
 https://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",速度与激情
+#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=875500740,1513078143&fm=26&gp=0.jpg"  group-title="轮播电影",速度与激情
 https://tx.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",大陆电影
 https://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",国语动漫电影
+#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1759646838,1808504096&fm=26&gp=0.jpg"  group-title="轮播电影",国语动漫电影
 https://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",国语动漫
 https://tx.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",好莱坞电影2
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3204058033,3399720266&fm=26&gp=0.jpg"  group-title="轮播电影",好莱坞电影
 https://tx.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",新三国
+#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1167380314,3494438973&fm=26&gp=0.jpg"  group-title="轮播电影",新三国
 https://tx.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=64135262,3998065714&fm=26&gp=0.jpg"  group-title="轮播电影",周星驰
 https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2287776367,20609067&fm=26&gp=0.jpg"  group-title="轮播电影" ,张家辉
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1277616066,757090843&fm=26&gp=0.jpg"  group-title="轮播电影" ,吴彦祖
+#EXTINF:-1 tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2367127694,3260539525&fm=26&gp=0.jpg"  group-title="轮播电影" ,梁家辉
+#EXTINF:-1 tvg-logo="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3566325621,3060511395&fm=26&gp=0.jpg"  group-title="轮播电影" ,刘青云
+#EXTINF:-1 tvg-logo="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3623146487,2229829748&fm=26&gp=0.jpg"  group-title="轮播电影" ,德云社
 #EXTINF:-1 tvg-id="252" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="台港澳",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="台港澳",凤凰中文台
@@ -280,8 +186,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 http://117.169.120.138:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
 http://104.250.154.42:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
-#EXTINF:-1 tvg-id="241" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
-http://223.82.250.72/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台港澳",凤凰资讯
