@@ -1,4 +1,528 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-1[1280*720]
+http://player.tzjo.com/all/yfy.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-3[1280*720]
+http://player.tzjo.com/all/yfy.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-2[1280*720]
+http://player.tzjo.com/all/yfy.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-4[1280*720]
+http://player.tzjo.com/all/yfy.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-5[1280*720]
+http://player.tzjo.com/all/yfy.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-5+[1280*720]
+http://player.tzjo.com/all/yfy.php?id=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-6[1280*720]
+http://player.tzjo.com/all/yfy.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-7[1280*720]
+http://player.tzjo.com/all/yfy.php?id=7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-8[1280*720]
+http://player.tzjo.com/all/yfy.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-9[1280*720]
+http://player.tzjo.com/all/yfy.php?id=9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-10[1280*720]
+http://player.tzjo.com/all/yfy.php?id=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-11[1280*720]
+http://player.tzjo.com/all/yfy.php?id=41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-12[1280*720]
+http://player.tzjo.com/all/yfy.php?id=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-13[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-14[1280*720]
+http://player.tzjo.com/all/yfy.php?id=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-15[1280*720]
+http://player.tzjo.com/all/yfy.php?id=40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV-17[1280*720]
+http://player.tzjo.com/all/yfy.php?id=90
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV风云音乐[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=51012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV女性时尚[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=51014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV第一剧场[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV风云足球[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCTV电视指南[1024*576]
+http://player.tzjo.com/all/yfy.php?id=10003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CETV①[1280*720]
+http://player.tzjo.com/all/yfy.php?id=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CETV①[1280*720]
+http://player.tzjo.com/all/yfy.php?id=10001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CETV④[1024*576]
+http://player.tzjo.com/all/yfy.php?id=38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CETV④[1024*576]
+http://player.tzjo.com/all/yfy.php?id=10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CGTN[1280*720]
+http://player.tzjo.com/all/yfy.php?id=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CGTN纪录片[1280*720]
+http://player.tzjo.com/all/yfy.php?id=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CGTN法语[1024*576]
+http://player.tzjo.com/all/yfy.php?id=68
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳卫视[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广西卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=59
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广东卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",江苏卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",浙江卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖北卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",江西卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",安徽卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",东方卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",北京卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",天津卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",贵州卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",辽宁卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山东卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=79
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山西卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",重庆卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=56
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=78
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",黑龙江卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",陕西卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=55
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",甘肃卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=57
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",南方卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",青海卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=60
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",云南卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=61
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",海南卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=62
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",新疆卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=64
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",西藏卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",兵团卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=67
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",农林卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=61001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",延边卫视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",内蒙古卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=93
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CHC高清电影[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CHC家庭影视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CHC动作电影[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",DOXTV[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CCYV-4K[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",4K超高清电影[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",欢笑剧场4K[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",CBN幸福娱乐[1024*576]
+http://player.tzjo.com/all/yfy.php?id=13011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",长沙新闻综合[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43064
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",娄底综合[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43069
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南教育台[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南经视[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",金鹰卡通[1280*720]
+http://player.tzjo.com/all/yfy.php?id=81
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",金鹰纪实[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",金鹰纪实[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南娱乐[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南都市[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南电影[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南电视剧[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南公共[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",茶频道[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43048
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南导视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湖南国际频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",株洲新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",衡阳新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",郴州新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",永州新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43068
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",邵阳综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43070
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",常德新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",张家界综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43072
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",湘潭新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43077
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",怀化新闻综合[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43073
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",怀化新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",魅力足球1024*576]
+http://player.tzjo.com/all/yfy.php?id=43083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",都市剧场[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",益阳新闻综合[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",益阳新闻综合[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",益阳公共[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43090
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",益阳教育[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",岳阳新闻综合[768*576]
+http://player.tzjo.com/all/yfy.php?id=43075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广东体育[1280*720]
+http://player.tzjo.com/all/yfy.php?id=34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广东公共[1024*576]
+http://player.tzjo.com/all/yfy.php?id=45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广东少儿[1024*576]
+http://player.tzjo.com/all/yfy.php?id=63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广东珠江频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=65
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",广东高尔夫[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳都市频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳电视剧频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳体育健康[1024*576]
+http://player.tzjo.com/all/yfy.php?id=50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳娱乐频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳公共频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳财经生活[1024*768]
+http://player.tzjo.com/all/yfy.php?id=48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳蛇口[1024*576]
+http://player.tzjo.com/all/yfy.php?id=37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",深圳少儿[1024*576]
+http://player.tzjo.com/all/yfy.php?id=51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",嘉佳卡通[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",优漫卡通[1024*576]
+http://player.tzjo.com/all/yfy.php?id=53
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",卡酷少儿[768*576]
+http://player.tzjo.com/all/yfy.php?id=11003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",优优宝贝[768*576]
+http://player.tzjo.com/all/yfy.php?id=11007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川TV-7[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=51005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川新闻[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川文化旅游[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川经济[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川影视文化[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川峨眉电影[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川科教[720*576]
+http://player.tzjo.com/all/yfy.php?id=51006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四川公共乡村[720*576]
+http://player.tzjo.com/all/yfy.php?id=51007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南民生频道[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=41102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南都市频道[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=41101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南电视剧频道[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=41104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南公共频道[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=41106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南法制频道[768*576]
+http://player.tzjo.com/all/yfy.php?id=41103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南新闻频道[785*576]
+http://player.tzjo.com/all/yfy.php?id=41105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河南新农村频道[785*576]
+http://player.tzjo.com/all/yfy.php?id=41107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",郑州[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=41112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",新乡[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=41119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",开封[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",周口电视台-1[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",开封[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",平顶山[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",安阳[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",鹤壁[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",洛阳[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",焦作[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",濮阳[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",许昌[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",漯河[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",三门峡[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",商丘[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41125
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",驻马店[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41126
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",信阳[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",南阳[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",济源[1047*576]
+http://player.tzjo.com/all/yfy.php?id=41129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",晴彩中原[1280*720]
+http://player.tzjo.com/all/yfy.php?id=41108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",移动戏曲[1280*720]
+http://player.tzjo.com/all/yfy.php?id=41109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",武术世界[1280*720]
+http://player.tzjo.com/all/yfy.php?id=41110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",文物宝库[1280*720]
+http://player.tzjo.com/all/yfy.php?id=41111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",梨园频道[768*576]
+http://player.tzjo.com/all/yfy.php?id=13001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",石家庄新闻综合[1280*720]
+http://player.tzjo.com/all/yfy.php?id=13014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",FTV足球频道[1280*720]
+http://player.tzjo.com/all/yfy.php?id=15001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林生活[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林公共新闻[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",长春娱乐[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",长春经济[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",长春市民[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",长春综合[1280*720]
+http://player.tzjo.com/all/yfy.php?id=22011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林影视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林教育[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",长影频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林7频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林都市[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林乡村[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",吉林东北戏曲[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",全纪实[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",游戏风云[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",生活时尚[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",幸福彩[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",法治天地[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",世界地理[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43057
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中华美食[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",快乐垂钓[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",四海钓鱼[768*576]
+http://player.tzjo.com/all/yfy.php?id=43036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",国学频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",书画频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中华美食[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中国交通[768*576]
+http://player.tzjo.com/all/yfy.php?id=11002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",环球旅游[768*576]
+http://player.tzjo.com/all/yfy.php?id=11005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中国天气[768*576]
+http://player.tzjo.com/all/yfy.php?id=11006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",环球奇观[720*576]
+http://player.tzjo.com/all/yfy.php?id=51018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",七彩戏剧[768*576]
+http://player.tzjo.com/all/yfy.php?id=31001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中华特产[720*576]
+http://player.tzjo.com/all/yfy.php?id=51025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",陶瓷[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43049
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",新视觉[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",新视觉[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",劲爆体育[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",江苏靓妆[1280*720]
+http://player.tzjo.com/all/yfy.php?id=51015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",彩民在线[1024*576]
+http://player.tzjo.com/all/yfy.php?id=44
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",宁夏卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=69
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",阳泉电视台二套[1024*576]
+http://player.tzjo.com/all/yfy.php?id=72
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",阳泉电视台一套[1024*576]
+http://player.tzjo.com/all/yfy.php?id=71
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山西经济资讯[1024*576]
+http://player.tzjo.com/all/yfy.php?id=84
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山西影视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=85
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山西公共[1024*576]
+http://player.tzjo.com/all/yfy.php?id=87
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山西科教[1024*576]
+http://player.tzjo.com/all/yfy.php?id=86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山西少儿[1024*576]
+http://player.tzjo.com/all/yfy.php?id=89
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",黄河[1024*576]
+http://player.tzjo.com/all/yfy.php?id=88
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",北京东奥纪实[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",山东教育卫视[1024*576]
+http://player.tzjo.com/all/yfy.php?id=37001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",北京东奥纪实[1024*576]
+http://player.tzjo.com/all/yfy.php?id=11001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",五星体育[1024*576]
+http://player.tzjo.com/all/yfy.php?id=11223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中天新影-老故事[1024*576]
+http://player.tzjo.com/all/yfy.php?id=22020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",天元围棋[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",摄影频道[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",江苏财富天下[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",劲爆体育[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",劲爆体育[1024*576]
+http://player.tzjo.com/all/yfy.php?id=50050
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",先锋乒羽[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43062
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",极速汽车[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北收视指南[768*576]
+http://player.tzjo.com/all/yfy.php?id=13010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北杂技[768*576]
+http://player.tzjo.com/all/yfy.php?id=13002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北经济生活[768*576]
+http://player.tzjo.com/all/yfy.php?id=13003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北农民[768*576]
+http://player.tzjo.com/all/yfy.php?id=13004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北都市[768*576]
+http://player.tzjo.com/all/yfy.php?id=13005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北影视剧[768*576]
+http://player.tzjo.com/all/yfy.php?id=13006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北少儿科教[768*576]
+http://player.tzjo.com/all/yfy.php?id=13007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",河北公共[768*576]
+http://player.tzjo.com/all/yfy.php?id=13008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",邯郸新闻综合[768*576]
+http://player.tzjo.com/all/yfy.php?id=13009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",石家庄生活[768*576]
+http://player.tzjo.com/all/yfy.php?id=13012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",石家庄都市[768*576]
+http://player.tzjo.com/all/yfy.php?id=13013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",GTV游戏竞技[720*576]
+http://player.tzjo.com/all/yfy.php?id=51013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",早期教育[720*576]
+http://player.tzjo.com/all/yfy.php?id=51017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中学生[720*576]
+http://player.tzjo.com/all/yfy.php?id=51019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",东方财经[1024*576]
+http://player.tzjo.com/all/yfy.php?id=43050
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",家庭理财[768*576]
+http://player.tzjo.com/all/yfy.php?id=21001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",中国家政[768*576]
+http://player.tzjo.com/all/yfy.php?id=62001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",车迷频道[768*576]
+http://player.tzjo.com/all/yfy.php?id=11004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",快乐购[1280*720]
+http://player.tzjo.com/all/yfy.php?id=43032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课一年级[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课二年级[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课三年级[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课四年级[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课五年级[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课六年级[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初一[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初二[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三语文[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三数学[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三英语[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三物理[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课中考[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三英语[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课初三物理[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云",网课中考[1920*1080]
+http://player.tzjo.com/all/yfy.php?id=43114
+#EXTINF:-1 tvg-logo="" group-title="轮播电影",歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="轮播电影",好莱坞电影
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="轮播电影",好莱坞电影
+http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播电影",爆谷台
+https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="轮播电影",FOXActionMovies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180421/e04211fd408a4126b2cba59a11586165.png" group-title="轮播电影",CBN每日影院
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播电影",亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=795074347,689323103&fm=26&gp=0.jpg" group-title="轮播电影",澳门莲花
 http://www.lotustv.cc/index.php/index/live.html
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="轮播电影",美食厨房
@@ -221,19 +745,12 @@ http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="台港澳",CGTN 记录频道
-http://live.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="台港澳",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳", 中华卫视台湾
-http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳", 亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.mypadtv.com/hd8.jpg"  group-title="台港澳" ,新传媒8频道
 https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://images.mypadtv.com/hd8.jpg"  group-title="台港澳" ,新传媒8频道
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台港澳",国家地理  
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="耀才財經" tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1012046861,3324425380&fm=26&gp=0.jpg" group-title="台港澳",耀才財經台
@@ -242,8 +759,6 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="耀才財經" tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1012046861,3324425380&fm=26&gp=0.jpg" group-title="台港澳",耀才財經台
 http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="台港澳",歐美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 #EXTINF:-1 tvg-id="250" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="台港澳",J2台
 http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
@@ -251,24 +766,14 @@ http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
-http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
-http://315600.xyz/dl/tvb.php?id=inewshd
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="台港澳",无线新闻
 http://520574.xyz/dl/tvb.php?id=inewshd
 
 #EXTINF:-1 tvg-id="239" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="台港澳",无线财经台
 http://45.93.217.106/jiuban/hg.php?id=2
 #EXTINF:-1 tvg-id="239" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="台港澳",无线财经台
 http://tv.sason.xyz/proxy/tvb.php?id=cj
-
-
-#EXTINF:-1 tvg-id="248" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="台港澳",ViuTV
-http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="248" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="台港澳",ViuTV
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 tvg-id="" tvg-name="RTHK 32" tvg-logo="https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2555795736,3684203893&fm=15&gp=0.jpg" group-title="台港澳",RTHK 32
-http://teslagram.com/live/channel_32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK 32" tvg-logo="https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2555795736,3684203893&fm=15&gp=0.jpg" group-title="台港澳",RTHK 32
 https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="台港澳",香港卫视
@@ -299,8 +804,7 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="http://img4.imgtn.bdimg.com/it/u=3296625489,1705652213&fm=26&gp=0.jpg" tvg-name=CBS group-title="台港澳" ,CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="http://img0.imgtn.bdimg.com/it/u=4262050178,4227206936&fm=26&gp=0.jpg" tvg-name="Radio Italia TV" group-title="台港澳" ,意大利音乐台
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
 #EXTINF:-1 tvg-id="490" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="台港澳",亚洲新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="490" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="台港澳",亚洲新闻台
@@ -311,62 +815,32 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-id="369" tvg-name="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="台港澳",博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳",TVB星河台
-http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17 
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AUMEN3/AUMEN3.jpg?1" group-title="台港澳",澳门卫视
 http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳门奥视
+#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AUMEN3/AUMEN3.jpg?1" group-title="台港澳",澳门卫视
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AUMEN3/AUMEN3.jpg?1" group-title="台港澳",澳门卫视
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳门澳视
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳门葡萄牙
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳視澳門
-http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳視澳門
-http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳視葡語
-http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳視衛星
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳視衛星 (備)
-http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳視衛星2
-http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视卫星
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视澳门
-http://61.244.22.4/ch1/ch1.live/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视综艺
 http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视葡文
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视资讯
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视资讯
-http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門1台
+#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳视澳門
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門2台
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門3台
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門-MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門微电影
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門有線CH3
-http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門資讯
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門資讯4
-http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門資讯5
-http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳門體育
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳门互动新闻
-http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳门卫视1
 http://144.48.240.144:2019/SunTv.php?name=MSTV
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3355210326,1022066264&fm=26&gp=0.jpg" group-title="台港澳",澳门有线一台
@@ -377,68 +851,37 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://lss.line-scdn.net/cc_tw/p/live/hiRB0xr1wN3wvJClsFzEqS0RNakVTcHAvQnsrSV1JaBkCcXAoQXx5ElJNbUxUfiMqRy9xTltMbUhWPHB5Snx6T1lBdk1TZnEoSjB5GVJWbEZSeHAiQw/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="305" tvg-name="TVBS新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台港澳",TVBS新闻
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="305" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台港澳",TVBS新闻
-http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+
 #EXTINF:-1 tvg-id="305" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台港澳",TVBS新闻
 http://153.99.180.70:5021/live/349/playlist.m3u8
 #EXTINF:-1 tvg-id="305" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台港澳",TVBS新闻
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台港澳",三立新闻台
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台港澳",三立新闻台
-http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台港澳",三立新闻台
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台港澳",三立新闻台
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台港澳",三立新闻台
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-id="385" tvg-name="民視台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台港澳",民視台湾
-http://520574.xyz/dl/gt.php?id=fttv
 #EXTINF:-1 tvg-id="385" tvg-name="民視台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台港澳",民視新闻
 http://lss.line-scdn.net/cc_tw/p/live/h_rruyT_tAVwdYR9MJ3Qca3QJXT4xPEICdD4daz0MXjkyNRcOdD5HazoPVj9lO0Zfd2pHaWIPXm9geUZZejlOPWwKQG1jI0cIcHVPO2sTXm9qN0cKcmNO/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3MUCH.png" group-title="台港澳",年代新闻
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-id="313" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/" group-title="台港澳",东森新闻
 http://lss.line-scdn.net/cc_tw/p/live/h1uNUSe01b1siQXFLG1RybEh4ND5XGHkERh5zbwEsMD4OFXkJSB10PwR_NmgKHi4MG0opbl4uM2taWSheRhkiPlEtLmpfAykPRlUhPl4zN2JVHCgNRko/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/" group-title="台港澳",东森新闻
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/" group-title="台港澳",东森新闻
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="313" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台港澳",东森洋片台
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台港澳",东森电影
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中天综合
-http://192.154.103.75:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中天娱乐
 http://live5.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中天新闻
-http://104.243.17.219:81/vhls/tangyuanTV_ZTXW.a1edb9ae6b9ddc27e1cf/tangyuanTV_ZTXW/tangyuanTV_ZTXW_live.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中視新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中視無線HD
-http://p06.iptv2asia.com:18888/http/005
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中視經典
-http://p06.iptv2asia.com:18888/http/007
-#EXTINF:-1 tvg-id="289" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台港澳",中視菁采HD
-http://p06.iptv2asia.com:18888/http/008
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="台港澳",星空卫视  
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="台港澳",星空卫视  
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="台港澳",星空卫视  
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="台港澳",星空卫视  
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="台港澳",星空卫视  
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台港澳",好莱坞电影
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台港澳",好莱坞电影
-http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 #EXTINF:-1 tvg-id="516" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="台港澳",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -474,21 +917,12 @@ http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122898
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳",C+频道
 http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳",亞洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
 #EXTINF:-1 tvg-id="156" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="台港澳",劲爆体育
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=74&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="156" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="台港澳",劲爆体育
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=74&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="156" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="台港澳",劲爆体育
 http://183.207.255.188/live/program/live/jbty/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳",爆谷台
-https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
-#EXTINF:-1 tvg-id="467" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="台港澳",FOXActionMovies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180421/e04211fd408a4126b2cba59a11586165.png" group-title="台港澳",CBN每日影院
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台港澳",环球电视
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="日本",CGNTV 日本
@@ -519,8 +953,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-logo="http://img1.imgtn.bdimg.com/it/u=842159974,1481301435&fm=26&gp=0.jpg" group-title="日本",WeatherNews
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/WOWOW-CINEMA/WOWOW-CINEMA.jpg?1" group-title="日本",WOWOWシネマ
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1  tvg-logo="http://img1.imgtn.bdimg.com/it/u=1832971079,1077631502&fm=26&gp=0.jpg" group-title="日本",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-logo="http://img.kuyun88.com/pic/uploadimg/2020-8/p2611996958.jpg" group-title="点播",铁雨2：首脑峰会
@@ -4666,7 +5098,6 @@ http://live.wifizs.cn/ggsh/sd/live.m3u8
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", radio m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", akamai
 https://akamai2-mx.cdn.booyah.live/hls/210158/22527239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外", 皇马足球台
@@ -4685,16 +5116,6 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",AljaZeera
 http://forum8848.000webhostapp.com/youtube.php?id=2EppLNonncc&hd=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",B4U Movies
@@ -4773,12 +5194,6 @@ http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NASA+live
-http://forum8848.000webhostapp.com/youtube.php?id=EEIk7gwjgIM&hd=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NASA+Media
-http://forum8848.000webhostapp.com/youtube.php?id=nA9UZF-SZoQ&hd=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NASA+TV
-http://forum8848.000webhostapp.com/youtube.php?id=21X5lGlDOfg&hd=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Netmax
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NEW-ZEALAND-Wairarapa-TV
@@ -4871,23 +5286,7 @@ https://live.chdrstatic.com/cheddar/primary/4.m3u8
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国Denver 8 TV
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国l 美国中央台
-http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国宇航局频道
-http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",联合国频道
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",迪斯尼频道 (IJK硬解)
-http://live.52ypp.com:81/tw.php?id=67
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",阿尔巴利亚
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",阿联酋l迪拜萨马
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",阿联酋l迪拜赛马
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",5m Kitchen Hacks
-https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",5m Life Hacks
-https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",5m Quick Crafts
-https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
