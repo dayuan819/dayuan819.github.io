@@ -511,10 +511,6 @@ http://player.tzjo.com/all/yfy.php?id=43113
 http://player.tzjo.com/all/yfy.php?id=43114
 #EXTINF:-1 tvg-logo="" group-title="轮播电影",歐美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="轮播电影",好莱坞电影
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="轮播电影",好莱坞电影
-http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播电影",爆谷台
 https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 #EXTINF:-1 tvg-id="467" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="轮播电影",FOXActionMovies
