@@ -4762,8 +4762,142 @@ http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
 http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="襄阳综合" tvg-logo="" group-title="地方台",襄阳综合
 http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北综合 
+http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北公共新闻 
+http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北影视 
+http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北经视 
+http://live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北生活 
+http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北教育 
+http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北垄上 
+http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",湖北休闲指南 
+http://live.cjyun.org/hubeitv/s10008-live-mjgw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",美嘉购物 
+http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",襄阳综合 
+http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",襄阳经济生活 
+http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",襄阳公共 
+http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",恩施综合 
+http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",恩施公共 
+http://jingmen.live.cjyun.org/video/s10101-jmnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",荆门新闻综合 
+http://jingmen.live.cjyun.org/video/s10101-jmjytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",荆门教育 
+http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",荆门公共 
+http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",随州综合 
+http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",随州农村 
+http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",孝感新闻综合 
+http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",孝感公共 
+http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",黄冈新闻 
+http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",黄冈公共 
+http://ezhou.live.cjyun.org/video/s10098-EZ2T/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",鄂州新闻综合 
+http://ezhou.live.cjyun.org/video/s10098-EZ1T/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",鄂州公共 
+http://xianning.live.cjyun.org/video/s10140-XNGG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",咸宁综合 
+http://xianning.live.cjyun.org/video/s10140-XNTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",咸宁公共 
+http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lczh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",利川新闻综合 
+http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",利川公共 
+http://changyang.live.cjyun.org/video/s10114-cy1t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",长阳综合 
+http://wufeng.live.tempsource.cj ... /s10112-wftv-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",五峰综合 
+http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",夷陵综合 
+http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",秭归新闻综合 
+http://xianfeng.live.tempsource.cjyun.org/videotmp/s10096-xftv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",咸丰新闻综合 
+http://xianfeng.live.tempsource.cjyun.org/videotmp/s10096-xftv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",咸丰影视 
+http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",大悟综合 
+http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",孝昌新闻党建 
+http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",孝昌生活 
+http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",应城新闻综合 
+http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",应城生活频道 
+http://yunshangyunmeng.live.cjyun.org/video/s10130-ymzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",云梦综合 
+http://yunshangyunmeng.live.cjyun.org/video/s10130-ymdjny.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",云梦党建农业 
+http://hongan.live.cjyun.org/video/s10063-HAZH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",红安综合 
+http://luotian.live.cjyun.org/video/s10013-LTZH/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",罗田综合 
+http://luotian.live.cjyun.org/video/s10013-LTLY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",罗田旅游 
+http://wuxue.live.cjyun.org/video/s10107-wxtv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",武穴综合 
+http://laifeng.live.cjyun.org/video/s10099-lfzh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",来凤综合 
+http://jiangling.live.cjyun.org/video/s10090-jltv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江陵综合 
+http://jiangling.live.cjyun.org/video/s10090-jltv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江陵经济生活 
+http://badong.live.cjyun.org/video/s10095-bdtv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",巴东综合 
+http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",大冶一套 
+http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",大冶二套 
+http://chibi.live.tempsource.cjyun.org/videotmp/s10138-CBTV1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",赤壁一套 
+http://jiayu.live.tempsource.cjyun.org/videotmp/s10131-jyzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",嘉鱼新闻综合 
+http://tongshan.live.cjyun.org/video/s10134-TONGSHAN-live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",通山综合 
+http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",鹤峰综合 
+http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",鹤峰影视 
+http://shennongjia.live.cjyun.org/video/s10144-SNJ-live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",神农架新闻综合 
+http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",广水新闻 
+http://gucheng.live.tempsource.cjyun.org/videotmp/s10116-GCTV1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",谷城综合 
+http://fangxian.tempsource.cjyun.org/videotmp/s10064-fxtv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",房县新闻综合 
+http://yangxin.live.cjyun.org/video/s10104-yxtv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",阳新新闻 
+http://zhongxiang.live.cjyun.org/video/s10103-zxtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",钟祥新闻综合 
+http://xuanen.live.cjyun.org/video/s10097-xezh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",宣恩综合 
+http://gongan.live.tempsource.cjyun.org/videotmp/10088-gatv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",公安综合 
+http://gongan.live.tempsource.cjyun.org/videotmp/s10088-gatv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",公安生活 
+http://gongan.live.tempsource.cjyun.org/videotmp/s10088-gatv3.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="象山新闻综合" tvg-logo="" group-title="地方台",象山新闻综合
-http://v.xstv.net/hls-live/live/_definst_/liveevent/2222.m3u8
+//v.xstv.net/hls-live/live/_definst_/liveevent/2222.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="萧山生活频道" tvg-logo="" group-title="地方台",萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="萧山新闻综合" tvg-logo="" group-title="地方台",萧山新闻综合
